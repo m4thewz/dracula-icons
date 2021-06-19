@@ -4,36 +4,36 @@
 </h1>
 
 <p align="center">
-    Tema de ícones escuro para desktops Linux
+  Dark Icons Theme for Linux Desktops
 </p>
 
 <p align="center">
-  <a href="#instalação">Instalação</a> •
-  <a href="#time">Time</a> •
-  <a href="#licença">Licença</a>
+  <a href="#instalação">Install</a> •
+  <a href="#time">Team</a> •
+  <a href="#licença">License</a>
 </p>
 
-## Instalação
-Faça o download do conteúdo do repositório e mova para `~/.icons` (crie-o se necessário). Ou para `/usr/share/icons` caso queira adicionar o tema para todos usuários.
+## Install
+Download the repository content and move to `~/.icons` (create it if necessary). Or to `/usr/share/icons` if you want to add the theme for all users.
 
-### Ativando o tema
-Para ativar o tema no Gnome, use esse comando em seu terminal:
+### Active the Theme
+To activate the theme in Gnome, use this command on your terminal:
 ```
 gsettings set org.gnome.desktop.interface icon-theme "Dracula"
 ```
 
-### Tema GTK (Opcional)
-Faça o download do conteúdo do repositório [GTK Dracula](https://github.com/matheuuus/dracula-theme) e mova para `~/.themes` (crie-o se necessário). Ou para `/usr/share/themes` caso queira adicionar o tema para todos usuários.
+### GTK Theme (Optional)
+Download repository content [GTK Dracula](https://github.com/matheuuus/dracula-theme) and move to `~/.themes` (create it if necessary). Or to `/usr/share/themes` if you want to add the theme for all users.
 
-<img alt="prévia" src="./Preview.png">
+<img alt="preview" src="./Preview.png">
 
-*Esse tema é apenas uma coleção de ícones, todos créditos à [Dracula Theme](https://draculatheme.com), [Tela-Circle-Icon](https://github.com/vinceliuice/Tela-circle-icon-theme) e [Icon Finder](https://www.iconfinder.com/)*
-## Time
+*This theme is just a collection of icons, all credits to [Dracula Theme](https://draculatheme.com), [Tela-Circle-Icon](https://github.com/vinceliuice/Tela-circle-icon-theme) and [Icon Finder](https://www.iconfinder.com/)*
+## Team
 
 [![Matheus Vitor](https://avatars0.githubusercontent.com/u/77175088?v=3&s=70)](https://github.com/matheuuus) | 
 --- | 
 [Matheus Vitor](https://github.com/matheuuus) | 
 
-## Licença
+## License
 
 [GPL-3.0 License](./LICENSE.md)
