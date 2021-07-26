@@ -1,7 +1,9 @@
-<svg width="20" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g fill="#d33636" fill-rule="evenodd">
-  <rect x="2" y="5" width="3" height="6" rx=".5048" ry=".54584" style="paint-order:stroke fill markers"/>
-  <path d="m2 3c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h13c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm0 1h13c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-13c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1z" enable-background="new" style="paint-order:stroke fill markers"/>
-  <path d="m18 6v4a2 2 0 0 0 2-2 2 2 0 0 0-2-2z" enable-background="new" style="paint-order:stroke fill markers"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="opacity:0.3;fill:currentColor" class="ColorScheme-NegativeText" d="M 6,1 V 2 H 3 V 14 C 3,14.554 3.446,15 4,15 H 11 V 6 H 13 V 2 H 10 V 1 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-NegativeText" d="M 12,7 V 11 L 12.25,13 H 13.75 L 14,11 V 7 Z M 12,14 V 16 H 14 V 14 Z"/>
 </svg>

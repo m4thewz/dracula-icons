@@ -1,5 +1,4 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect width="16" height="16" rx="3" ry="3" fill="#cd650b"/>
- <rect x="1" y="1" width="14" height="14" rx="2" ry="2" fill="#f57f17"/>
- <path d="M11.136 12.808l-3.13-1.64-3.127 1.648.593-3.484-2.534-2.464 3.497-.513 1.56-3.17L9.563 6.35l3.499.504-2.528 2.47z" fill="#fff" paint-order="stroke fill markers"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <rect style="fill:#e4e4e4" width="16" height="16" x="0" y="0" rx=".8" ry=".8"/>
+ <path style="fill:#f57f17" d="M 8,3 10,6 13,7 11,10 V 13 L 8,11 5,13 V 10 L 3,7 6,6 Z"/>
 </svg>

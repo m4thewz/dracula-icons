@@ -1,6 +1,3 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g transform='translate(-833 191.003)'>
-        
-        <path color='#000' d='M841.488-189.982A7.006 7.006 0 0 0 834-183a7.006 7.006 0 0 0 5.192 6.762c3.059.819 6.293-.52 7.877-3.262a.5.5 0 1 0-.868-.5 5.999 5.999 0 0 1-6.752 2.795A5.996 5.996 0 0 1 835-183a5.996 5.996 0 0 1 10.71-3.709L844-185h4v-4l-1.58 1.58a7.012 7.012 0 0 0-4.932-2.562z' fill='#dedede' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal' white-space='normal'/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:#dfdfdf" d="M 8,2 C 4.6863,2 2,4.6863 2,8 H 0 L 3,12 6,8 H 4 C 4,5.7909 5.7909,4 8,4 10.209,4 12,5.7909 12,8 12,10.209 10.209,12 8,12 A 1,1 0 0 0 7,13 1,1 0 0 0 8,14 1,1 0 0 0 8.0957,13.996 C 11.365,13.944 14,11.282 14,8 14,4.6863 11.314,2 8,2 Z"/>
 </svg>
