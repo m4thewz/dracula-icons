@@ -1,14 +1,99 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0 -280.07)">
-  <circle cx="8.4665" cy="288.53" r="7.1436" fill="#ee4c4c" style="paint-order:stroke markers fill"/>
-  <circle cx="8.467" cy="288.53" r="5.821" opacity=".15" paint-order="stroke markers fill"/>
-  <g fill="#fff">
-   <path d="M3.704 288.533a4.763 4.763 0 0 0 4.763 4.763c.158-.199.158-.41 0-.635a4.127 4.127 0 0 1-4.128-4.128z" opacity=".5"/>
-   <path d="M8.467 283.77a4.762 4.762 0 0 0-4.763 4.763h.635a4.127 4.127 0 0 1 4.128-4.127 4.127 4.127 0 0 1 4.127 4.127 4.127 4.127 0 0 1-4.127 4.128v.635a4.762 4.762 0 0 0 4.762-4.763 4.762 4.762 0 0 0-4.762-4.762"/>
-   <path d="M3.882 287.263a4.762 4.762 0 0 0-.178 1.27 4.762 4.762 0 0 0 .291 1.63l1.932-2.9H3.882"/>
-   <rect x="8.202" y="285.36" width=".529" height="3.175" ry=".265" opacity=".9" paint-order="stroke markers fill"/>
-   <rect transform="scale(1 -1) rotate(45)" x="-198.17" y="-213.32" width=".265" height="3.175" ry="0" opacity=".5" paint-order="stroke markers fill"/>
-   <circle cx="8.467" cy="288.53" r=".529" paint-order="stroke fill markers"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg16724"
+   sodipodi:docname="timeshift.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16728" />
+  <sodipodi:namedview
+     id="namedview16726"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16724" />
+  <g
+     transform="translate(0 -280.07)"
+     id="g16722">
+    <circle
+       cx="8.4665"
+       cy="288.53"
+       r="7.1436"
+       fill="#ee4c4c"
+       style="paint-order:stroke markers fill;fill:#ff5555"
+       id="circle16704" />
+    <circle
+       cx="8.467"
+       cy="288.53"
+       r="5.821"
+       opacity=".15"
+       paint-order="stroke markers fill"
+       id="circle16706" />
+    <g
+       fill="#f8f8f2"
+       id="g16720"
+       style="fill:#f8f8f2">
+      <path
+         d="M3.704 288.533a4.763 4.763 0 0 0 4.763 4.763c.158-.199.158-.41 0-.635a4.127 4.127 0 0 1-4.128-4.128z"
+         opacity=".5"
+         id="path16708"
+         style="fill:#f8f8f2" />
+      <path
+         d="M8.467 283.77a4.762 4.762 0 0 0-4.763 4.763h.635a4.127 4.127 0 0 1 4.128-4.127 4.127 4.127 0 0 1 4.127 4.127 4.127 4.127 0 0 1-4.127 4.128v.635a4.762 4.762 0 0 0 4.762-4.763 4.762 4.762 0 0 0-4.762-4.762"
+         id="path16710"
+         style="fill:#f8f8f2" />
+      <path
+         d="M3.882 287.263a4.762 4.762 0 0 0-.178 1.27 4.762 4.762 0 0 0 .291 1.63l1.932-2.9H3.882"
+         id="path16712"
+         style="fill:#f8f8f2" />
+      <rect
+         x="8.202"
+         y="285.36"
+         width=".529"
+         height="3.175"
+         ry=".265"
+         opacity=".9"
+         paint-order="stroke markers fill"
+         id="rect16714"
+         style="fill:#f8f8f2" />
+      <rect
+         transform="scale(1 -1) rotate(45)"
+         x="-198.17"
+         y="-213.32"
+         width=".265"
+         height="3.175"
+         ry="0"
+         opacity=".5"
+         paint-order="stroke markers fill"
+         id="rect16716"
+         style="fill:#f8f8f2" />
+      <circle
+         cx="8.467"
+         cy="288.53"
+         r=".529"
+         paint-order="stroke fill markers"
+         id="circle16718"
+         style="fill:#f8f8f2" />
+    </g>
   </g>
- </g>
 </svg>

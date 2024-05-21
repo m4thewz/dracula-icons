@@ -1,8 +1,65 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <g>
-  <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#4caf50" style="paint-order:stroke fill markers"/>
-  <path d="m9.8473 2.5466 4.5381 4.5381c-0.52723-2.2523-2.2858-4.0109-4.5381-4.5381z" fill="#fff" opacity=".5" stroke-width=".85185" style="paint-order:stroke fill markers"/>
-  <path d="m8.1952 2.391c-3.2506 0.14506-5.812 2.8216-5.814 6.0755-1e-7 3.3608 2.7245 6.0853 6.0853 6.0853 3.2538-4e-3 5.9287-2.567 6.0719-5.8176z" fill="#fff" stroke-width=".85185" style="paint-order:stroke fill markers"/>
- </g>
- <path transform="scale(.26458)" d="m19 29v17.002h26v-17.002h-26zm2 2h5.998v3.002h-5.998v-3.002zm8 0h6v3.002h-6v-3.002zm8.002 0h5.998v3.002h-5.998v-3.002zm-16.002 5h5.998v3.002h-5.998v-3.002zm8 0h6v3.002h-6v-3.002zm8.002 0h5.998v3.002h-5.998v-3.002zm-16.002 5.002h5.998v3h-5.998v-3zm8 0h6v3h-6v-3zm8.002 0h5.998v3h-5.998v-3z" fill="#ccc" stroke-width="3.7796" style="paint-order:markers stroke fill"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg12762"
+   sodipodi:docname="libreoffice-calc.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12766" />
+  <sodipodi:namedview
+     id="namedview12764"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.83317"
+     inkscape:cy="32.031403"
+     inkscape:window-width="1280"
+     inkscape:window-height="1361"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12762" />
+  <g
+     id="g12758">
+    <circle
+       cx="8.4665"
+       cy="8.4665"
+       r="7.1436"
+       fill="#44c367"
+       style="paint-order:stroke fill markers;fill:#44c367"
+       id="circle12752" />
+    <path
+       d="m9.8473 2.5466 4.5381 4.5381c-0.52723-2.2523-2.2858-4.0109-4.5381-4.5381z"
+       fill="#f8f8f2"
+       opacity=".5"
+       stroke-width=".85185"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
+       id="path12754" />
+    <path
+       d="m8.1952 2.391c-3.2506 0.14506-5.812 2.8216-5.814 6.0755-1e-7 3.3608 2.7245 6.0853 6.0853 6.0853 3.2538-4e-3 5.9287-2.567 6.0719-5.8176z"
+       fill="#f8f8f2"
+       stroke-width=".85185"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
+       id="path12756" />
+  </g>
+  <path
+     transform="scale(.26458)"
+     d="m19 29v17.002h26v-17.002h-26zm2 2h5.998v3.002h-5.998v-3.002zm8 0h6v3.002h-6v-3.002zm8.002 0h5.998v3.002h-5.998v-3.002zm-16.002 5h5.998v3.002h-5.998v-3.002zm8 0h6v3.002h-6v-3.002zm8.002 0h5.998v3.002h-5.998v-3.002zm-16.002 5.002h5.998v3h-5.998v-3zm8 0h6v3h-6v-3zm8.002 0h5.998v3h-5.998v-3z"
+     fill="#cbcccc"
+     stroke-width="3.7796"
+     style="paint-order:markers stroke fill;fill:#9ea0a6"
+     id="path12760" />
 </svg>

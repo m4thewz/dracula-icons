@@ -1,6 +1,6 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#333" style="paint-order:stroke fill markers"/>
- <g fill="#fff">
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#282a36" style="paint-order:stroke fill markers"/>
+ <g fill="#f8f8f2">
   <path transform="scale(.26458)" d="m32 5a27 27 0 0 0-27 27 27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-27-27z" opacity=".1" stroke-width="5.3645"/>
   <path transform="scale(.26458)" d="m31.998 5v54a27 27 0 0 0 0.001953 0 27 27 0 0 0 27-27 27 27 0 0 0-27-27 27 27 0 0 0-0.001953 0z" opacity=".1" stroke-width="5.3645"/>
   <g transform="translate(0 1.0648)" style="paint-order:stroke markers fill">

@@ -1,6 +1,6 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#2196f3" style="paint-order:stroke fill markers"/>
- <g transform="matrix(.22689 0 0 .22689 3.4376 .95828)" fill="#fff">
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#13b1d5" style="paint-order:stroke fill markers"/>
+ <g transform="matrix(.22689 0 0 .22689 3.4376 .95828)" fill="#f8f8f2">
   <g transform="matrix(.71829 0 0 .71829 2.7912 12.923)">
    <rect x=".52434" y="14.445" width="16.695" height="12.328" ry="2.6356"/>
    <rect x="19.651" y="14.445" width="16.695" height="12.328" ry="2.6356"/>

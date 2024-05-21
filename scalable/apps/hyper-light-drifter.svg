@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.934 16.934"
+   version="1.1"
+   id="svg40"
+   sodipodi:docname="hyper-light-drifter.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs44" />
+  <sodipodi:namedview
+     id="namedview42"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg40" />
+  <circle
+     cx="8.467"
+     cy="8.467"
+     r="7.144"
+     fill="#282a36"
+     id="circle2"
+     style="fill:#44475a" />
+  <path
+     fill="#444e63"
+     d="m7.143 12.314.39.262.012-.011v1.279l.441.289v-2.297z"
+     id="path4"
+     style="fill:#515d85" />
+  <path
+     fill="#931b1a"
+     d="M7.413 6.43v.12l-.477.243v1.613l-.45.266v3.54l.405.275 3.551-2.24v-3.41l-.372-.165V5.506l-.474-.252z"
+     id="path6"
+     style="fill:#c7484a" />
+  <path
+     fill="#444e63"
+     d="m9.236 11.462-.001 1.86-.45-.3v-1.853z"
+     id="path8"
+     style="fill:#515d85" />
+  <path
+     fill="#ec7676"
+     d="M6.89 9.416v3.073l3.554-2.248V7.349z"
+     id="path10"
+     style="fill:#fd7e7c;opacity:0.7" />
+  <path
+     fill="#df8f8f"
+     d="M7.335 7.568v1.067l-.447.259v.523l.472-.25v.51l2.661-1.597V7.6l.427-.253-.007-.513-.37.226V6.036l-.466.257z"
+     id="path12"
+     style="fill:#fd7e7c;opacity:0.99999999" />
+  <path
+     fill="#e5292a"
+     d="M7.789 6.212v.563l-.455.247v.551l.478-.267v.539l1.832-1.048v-.523l.425-.236v-.54l-.42.243v-.529l-.45.259v.534l-.932.515v-.549z"
+     id="path14"
+     style="fill:#ff5555" />
+  <path
+     fill="#a3a6b4"
+     d="M7.32 5.37v1.116l2.74-1.472V3.95z"
+     id="path16"
+     style="fill:#cbcccc" />
+  <path
+     fill="#ec7676"
+     d="m9.647 4.164-.443.23v.54l.443-.235zm-.443.77-.94.502v.543l.94-.505zm-.94.502V4.88l-.466.242v.563z"
+     id="path18"
+     style="fill:#fd7e7c" />
+  <path
+     fill="#3a4455"
+     d="m8.762 3.586-.83.426.15.37 1.135-.533z"
+     id="path20"
+     style="fill:#282a36;opacity:0.5" />
+  <path
+     fill="#67759c"
+     d="m7.33 5.371-.477-.258L9.632 3.71l.43.239z"
+     id="path22"
+     style="fill:#6272a4" />
+  <path
+     fill="#444e63"
+     d="M8.734 3.029v.576l.457.236v-.58z"
+     id="path24"
+     style="fill:#515d85" />
+  <path
+     fill="#67759c"
+     d="m7.803 3.972.461-.24-.468-.241-.476.246z"
+     id="path26"
+     style="fill:#6272a4" />
+  <path
+     fill="#a3a6b4"
+     d="M7.8 3.968v1.157l1.851-.963V3.03l-.46.232v.605l-.93.449v-.584z"
+     id="path28"
+     style="fill:#8894b8" />
+  <path
+     fill="#67759c"
+     d="m9.194 3.265.46-.233-.457-.235-.463.237z"
+     id="path30"
+     style="fill:#6272a4" />
+  <path
+     fill="#7384aa"
+     d="M7.799 5.13v-.621l1.853-.89.001.546z"
+     id="path32"
+     style="fill:#6272a4" />
+  <path
+     fill="#444e63"
+     d="m7.798 5.132-.474-.256-.002-1.137.476.23zm-.944-.018.47.255-.003 1.116-.466-.267z"
+     id="path34"
+     style="fill:#515d85" />
+  <path
+     fill="#67759c"
+     d="M8.382 7.523v1.64l.86-.498V7.033zm-.398 4.754v1.86l.45-.3v-1.853zm1.252-.815v1.86l.45-.3v-1.853z"
+     id="path36"
+     style="fill:#6272a4" />
+  <path
+     fill="#a3a6b4"
+     d="M7.529 12.083v.496l2.536-1.646v-.452l-.835.521.011-2.455-.857.523-.012 2.466z"
+     id="path38" />
+</svg>

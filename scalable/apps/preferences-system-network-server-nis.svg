@@ -1,18 +1,109 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <rect x="6" y="6" width="52" height="52" rx="2" ry="2" fill="#3e4245" style="paint-order:stroke markers fill"/>
- <path d="m12 15h24v2h-24z" fill="#fff"/>
- <circle cx="43" cy="16" r="2" fill="#72d406"/>
- <circle cx="51" cy="16" r="2" fill="#72d406"/>
- <g fill="#fff">
-  <path d="m12 31h24v2h-24z"/>
-  <circle cx="43" cy="32" r="2"/>
-  <circle cx="51" cy="32" r="2"/>
-  <path d="m12 47h24v2h-24z"/>
- </g>
- <g fill-rule="evenodd">
-  <rect x="6" y="22" width="52" height="3" rx="0" ry="0" fill="#00000f" opacity=".5" style="paint-order:fill markers stroke"/>
-  <rect x="6" y="38" width="52" height="3" rx="0" ry="0" fill="#00000f" opacity=".5" style="paint-order:fill markers stroke"/>
-  <circle cx="46" cy="46" r="18" fill="#6156e3" style="paint-order:fill markers stroke"/>
- </g>
- <path d="m52 46c-1.662 0-3 1.338-3 3v3h-2v6h10v-6h-2v-3c0-1.662-1.338-3-3-3zm0 2c0.554 0 1 0.446 1 1v3h-2v-3c0-0.554 0.446-1 1-1zm-7 0a10 9 0 0 0-10 9 10 9 0 0 0 0.066 1h9.934v-2h-7.91a8 7 0 0 1 7.91-6zm0-14a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6zm0 2a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4z" fill="#fff"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg38726"
+   sodipodi:docname="preferences-system-network-server-nis.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs38730" />
+  <sodipodi:namedview
+     id="namedview38728"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38726" />
+  <rect
+     width="54"
+     height="54"
+     x="5"
+     y="5"
+     fill="#44475a"
+     rx="27"
+     ry="27"
+     style="paint-order:stroke markers fill"
+     id="rect38700" />
+  <path
+     fill="#f8f8f2"
+     d="M16 15h19v2H16z"
+     id="path38702" />
+  <circle
+     cx="40"
+     cy="16"
+     r="2"
+     fill="#44c367"
+     id="circle38704" />
+  <circle
+     cx="47"
+     cy="16"
+     r="2"
+     fill="#44c367"
+     id="circle38706" />
+  <path
+     fill="#f8f8f2"
+     d="M11 31h24v2H11z"
+     id="path38708" />
+  <circle
+     cx="40"
+     cy="32"
+     r="2"
+     fill="#44c367"
+     id="circle38710" />
+  <circle
+     cx="47"
+     cy="32"
+     r="2"
+     fill="#44c367"
+     id="circle38712" />
+  <path
+     fill="#f8f8f2"
+     d="M16 47h19v2H16z"
+     id="path38714" />
+  <path
+     d="M6.906 22c-.386.974-.72 1.974-.992 3h52.172a26.803 26.803 0 0 0-.992-3zM5.672 38c.23 1.023.517 2.025.86 3h50.937c.343-.975.629-1.977.86-3z"
+     opacity=".25"
+     style="paint-order:fill markers stroke"
+     id="path38716" />
+  <circle
+     cx="40"
+     cy="48"
+     r="2"
+     fill="#44c367"
+     id="circle38718" />
+  <circle
+     cx="47"
+     cy="48"
+     r="2"
+     fill="#44c367"
+     id="circle38720" />
+  <circle
+     cx="46"
+     cy="46"
+     r="18"
+     fill="#6156e3"
+     fill-rule="evenodd"
+     style="paint-order:fill markers stroke;fill:#7b7bbd"
+     id="circle38722" />
+  <path
+     fill="#f8f8f2"
+     d="M52 46c-1.662 0-3 1.338-3 3v3h-2v6h10v-6h-2v-3c0-1.662-1.338-3-3-3zm0 2c.554 0 1 .446 1 1v3h-2v-3c0-.554.446-1 1-1zm-7 0a10 9 0 0 0-10 9 10 9 0 0 0 .066 1H45v-2h-7.91A8 7 0 0 1 45 50zm0-14a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6zm0 2a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4z"
+     id="path38724" />
 </svg>

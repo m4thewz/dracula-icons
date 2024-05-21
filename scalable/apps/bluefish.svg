@@ -1,13 +1,83 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#f9f9f9" style="paint-order:stroke fill markers"/>
- <g transform="matrix(.74075 0 0 .74075 8.2963 8.2963)">
-  <path d="m25.608 11.428c-11.418 0.31231-19.323 9.5646-19.323 21.543 0 11.979 9.0133 22.015 19.481 22.171 9.4732 0.12948 19.666-9.8629 23.053-17.618 1.5754 3.7649 4.6676 8.6186 10.18 8.6182 0 0-2.5714-6.7958-2.5714-13.041 0-6.245 2.5714-12.674 2.5714-12.674-5.6129 0-8.7253 4.9641-10.273 8.7011-3.4251-6.7421-13.304-17.576-23.117-17.702z" fill="#4b81c4" stroke-width=".99999"/>
-  <path d="m26.857 22.998a7.7142 10.282 0 1 1-15.428 0 7.7142 10.282 0 1 1 15.428 0z" fill="#fff" opacity=".9" stroke-width=".99999"/>
-  <g transform="matrix(1.2857,0,0,1.2857,1.1429,-19.429)" stroke-width=".77778">
-   <path d="M 20,33 C 19.00581,32.11198 15.7442,26.7954 8,30.1751 8,26.8018 9.3438,22 13.7444,22 19.3768,22.17463 20,29.6267 20,33 Z" fill="#75bfd4"/>
-   <path d="m16 34.001a2 2 0 0 1-4 0 2 2 0 1 1 4 0z" fill="#272b2d"/>
-   <path d="m14.5 33.1a1 1 0 0 1-2 0 1 1 0 1 1 2 0z" fill="#fff" opacity=".35"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1"
+   id="svg20"
+   sodipodi:docname="bluefish.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     id="namedview22"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#f8f8f2"
+     style="paint-order:stroke fill markers"
+     id="circle2" />
+  <g
+     transform="matrix(.74075 0 0 .74075 8.2963 8.2963)"
+     id="g18">
+    <path
+       d="m25.608 11.428c-11.418 0.31231-19.323 9.5646-19.323 21.543 0 11.979 9.0133 22.015 19.481 22.171 9.4732 0.12948 19.666-9.8629 23.053-17.618 1.5754 3.7649 4.6676 8.6186 10.18 8.6182 0 0-2.5714-6.7958-2.5714-13.041 0-6.245 2.5714-12.674 2.5714-12.674-5.6129 0-8.7253 4.9641-10.273 8.7011-3.4251-6.7421-13.304-17.576-23.117-17.702z"
+       fill="#4b81c4"
+       stroke-width=".99999"
+       id="path4"
+       style="fill:#6272a4" />
+    <path
+       d="m26.857 22.998a7.7142 10.282 0 1 1-15.428 0 7.7142 10.282 0 1 1 15.428 0z"
+       fill="#f8f8f2"
+       opacity=".9"
+       stroke-width=".99999"
+       id="path6" />
+    <g
+       transform="matrix(1.2857,0,0,1.2857,1.1429,-19.429)"
+       stroke-width=".77778"
+       id="g14">
+      <path
+         d="M 20,33 C 19.00581,32.11198 15.7442,26.7954 8,30.1751 8,26.8018 9.3438,22 13.7444,22 19.3768,22.17463 20,29.6267 20,33 Z"
+         fill="#75bfd4"
+         id="path8"
+         style="fill:#72bfd0" />
+      <path
+         d="m16 34.001a2 2 0 0 1-4 0 2 2 0 1 1 4 0z"
+         fill="#272b2d"
+         id="path10"
+         style="fill:#282a36" />
+      <path
+         d="m14.5 33.1a1 1 0 0 1-2 0 1 1 0 1 1 2 0z"
+         fill="#f8f8f2"
+         opacity=".35"
+         id="path12" />
+    </g>
+    <path
+       d="m19.143 41.642c0 2.4853-7.1575 4.5-9.6428 4.5-2.4853 0-4.5-2.0147-4.5-4.5s2.0147-4.5 4.5-4.5c2.4853 0 9.6428 2.0147 9.6428 4.5z"
+       fill="#75bfd4"
+       stroke-width=".99999"
+       id="path16"
+       style="fill:#72bfd0" />
   </g>
-  <path d="m19.143 41.642c0 2.4853-7.1575 4.5-9.6428 4.5-2.4853 0-4.5-2.0147-4.5-4.5s2.0147-4.5 4.5-4.5c2.4853 0 9.6428 2.0147 9.6428 4.5z" fill="#75bfd4" stroke-width=".99999"/>
- </g>
 </svg>

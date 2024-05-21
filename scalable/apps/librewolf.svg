@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="librewolf.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <g
+     transform="translate(3.826 3.826) scale(1.1739)"
+     id="g6">
+    <circle
+       cx="24"
+       cy="24"
+       r="23"
+       fill="#26a6e4"
+       id="circle2"
+       style="fill:#13b1d5" />
+    <path
+       fill="#d8eff6"
+       d="M24 9C15.716 9 9 15.716 9 24s6.716 15 15 15 15-6.716 15-15S32.284 9 24 9zm0 2c7.18 0 13 5.82 13 13a13 13 0 0 1-9.982 12.629C27 33 29 31 29 30v-3s3-5 5-7c0-2-1-1.394-1-1.394V18l-1 1s1-3-1-4c-2 1-4 3-4 3h-2l-3 2c-2 0-4 0-5 1s2 3 2 3l-4 7-1.441.72A13 13 0 0 1 11 24c0-7.18 5.82-13 13-13zm1 8h2l-2 1h-1z"
+       id="path4"
+       style="fill:#a6edfa" />
+  </g>
+</svg>

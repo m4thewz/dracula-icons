@@ -1,8 +1,66 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0 -280.07)" paint-order="stroke markers fill">
-  <circle cx="8.4665" cy="288.53" r="7.1436" fill="#90e361"/>
-  <path d="M8.467 282.713a5.82 5.82 0 0 0-3.705 1.336v.707a5.292 5.292 0 0 0-1.587 3.777 5.292 5.292 0 0 0 1.587 3.773v.714a5.82 5.82 0 0 0 3.705 1.334 5.82 5.82 0 0 0 5.82-5.82 5.82 5.82 0 0 0-5.82-5.821z" opacity=".18"/>
-  <rect x="4.762" y="287.21" width="7.408" height="2.646" ry="1.323" fill="#fff" opacity=".35"/>
-  <circle cx="10.583" cy="288.53" r="2.117" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg12"
+   sodipodi:docname="preferences-plugin.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <g
+     transform="translate(0 -280.07)"
+     paint-order="stroke markers fill"
+     id="g10">
+    <circle
+       cx="8.4665"
+       cy="288.53"
+       r="7.1436"
+       fill="#90e361"
+       id="circle2"
+       style="fill:#50fa7b" />
+    <path
+       d="M8.467 282.713a5.82 5.82 0 0 0-3.705 1.336v.707a5.292 5.292 0 0 0-1.587 3.777 5.292 5.292 0 0 0 1.587 3.773v.714a5.82 5.82 0 0 0 3.705 1.334 5.82 5.82 0 0 0 5.82-5.82 5.82 5.82 0 0 0-5.82-5.821z"
+       opacity=".18"
+       id="path4" />
+    <rect
+       x="4.762"
+       y="287.21"
+       width="7.408"
+       height="2.646"
+       ry="1.323"
+       fill="#f8f8f2"
+       opacity=".35"
+       id="rect6" />
+    <circle
+       cx="10.583"
+       cy="288.53"
+       r="2.117"
+       fill="#f8f8f2"
+       id="circle8" />
+  </g>
 </svg>

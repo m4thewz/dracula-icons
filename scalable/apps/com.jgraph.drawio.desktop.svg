@@ -1,15 +1,114 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <style type="text/css">.st0{fill:#F08705;}
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 64 64"
+   id="svg12490"
+   sodipodi:docname="com.jgraph.drawio.desktop.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12494" />
+  <sodipodi:namedview
+     id="namedview12492"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.83317"
+     inkscape:cy="32.031403"
+     inkscape:window-width="1280"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12490" />
+  <style
+     type="text/css"
+     id="style12470">.st0{fill:#F08705;}
 	.st1{fill:#DF6C0C;}
 	.st2{fill:#FFFFFF;}
-	.st3{fill:#333333;}</style>
- <circle cx="32" cy="32" r="27" fill="#f08705" style="paint-order:stroke fill markers"/>
- <circle cx="32" cy="32" r="23" fill="#fff" opacity=".1" stroke-width=".85185" style="paint-order:stroke fill markers"/>
- <path d="m27 25-6.5063 11h3.375l5.8262-9.9512h4.6445l5.8594 9.9512h3.3613l-6.5601-11z" fill="#fff" opacity=".5" stroke-width=".33418"/>
- <path d="m28 16c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2h-8zm0 2h8v6h-8v-6z" fill="#fff" style="paint-order:stroke fill markers"/>
- <rect x="28" y="18" width="8" height="6" rx="0" ry="0" fill="#fff" opacity=".5" stroke-width=".63246" style="paint-order:stroke fill markers"/>
- <path d="m17 36c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm0 2h8v6h-8z" fill="#fff" style="paint-order:stroke fill markers"/>
- <rect x="17" y="38" width="8" height="6" rx="0" ry="0" fill="#fff" opacity=".5" stroke-width=".63246" style="paint-order:stroke fill markers"/>
- <path d="m39 36c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm0 2h8v6h-8z" fill="#fff" style="paint-order:stroke fill markers"/>
- <rect x="39" y="38" width="8" height="6" rx="0" ry="0" fill="#fff" opacity=".5" stroke-width=".63246" style="paint-order:stroke fill markers"/>
+	.st3{fill:#282a36;}</style>
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#f08705"
+     style="paint-order:stroke fill markers;fill:#c7925b"
+     id="circle12472" />
+  <circle
+     cx="32"
+     cy="32"
+     r="23"
+     fill="#f8f8f2"
+     opacity=".1"
+     stroke-width=".85185"
+     style="paint-order:stroke fill markers"
+     id="circle12474" />
+  <path
+     d="m27 25-6.5063 11h3.375l5.8262-9.9512h4.6445l5.8594 9.9512h3.3613l-6.5601-11z"
+     fill="#f8f8f2"
+     opacity=".5"
+     stroke-width=".33418"
+     id="path12476" />
+  <path
+     d="m28 16c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2h-8zm0 2h8v6h-8v-6z"
+     fill="#f8f8f2"
+     style="paint-order:stroke fill markers"
+     id="path12478" />
+  <rect
+     x="28"
+     y="18"
+     width="8"
+     height="6"
+     rx="0"
+     ry="0"
+     fill="#f8f8f2"
+     opacity=".5"
+     stroke-width=".63246"
+     style="paint-order:stroke fill markers"
+     id="rect12480" />
+  <path
+     d="m17 36c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm0 2h8v6h-8z"
+     fill="#f8f8f2"
+     style="paint-order:stroke fill markers"
+     id="path12482" />
+  <rect
+     x="17"
+     y="38"
+     width="8"
+     height="6"
+     rx="0"
+     ry="0"
+     fill="#f8f8f2"
+     opacity=".5"
+     stroke-width=".63246"
+     style="paint-order:stroke fill markers"
+     id="rect12484" />
+  <path
+     d="m39 36c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm0 2h8v6h-8z"
+     fill="#f8f8f2"
+     style="paint-order:stroke fill markers"
+     id="path12486" />
+  <rect
+     x="39"
+     y="38"
+     width="8"
+     height="6"
+     rx="0"
+     ry="0"
+     fill="#f8f8f2"
+     opacity=".5"
+     stroke-width=".63246"
+     style="paint-order:stroke fill markers"
+     id="rect12488" />
 </svg>

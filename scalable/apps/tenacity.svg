@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   fill="none"
+   version="1.1"
+   id="svg25"
+   sodipodi:docname="tenacity.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview27"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg25" />
+  <circle
+     cx="32"
+     cy="32"
+     r="25.5"
+     fill="#f8f8f2"
+     id="circle2" />
+  <circle
+     cx="32"
+     cy="32"
+     r="25.5"
+     fill="url(#a)"
+     fill-opacity=".02"
+     id="circle4" />
+  <circle
+     cx="32"
+     cy="32"
+     r="25.5"
+     stroke="url(#b)"
+     stroke-width="3"
+     id="circle6" />
+  <path
+     fill="url(#c)"
+     d="M19 28.667H6v6.666h13v10h6.5v-6.666H32V52h6.5V42H45v-6.667h13v-6.666H45V22h-6.5V12H32v13.333h-6.5v-6.666H19v10Z"
+     id="path8" />
+  <defs
+     id="defs23">
+    <linearGradient
+       id="a"
+       x1="13"
+       x2="51"
+       y1="51"
+       y2="13"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="1"
+         stop-color="#E83B19"
+         id="stop10"
+         style="stop-color:#ff5555;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       x1="13"
+       x2="51"
+       y1="51"
+       y2="13"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#CC173C"
+         id="stop13"
+         offset="0"
+         style="stop-color:#c7484a;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#E83B19"
+         id="stop15"
+         style="stop-color:#ff5555;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="c"
+       x1="13"
+       x2="39.195"
+       y1="51"
+       y2="6.111"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#CC173C"
+         id="stop18"
+         offset="0"
+         style="stop-color:#c7484a;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#E83B19"
+         id="stop20"
+         style="stop-color:#ff5555;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+</svg>

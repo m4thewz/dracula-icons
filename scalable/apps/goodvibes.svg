@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 64 64"
+   id="svg30"
+   sodipodi:docname="goodvibes.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs34" />
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="30.335623"
+     inkscape:cy="32.062807"
+     inkscape:window-width="2560"
+     inkscape:window-height="1364"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30" />
+  <rect
+     x="5"
+     y="5"
+     width="54"
+     height="54"
+     rx="27"
+     ry="27"
+     fill="#ececec"
+     stroke-width="1.0385"
+     id="rect2"
+     style="fill:#f8f8f2" />
+  <rect
+     transform="rotate(-15)"
+     x="9.999"
+     y="25.582"
+     width="24"
+     height="1"
+     fill="#abb5b8"
+     stop-color="#000000"
+     stroke-miterlimit="0"
+     stroke-width=".3886"
+     id="rect4"
+     style="fill:#9ea0a6" />
+  <rect
+     x="12"
+     y="22"
+     width="40"
+     height="25"
+     rx="3"
+     ry="3"
+     fill="#f9ae37"
+     stroke-miterlimit="0"
+     stroke-width=".37795"
+     id="rect6"
+     style="fill:#ffb86c" />
+  <rect
+     x="15"
+     y="25"
+     width="11"
+     height="5"
+     rx="1"
+     ry="1"
+     fill="#ffffff"
+     stroke-miterlimit="0"
+     stroke-width=".37795"
+     id="rect8"
+     style="fill:#f8f8f2" />
+  <path
+     d="m16 26v2h1v-2zm2 0v2h1v-2zm2 0v2h1v-2zm4 0v2h1v-2z"
+     fill="#45443f"
+     stop-color="#000000"
+     stroke-miterlimit="0"
+     stroke-width=".37795"
+     style="font-variation-settings:normal;fill:#44475a"
+     id="path10" />
+  <rect
+     x="22"
+     y="25"
+     width="1"
+     height="5"
+     fill="#e64b3b"
+     stop-color="#000000"
+     stroke-miterlimit="0"
+     stroke-width=".42256"
+     style="font-variation-settings:normal;fill:#c7484a"
+     id="rect12" />
+  <rect
+     x="48"
+     y="31"
+     width="4"
+     height="2"
+     fill="#26ab5e"
+     stop-color="#000000"
+     style="font-variation-settings:normal;fill:#44c367"
+     id="rect14" />
+  <rect
+     x="48"
+     y="35"
+     width="4"
+     height="2"
+     fill="#bb382c"
+     stop-color="#000000"
+     style="font-variation-settings:normal;fill:#c7484a"
+     id="rect16" />
+  <path
+     d="m24.423 42.563a5.655 5.655 0 0 1-7.9961-0.14024 5.655 5.655 0 0 1 0.14024-7.9961 5.655 5.655 0 0 1 7.9961 0.14024 5.655 5.655 0 0 1-0.14024 7.9961z"
+     fill="#a3adad"
+     stop-color="#000000"
+     stroke-miterlimit="0"
+     stroke-width=".3886"
+     style="font-variation-settings:normal;fill:#9ea0a6"
+     id="path18" />
+  <path
+     d="m16.537 34.455a5.655 5.655 0 0 0-0.37565 0.40603l2.2194 2.2194 0.70711-0.70711-2.218-2.218a5.655 5.655 0 0 0-0.33284 0.29969zm-0.9557 1.2402a5.655 5.655 0 0 0-0.74025 2.7014 5.655 5.655 0 0 0 5.556 5.7521 5.655 5.655 0 0 0 5.7521-5.556 5.655 5.655 0 0 0-5.556-5.7521 5.655 5.655 0 0 0-2.8878 0.73611l0.73887 0.73887a4.655 4.655 0 0 1 2.1324-0.47509 4.655 4.655 0 0 1 4.5727 4.7357 4.655 4.655 0 0 1-4.7357 4.5727 4.655 4.655 0 0 1-4.5727-4.7357 4.655 4.655 0 0 1 0.47923-1.9791z"
+     fill="#5d6768"
+     stop-color="#000000"
+     stroke-miterlimit="0"
+     stroke-width=".3886"
+     style="font-variation-settings:normal;fill:#717380"
+     id="path20" />
+  <circle
+     cx="39.5"
+     cy="34.5"
+     r="9.9"
+     fill="#9aa4a6"
+     stop-color="#000000"
+     style="font-variation-settings:normal;fill:#9ea0a6"
+     id="circle22" />
+  <circle
+     transform="rotate(135)"
+     cx="-3.5355"
+     cy="-52.326"
+     r="6.5"
+     fill="#afb7ba"
+     stop-color="#000000"
+     style="font-variation-settings:normal;fill:#cbcccc"
+     id="circle24" />
+  <circle
+     transform="rotate(135)"
+     cx="-3.5355"
+     cy="-52.326"
+     r="2.5"
+     fill="#45443f"
+     stop-color="#000000"
+     style="font-variation-settings:normal;fill:#44475a"
+     id="circle26" />
+  <path
+     d="m39.5 24.6a9.9 9.9 0 0 0-9.9004 9.9004 9.9 9.9 0 0 0 9.9004 9.9004 9.9 9.9 0 0 0 9.9004-9.9004 9.9 9.9 0 0 0-9.9004-9.9004zm0 1a8.9 8.9 0 0 1 8.9004 8.9004 8.9 8.9 0 0 1-8.9004 8.9004 8.9 8.9 0 0 1-8.9004-8.9004 8.9 8.9 0 0 1 8.9004-8.9004z"
+     fill="#5d6768"
+     stop-color="#000000"
+     style="font-variation-settings:normal;fill:#717380"
+     id="path28" />
+</svg>

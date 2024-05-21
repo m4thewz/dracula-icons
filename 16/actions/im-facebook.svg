@@ -1,13 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#FFFFFF;
-      }
-      </style>
-  </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="m12.02 13.941h-2.616v-5.648h-1.407v-2.294h1.407v-1.21c0-1.786.738-2.848 2.835-2.848h1.746v2.19h-1.091c-.816 0-.87.306-.87.877l-.003.992h1.977l-.231 2.294h-1.746z"
-     class="ColorScheme-Text"
-     />
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 9,2 C 7,2 6,3 6,5 V 7 H 5 C 4,7 4,8 4,8 4,8 4,9 5,9 H 6 V 14 C 6,15 7,15 7,15 7,15 8,15 8,14 V 9 H 9 C 10,9 10,8 10,8 10,8 10,7 9,7 H 8 V 5 C 8,5 8,4 9,4 10,4 10,3 10,3 10,3 10,2 9,2 Z"/>
 </svg>

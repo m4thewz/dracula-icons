@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="haruna.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#3a4049"
+     id="circle2"
+     style="fill:#44475a" />
+  <path
+     fill="#cbcccc"
+     d="M18 18v28h9.333V35.5h9.334V46H46V18h-9.333v10.5h-9.334V18zm2.333 3.5H25v4.667h-4.667zM39 21.5h4.667v4.667H39zm-18.667 8.167H25v4.666h-4.667zm18.667 0h4.667v4.666H39zm-18.667 8.166H25V42.5h-4.667zm18.667 0h4.667V42.5H39z"
+     style="paint-order:normal"
+     id="path4" />
+</svg>

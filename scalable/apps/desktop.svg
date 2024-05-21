@@ -1,14 +1,111 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-1.2858e-8 -280.07)">
-  <rect x="1.3229" y="281.39" width="14.287" height="14.287" ry="7.1436" fill="#8daaff" style="paint-order:stroke markers fill"/>
-  <rect x="3.44" y="291.18" width="10.054" height="1.323" ry=".265" fill="#fff" opacity=".35" style="paint-order:markers stroke fill"/>
-  <g fill="#ccdfff">
-   <rect x="4.498" y="290.38" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
-   <rect x="6.703" y="290.38" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
-   <rect x="8.908" y="290.38" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
-   <rect x="11.113" y="290.38" width="1.323" height="1.323" ry=".132" style="paint-order:stroke markers fill"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg19064"
+   sodipodi:docname="desktop.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs19068" />
+  <sodipodi:namedview
+     id="namedview19066"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="27.76055"
+     inkscape:cy="32.09421"
+     inkscape:window-width="1280"
+     inkscape:window-height="1361"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg19064" />
+  <g
+     transform="translate(-1.2858e-8 -280.07)"
+     id="g19062">
+    <rect
+       x="1.3229"
+       y="281.39"
+       width="14.287"
+       height="14.287"
+       ry="7.1436"
+       fill="#8daaff"
+       style="paint-order:stroke markers fill;fill:#6272a4"
+       id="rect19044" />
+    <rect
+       x="3.44"
+       y="291.18"
+       width="10.054"
+       height="1.323"
+       ry=".265"
+       fill="#f8f8f2"
+       opacity=".35"
+       style="paint-order:markers stroke fill;fill:#f8f8f2"
+       id="rect19046" />
+    <g
+       fill="#ccdfff"
+       id="g19056"
+       style="fill:#cbcccc">
+      <rect
+         x="4.498"
+         y="290.38"
+         width="1.323"
+         height="1.323"
+         ry=".132"
+         style="paint-order:stroke markers fill;fill:#cbcccc"
+         id="rect19048" />
+      <rect
+         x="6.703"
+         y="290.38"
+         width="1.323"
+         height="1.323"
+         ry=".132"
+         style="paint-order:stroke markers fill;fill:#cbcccc"
+         id="rect19050" />
+      <rect
+         x="8.908"
+         y="290.38"
+         width="1.323"
+         height="1.323"
+         ry=".132"
+         style="paint-order:stroke markers fill;fill:#cbcccc"
+         id="rect19052" />
+      <rect
+         x="11.113"
+         y="290.38"
+         width="1.323"
+         height="1.323"
+         ry=".132"
+         style="paint-order:stroke markers fill;fill:#cbcccc"
+         id="rect19054" />
+    </g>
+    <path
+       transform="matrix(.26458 0 0 .26458 0 280.07)"
+       d="m32 5c-5.2094 0-10.063 1.4644-14.18 4h28.359c-4.1165-2.5356-8.9703-4-14.18-4z"
+       opacity=".35"
+       stroke-width="3.7796"
+       style="paint-order:stroke markers fill"
+       id="path19058" />
+    <rect
+       x="7.1436"
+       y="281.65"
+       width="2.6458"
+       height=".52916"
+       ry=".26508"
+       opacity=".35"
+       style="paint-order:stroke markers fill"
+       id="rect19060" />
   </g>
-  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m32 5c-5.2094 0-10.063 1.4644-14.18 4h28.359c-4.1165-2.5356-8.9703-4-14.18-4z" opacity=".35" stroke-width="3.7796" style="paint-order:stroke markers fill"/>
-  <rect x="7.1436" y="281.65" width="2.6458" height=".52916" ry=".26508" opacity=".35" style="paint-order:stroke markers fill"/>
- </g>
 </svg>

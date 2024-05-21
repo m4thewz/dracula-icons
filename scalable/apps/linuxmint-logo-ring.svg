@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg22"
+   sodipodi:docname="linuxmint-logo-ring.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview24"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="27.823356"
+     inkscape:cy="32.031403"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22" />
+  <defs
+     id="defs10">
+    <linearGradient
+       id="linearGradient1324">
+      <stop
+         stop-color="#8fbcbb"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#97b67c"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1022"
+       x1="192"
+       x2="193.17"
+       y1=".0010205"
+       y2="414.55"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1324" />
+    <linearGradient
+       id="linearGradient949"
+       x1="55.033"
+       x2="54.608"
+       y1="186.93"
+       y2="297.28"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1324" />
+    <linearGradient
+       id="linearGradient951"
+       x1="192"
+       x2="193.55"
+       y1=".0010205"
+       y2="415.66"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1324" />
+  </defs>
+  <g
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="g20">
+    <g
+       transform="matrix(.15384 0 0 .15384 2.2725e-7 -28.759)"
+       id="g18">
+      <path
+         d="m55.033 186.93c-30.34 0-55.033 24.693-55.033 55.033s24.693 55.033 55.033 55.033 55.033-24.693 55.033-55.033-24.693-55.033-55.033-55.033zm0 9.1719c25.383 0 45.861 20.479 45.861 45.861 0 25.383-20.479 45.861-45.861 45.861s-45.861-20.479-45.861-45.861c0-25.383 20.479-45.861 45.861-45.861z"
+         color="#282a36"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         fill="url(#linearGradient949)"
+         image-rendering="auto"
+         shape-rendering="auto"
+         solid-color="#282a36"
+         style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#282a36;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#44c367;fill-opacity:1"
+         id="path12" />
+      <g
+         transform="matrix(.26458 0 0 .26458 4.2333 186.93)"
+         fill="url(#linearGradient951)"
+         id="g16">
+        <path
+           d="m80 104v144c0 35.157 28.843 64 64 64h96c35.157 0 64-28.843 64-64v-80c0-26.32-21.68-48-48-48-12.296 0-23.467 4.8602-32 12.586-8.5332-7.7257-19.704-12.586-32-12.586-26.32 0-48 21.68-48 48v80h32v-80c0-9.0261 6.9739-16 16-16s16 6.9739 16 16v80h32v-80c0-9.0261 6.9739-16 16-16s16 6.9739 16 16v80c0 17.863-14.137 32-32 32h-96c-17.863 0-32-14.137-32-32v-144z"
+           color="#282a36"
+           color-rendering="auto"
+           dominant-baseline="auto"
+           fill="url(#linearGradient1022)"
+           image-rendering="auto"
+           shape-rendering="auto"
+           solid-color="#282a36"
+           style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#282a36;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#44c367"
+           id="path14" />
+      </g>
+    </g>
+  </g>
+</svg>

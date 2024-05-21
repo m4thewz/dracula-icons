@@ -1,9 +1,71 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#37474f" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
- <path d="m32 8a24 24 0 0 0-24 24 24 24 0 0 0 9.3477 18.971h29.332a24 24 0 0 0 9.3203-18.971 24 24 0 0 0-24-24z" fill="#a341b4"/>
- <g transform="matrix(1.0417 0 0 1.027 -1.3333 -1088)" fill-rule="evenodd">
-  <path transform="matrix(.95997 0 0 .97371 1.2799 1059.4)" d="m32 8a24 24 0 0 0-24 24 24 24 0 0 0 3.2793 12.051l22.246-35.975a24 24 0 0 0-1.5254-0.076172z" fill="#f4416b"/>
-  <path transform="matrix(.95997 0 0 .97371 1.2799 1059.4)" d="m53.166 20.725-39.961 26.201a24 24 0 0 0 7.5332 6.2539l15.416 2.4551a24 24 0 0 0 19.846-23.635 24 24 0 0 0-2.834-11.275z" fill="#8a5cd8"/>
-  <path transform="matrix(.95997 0 0 .97371 1.2799 1059.4)" d="m53.977 41.613-38.553 7.7051a24 24 0 0 0 16.576 6.6816 24 24 0 0 0 21.977-14.387z" fill="#46a9d6"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 64 64"
+   id="svg14"
+   sodipodi:docname="gwenview.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#37474f"
+     stroke-width="3.7796"
+     style="paint-order:stroke fill markers;fill:#44475a"
+     id="circle2" />
+  <path
+     d="m32 8a24 24 0 0 0-24 24 24 24 0 0 0 9.3477 18.971h29.332a24 24 0 0 0 9.3203-18.971 24 24 0 0 0-24-24z"
+     fill="#a341b4"
+     id="path4"
+     style="fill:#ff79c6" />
+  <g
+     transform="matrix(1.0417 0 0 1.027 -1.3333 -1088)"
+     fill-rule="evenodd"
+     id="g12">
+    <path
+       transform="matrix(.95997 0 0 .97371 1.2799 1059.4)"
+       d="m32 8a24 24 0 0 0-24 24 24 24 0 0 0 3.2793 12.051l22.246-35.975a24 24 0 0 0-1.5254-0.076172z"
+       fill="#f4416b"
+       id="path6"
+       style="fill:#c7639f" />
+    <path
+       transform="matrix(.95997 0 0 .97371 1.2799 1059.4)"
+       d="m53.166 20.725-39.961 26.201a24 24 0 0 0 7.5332 6.2539l15.416 2.4551a24 24 0 0 0 19.846-23.635 24 24 0 0 0-2.834-11.275z"
+       fill="#8a5cd8"
+       id="path8"
+       style="fill:#9576c5" />
+    <path
+       transform="matrix(.95997 0 0 .97371 1.2799 1059.4)"
+       d="m53.977 41.613-38.553 7.7051a24 24 0 0 0 16.576 6.6816 24 24 0 0 0 21.977-14.387z"
+       fill="#46a9d6"
+       id="path10"
+       style="fill:#13b1d5" />
+  </g>
 </svg>

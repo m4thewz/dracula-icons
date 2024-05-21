@@ -1,7 +1,53 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <g>
-  <rect x="6" y="6" width="52" height="52" rx="1.8571" fill="#343739"/>
-  <path d="m10 34h20v20h-20zm24 0h20v20h-20zm0-24h20v20h-20zm-24 0h20v20h-20z" fill="#38aaeb"/>
-  <path d="m44 14v2h-24a3.98 3.98 0 0 0-3.132 1.512 3.996 3.996 0 0 0-0.868 2.488v10a4.004 4.004 0 0 0 0.06 0.68 4.002 4.002 0 0 0 0.374 1.132 4 4 0 0 0 3.566 2.188h22a2.006 2.006 0 0 1 0.98 0.26 2.004 2.004 0 0 1 0.388 0.284 1.992 1.992 0 0 1 0.632 1.456v6a2 2 0 0 1-2 2h-22v-2l-6 4 6 4v-2h24a3.98 3.98 0 0 0 2.872-1.214 4.004 4.004 0 0 0 0.984-1.716 4.002 4.002 0 0 0 0.144-1.07v-10a4.004 4.004 0 0 0-0.06-0.68 4.002 4.002 0 0 0-0.374-1.132 4 4 0 0 0-3.566-2.188h-22a2.006 2.006 0 0 1-0.98-0.26 2.004 2.004 0 0 1-0.388-0.284 1.992 1.992 0 0 1-0.632-1.456v-6a2 2 0 0 1 2-2h22v2l6-4z" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg28224"
+   sodipodi:docname="preferences-system-network-share-windows.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28228" />
+  <sodipodi:namedview
+     id="namedview28226"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28224" />
+  <rect
+     width="54"
+     height="54"
+     x="5"
+     y="5"
+     fill="#343739"
+     rx="27"
+     ry="27"
+     id="rect28218"
+     style="fill:#44475a" />
+  <path
+     fill="#38aaeb"
+     d="M30 10.094A21.937 21.937 0 0 0 10.094 30H30V10.094zm4 0V30h19.906A21.937 21.937 0 0 0 34 10.094zM10.094 34A21.937 21.937 0 0 0 30 53.906V34H10.094zM34 34v19.906A21.937 21.937 0 0 0 53.906 34H34z"
+     id="path28220"
+     style="fill:#13b1d5" />
+  <path
+     fill="#f8f8f2"
+     d="M40 14v2H20a3.98 3.98 0 0 0-3.132 1.512A3.996 3.996 0 0 0 16 20v10c0 .228.02.455.06.68A4 4 0 0 0 20 34h22a2.006 2.006 0 0 1 1.368.544c.403.377.632.904.632 1.456v6a2 2 0 0 1-2 2H24v-2l-6 4 6 4v-2h20a4.004 4.004 0 0 0 4-4V34c0-.228-.02-.455-.06-.68A4 4 0 0 0 44 30H22a2.006 2.006 0 0 1-1.368-.544A1.992 1.992 0 0 1 20 28v-6a2 2 0 0 1 2-2h18v2l6-4z"
+     id="path28222" />
 </svg>

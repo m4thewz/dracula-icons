@@ -1,8 +1,12 @@
-<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-    <style type="text/css" id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#FFFFFF;
-        }
-    </style>
-    <path d="m6 3v5h11v-5zm4 1h3v3h-3zm-7 6v2h17v-2zm3 4v5h11v-5zm5.5 1c0.828427 0 1.5 0.671573 1.5 1.5s-0.671573 1.5-1.5 1.5-1.5-0.671573-1.5-1.5 0.671573-1.5 1.5-1.5z" class="ColorScheme-Text" fill="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="translate(3,3)">
+  <circle style="fill:currentColor" class="ColorScheme-Text" cx="3" cy="8" r="2"/>
+  <circle style="fill:currentColor" class="ColorScheme-Text" cx="8" cy="8" r="2"/>
+  <circle style="fill:currentColor" class="ColorScheme-Text" cx="13" cy="8" r="2"/>
+ </g>
 </svg>

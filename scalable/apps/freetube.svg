@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1"
+   id="svg10"
+   sodipodi:docname="freetube.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#f8f8f2"
+     style="paint-order:stroke markers fill"
+     id="circle2" />
+  <g
+     stroke-width=".78"
+     id="g8">
+    <path
+       fill="#f04242"
+       d="M18.3 16c-1.219 0-2.2 1.019-2.2 2.285v23.999c0 3.428 4.4 5.714 6.6 5.714h2.2V18.285c0-1.266-.982-2.285-2.2-2.285zm8.999 6.6c0 1.218 1.014 2.2 2.273 2.2h13.642c3.41 0 5.684-4.4 5.684-6.6V16H29.572c-1.26 0-2.273.98-2.273 2.2z"
+       id="path4"
+       style="fill:#ff5555" />
+    <path
+       fill="#14a4df"
+       d="M28.356 27.199a1.033.913 0 0 0-1.057.914v11.773a1.033.913 0 0 0 1.549.79l11.534-5.887a1.033.913 0 0 0 0-1.58L28.848 27.32a1.033.913 0 0 0-.492-.122z"
+       id="path6"
+       style="fill:#13b1d5" />
+  </g>
+</svg>

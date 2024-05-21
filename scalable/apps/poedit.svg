@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="poedit.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <g
+     transform="translate(3.826 3.826) scale(1.1739)"
+     id="g12">
+    <circle
+       cx="24"
+       cy="24"
+       r="23"
+       fill="#22ad97"
+       id="circle2"
+       style="fill:#44c367" />
+    <rect
+       width="24"
+       height="24"
+       x="12"
+       y="12"
+       fill="#f6f3ef"
+       ry="3"
+       id="rect4"
+       style="fill:#f8f8f2" />
+    <path
+       fill="#177eab"
+       d="M16 26v7h1v-3h1.031c.213 1.722 1.478 3 2.969 3 1.657 0 3-1.567 3-3.5S22.657 26 21 26c-1.491 0-2.756 1.278-2.969 3H17v-3zm5 1c1.105 0 2 1.12 2 2.5s-.895 2.5-2 2.5-2-1.12-2-2.5.895-2.5 2-2.5z"
+       id="path6"
+       style="fill:#168daa" />
+    <path
+       fill="#e26f36"
+       d="m28 24 1 1h1l-.5-1zm1 2-2.5 7h1.2l.657-2h2.286l.658 2H32.5L30 26zm.5 1.522L30.314 30h-1.628z"
+       id="path8"
+       style="fill:#fd7e7c" />
+    <path
+       fill="#b753c6"
+       d="M23 15s-2 1-4 1v1c.731 0 1.402-.06 2-.15V18h-2v1h1.777L19 21l.5 1 1.5-1.75V23h1v-3.5l1.5 1.5.5-1-1-1h1v4h1v-1h2v1h1v-7h-4v2h-2v-1.34c1.257-.29 2-.66 2-.66zm2 2h2v4h-2z"
+       id="path10"
+       style="fill:#c7639f" />
+  </g>
+</svg>

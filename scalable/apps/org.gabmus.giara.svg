@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="org.gabmus.giara.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <g
+     transform="translate(5 5)"
+     id="g8">
+    <circle
+       cx="27"
+       cy="27"
+       r="27"
+       fill="#f17d1e"
+       id="circle2"
+       style="fill:#fd7e7c" />
+    <circle
+       cx="27"
+       cy="27"
+       r="23"
+       fill="#f8f8f2"
+       opacity=".1"
+       id="circle4" />
+    <path
+       fill="#f8f8f2"
+       d="M24.688 10.125c-.566 0-1.026.435-1.026.975v3.902c0 2.216-1.933 5.309-3.8 8.238-1.975 3.093-5.92 6.292-6.305 9.266-.047.363-.06.717-.057 1.066 12.316.41 23.225-6.49 23.342-6.566l.938-.603c-.617-1.058-2.41-2.116-3.079-3.163-1.869-2.93-4.25-6.022-4.25-8.238V11.1c0-.54-.461-.975-1.028-.975zm14.238 17.967-.746.475c-6.178 3.935-15.636 7.055-24.438 6.883 1.246 4.525 6.21 7.58 6.463 7.73.166.098 1.333.695 6.679.695 5.344 0 6.692-.597 6.856-.695.308-.18 7.504-4.563 6.696-10.738-.186-1.41-.756-2.87-1.51-4.35z"
+       id="path6" />
+  </g>
+</svg>

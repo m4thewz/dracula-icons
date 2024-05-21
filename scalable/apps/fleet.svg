@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="fleet.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     fill="#998be7"
+     d="M15.61 8.466a7.143 7.143 0 1 1-14.287.001 7.143 7.143 0 0 1 14.287-.001z"
+     id="path2"
+     style="fill:#bd93f9" />
+  <path
+     fill="#282a36"
+     d="M14.503 8.466a6.037 6.037 0 0 1-6.037 6.037 6.037 6.037 0 0 1-6.037-6.037 6.037 6.037 0 0 1 6.037-6.037 6.037 6.037 0 0 1 6.037 6.037z"
+     id="path4" />
+  <path
+     fill="#875ad4"
+     d="M8.59 6.204s-.139-.025.581-.081c.979-.078 1.279-.052 1.569 0 .549.095 1.501.219 2.014.956.155.219.931 1.964-.572 1.534l-1.475-1.059-1.421-.75-.696-.6z"
+     id="path6"
+     style="fill:#7b7bbd" />
+  <path
+     fill="#80ffff"
+     d="M13.114 8.468c0 2.568-2.08 4.648-4.648 4.648s-4.648-2.08-4.648-4.648S5.898 3.82 8.466 3.82h.056v.001h.009c0 .002.005.002.006.002.209.196.583.637.956 1.487.12.272.182.527.208.757.24.271.514.532.817.777.84.678 1.758 1.107 2.583 1.256.009.123.013.244.013.368z"
+     id="path8"
+     style="fill:#8be9fd" />
+  <path
+     fill="#295151"
+     d="M11.633 9.567c.25 1.156-.825 2.369-2.4 2.709s-3.054-.322-3.303-1.477c-.25-1.156.824-2.369 2.399-2.709s3.055.32 3.304 1.477z"
+     id="path10"
+     style="fill:#168daa" />
+</svg>

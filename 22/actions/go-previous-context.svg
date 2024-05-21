@@ -1,14 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#FFFFFF;
-      }
-      </style>
-  </defs>
- <path 
-    style="fill:currentColor;fill-opacity:1;stroke:none" 
-	d="m398.85714 543.07647v16h-14l-4-8 4-8h14m-5.42773 4v.5918c.7107 0 .7207.23916.7207 1.10547v1.01757c0 .41547.12362 1.03272.72266 1.28907-.59904.25635-.72266.87555-.72266 1.29101v1.00781c0 .86631-.001 1.10547-.7207 1.10547v.5918c1.06609 0 1.51367-.35225 1.51367-1.25391v-1.22265c0-.55691.0205-1.20117.60937-1.20117h.30469v-.64454h-.30469c-.58887 0-.60937-.64426-.60937-1.20117v-1.22265c0-.90166-.44758-1.25391-1.51367-1.25391m-3.13672 0c-1.0661 0-1.52149.35225-1.52149 1.25391v1.22265c.00001.55691-.0404 1.20117-.61914 1.20117h-.29492v.64454h.29492c.57874 0 .61914.64426.61914 1.20117v1.22265c.00001.90166.45539 1.25391 1.52149 1.25391v-.5918c-.71082 0-.72852-.23916-.72852-1.10547v-1.00781c0-.41546-.12361-1.03466-.72265-1.29101.59904-.25635.72265-.8736.72265-1.28907v-1.01757c0-.86631.0178-1.10547.72852-1.10547v-.5918" transform="translate(-378.85714-540.07647)"
-    class="ColorScheme-Text"
-    />  
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="translate(3,3)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 16,2 V 14 H 6 L 0,8 6,2 Z M 12,4 H 11 V 5 H 12 C 13,5 13,6 13,6 V 7 C 13,7 13,7.5784 13.375,8 13,8.4216 13,9 13,9 V 10 C 13,10 13,11 12,11 H 11 V 12 H 12 C 14,12 14,10 14,10 V 9 C 14,8.5 14.5,8.5 14.5,8.5 H 15 V 7.5 H 14.5 C 14.5,7.5 14,7.5 14,7 V 6 C 14,6 14,4 12,4 Z M 10,4 H 9 C 7,4 7,6 7,6 V 7 C 7,7.5 6.5,7.5 6.5,7.5 H 6 V 8.5 H 6.5 C 6.5,8.5 7,8.5 7,9 V 10 C 7,10 7,12 9,12 H 10 V 11 H 9 C 8,11 8,10 8,10 V 9 C 8,9 8,8.4216 7.625,8 8,7.5784 8,7 8,7 V 6 C 8,6 8,5 9,5 H 10 Z"/>
+ </g>
 </svg>

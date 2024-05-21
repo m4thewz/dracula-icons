@@ -1,11 +1,10 @@
-<!DOCTYPE svg>
-<svg viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <style type="text/css" id="current-color-scheme">
-            .ColorScheme-Text {
-                color:#FFFFFF;
-            }
-        </style>
-    </defs><g transform="translate(1,1)">
-    <path class="ColorScheme-Text" style="fill:currentColor; fill-opacity:1; stroke:none" d="M 18 17 L 18 18 L 14 18 L 14 17 L 18 17 Z M 4 3 L 4 17 L 6 17 L 6 19 L 12 19 L 12 18 L 7 18 L 7 6 L 13 6 L 13 10 L 17 10 L 17 11 L 18 11 L 18 9 L 12 3 L 4 3 Z M 5 4 L 11 4 L 11 5 L 6 5 L 6 16 L 5 16 L 5 4 Z M 13 16 L 13 19 L 19 19 L 19 16 L 18 16 L 18 14 C 18 12.8954 17.1046 12 16 12 C 14.8954 12 14 12.8954 14 14 L 14 15 L 15 15 L 15 14 C 15 13.4477 15.4477 13 16 13 C 16.5523 13 17 13.4477 17 14 L 17 16 L 13 16 Z"/>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="translate(4,4)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 6,6 V 15 H 15 V 6 Z M 10.5,7 C 10.5,7 12,7 12,8.5 V 10 H 12.5 C 13,10 13,10.5 13,10.5 V 13.5 C 13,13.5 13,14 12.5,14 H 8.5 C 8,14 8,13.5 8,13.5 V 10.5 C 8,10.5 8,10 8.5,10 H 11 V 8.5 C 11,8.5 11,8 10.5,8 10,8 10,8.5 10,8.5 V 9 H 9 V 8.5 C 9,7 10.5,7 10.5,7 Z M 1,1 V 10 H 5 V 5 H 10 V 1 Z"/>
+ </g>
+</svg>

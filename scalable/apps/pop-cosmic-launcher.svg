@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="pop-cosmic-launcher.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     id="namedview24"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22" />
+  <circle
+     cx="31.998"
+     cy="31.998"
+     r="27.001"
+     fill="#f8f8f2"
+     id="circle2" />
+  <g
+     transform="matrix(.5 0 0 .5 16 16)"
+     id="g20">
+    <rect
+       width="24"
+       height="24"
+       x="4"
+       y="36"
+       fill="#38c5d7"
+       rx="3.529"
+       ry="3.529"
+       id="rect4"
+       style="fill:#4cc3dc" />
+    <rect
+       width="24"
+       height="24"
+       x="4"
+       y="4"
+       fill="#38c5d7"
+       rx="3.529"
+       ry="3.529"
+       id="rect6"
+       style="fill:#4cc3dc" />
+    <rect
+       width="24"
+       height="24"
+       x="36"
+       y="4"
+       fill="#38c5d7"
+       rx="3.529"
+       ry="3.529"
+       id="rect8"
+       style="fill:#4cc3dc" />
+    <path
+       fill="#f8f8f2"
+       d="m32.942 30.575-3.084 2.85 16.8 18.2 3.084-2.85z"
+       id="path10" />
+    <circle
+       cx="31"
+       cy="33"
+       r="15"
+       fill="#f8f8f2"
+       id="circle12" />
+    <circle
+       cx="31"
+       cy="33"
+       r="11"
+       fill="#38c5d7"
+       id="circle14"
+       style="fill:#4cc3dc" />
+    <path
+       fill="#ffad00"
+       d="M46.189 44.183a.629.629 0 0 1 .888.002l9.917 9.937a3.442 3.442 0 0 1-.01 4.874 3.458 3.458 0 0 1-4.883-.01l-9.918-9.937a.626.626 0 0 1 .002-.886z"
+       id="path16"
+       style="fill:#ffb86c" />
+    <path
+       fill="#f8f8f2"
+       d="M31.093 24.001c.226-.056.53.11.647.361.163.347-.02.726-.408.847-.17.053-1.068.298-2.208.842-.408.195-.847.457-1.295.722-1.14.675-2.32 1.775-2.976 2.767-.615.929-.993 1.772-1.295 3.003-.159.648-.259 1.805-.259 1.925 0 .482-.224.717-.619.722-.398.005-.675-.24-.675-.722 0-.41-.064-1.676.259-2.887.246-.922.764-1.949 1.424-2.883 1.028-1.457 2.522-2.705 4.4-3.618.907-.44 1.91-.805 3.005-1.08z"
+       id="path18" />
+  </g>
+</svg>

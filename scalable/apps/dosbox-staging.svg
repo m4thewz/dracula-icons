@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="dosbox-staging.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <rect
+     width="54"
+     height="54"
+     x="-59"
+     y="5"
+     fill="#a05a2c"
+     rx="27"
+     ry="27"
+     transform="rotate(-90)"
+     id="rect2"
+     style="fill:#c7925b" />
+  <rect
+     width="46"
+     height="46"
+     x="9"
+     y="9"
+     opacity=".25"
+     rx="23"
+     ry="23"
+     id="rect4"
+     style="fill:#1e1f29;opacity:0.4" />
+  <path
+     fill="#f8f8f2"
+     d="M14 16v1.778h1.8v10.667H14v1.778h9v-1.778h1.8V17.778H23V16zm14.4 0v1.778h-1.8v10.667h1.8v1.778h7.2v-1.778h1.8V17.778h-1.8V16zM41 16v1.778h-1.8v3.555H41v1.778h3.6v1.778h1.8v3.556h-3.6v-3.556h-3.6v3.556H41v1.777h7.2v-1.777H50v-3.556h-1.8v-1.778h-1.8v-1.778h-3.6v-3.555h3.6v3.555H50v-3.555h-1.8V16zm-21.6 1.778h1.8v10.667h-1.8zm10.8 0h3.6v10.667h-3.6zm-16.2 16v1.778h1.8v10.667H14V48h9v-1.777h1.8v-5.334H23v-1.778h1.8v-3.555H23v-1.778zm14.4 0v1.778h-1.8v10.667h1.8V48h7.2v-1.777h1.8V35.556h-1.8v-1.778zm9 0v1.778h1.8v3.555H41v3.556h-1.8v3.555h-1.8V48H41v-1.778h1.8v-1.777h1.8v1.777h1.8V48H50v-1.778h-1.8v-3.555h-1.8V39.11h1.8v-3.555H50v-1.778h-3.6v1.778h-1.8v1.777h-1.8v-1.777H41v-1.778zm-18 1.778h1.8v3.555h-1.8zm10.8 0h3.6v10.667h-3.6zm-10.8 5.333h1.8v5.333h-1.8z"
+     id="path6" />
+</svg>

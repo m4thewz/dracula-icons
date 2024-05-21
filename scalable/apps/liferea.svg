@@ -1,6 +1,55 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <path d="m32 5c14.912 0 27 12.088 27 27s-12.088 27-27 27-27-12.088-27-27 12.088-27 27-27z" fill="#429bd4" stroke-width="1.1739"/>
- <circle cx="21.435" cy="42.565" r="3.5217" fill="#f9f9f9"/>
- <path d="m17.913 28.478v5.8696h2.9348c4.8623 0 8.8043 3.942 8.8043 8.8043v2.9348h5.8696v-2.9348c0-8.1047-6.5692-14.674-14.674-14.674" fill="#f9f9f9"/>
- <path d="m17.913 16.739v5.8696h3.5217a19.957 19.957 0 0 1 19.957 19.957v3.5217h5.8696v-3.5217a25.826 25.826 0 0 0-25.826-25.826z" fill="#f9f9f9"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 64 64"
+   id="svg10"
+   sodipodi:docname="liferea.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     d="m32 5c14.912 0 27 12.088 27 27s-12.088 27-27 27-27-12.088-27-27 12.088-27 27-27z"
+     fill="#429bd4"
+     stroke-width="1.1739"
+     id="path2"
+     style="fill:#168daa" />
+  <circle
+     cx="21.435"
+     cy="42.565"
+     r="3.5217"
+     fill="#f8f8f2"
+     id="circle4" />
+  <path
+     d="m17.913 28.478v5.8696h2.9348c4.8623 0 8.8043 3.942 8.8043 8.8043v2.9348h5.8696v-2.9348c0-8.1047-6.5692-14.674-14.674-14.674"
+     fill="#f8f8f2"
+     id="path6" />
+  <path
+     d="m17.913 16.739v5.8696h3.5217a19.957 19.957 0 0 1 19.957 19.957v3.5217h5.8696v-3.5217a25.826 25.826 0 0 0-25.826-25.826z"
+     fill="#f8f8f2"
+     id="path8" />
 </svg>

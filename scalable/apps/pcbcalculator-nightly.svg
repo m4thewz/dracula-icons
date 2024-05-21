@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg251"
+   sodipodi:docname="pcbcalculator-nightly.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs255" />
+  <sodipodi:namedview
+     id="namedview253"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.83317"
+     inkscape:cy="32.031403"
+     inkscape:window-width="1280"
+     inkscape:window-height="1361"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg251" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#f95"
+     id="circle243"
+     style="fill:#c7925b" />
+  <path
+     fill="#916f6f"
+     d="M32 59c14.912 0 27-12.088 27-27H32v27z"
+     id="path245"
+     style="fill:#44475a" />
+  <path
+     fill="#fca"
+     fill-rule="evenodd"
+     d="M33 5h-2v26H5v2h26v26h2V33h26v-2H33V5Z"
+     clip-rule="evenodd"
+     id="path247"
+     style="fill:#fdc88e" />
+  <path
+     fill="#f8f8f2"
+     fill-rule="evenodd"
+     d="M20 20v-3h3v3h3v3h-3v3h-3v-3h-3v-3h3zm27 3h-9v-3h9v3zm-9 18.5h9v-3h-9v3zm9 5h-9v-3h9v3zm-29.879-6.257 2.121 2.121-2.121 2.121 2.121 2.122 2.122-2.122 2.121 2.122 2.121-2.122-2.121-2.121 2.121-2.121-2.121-2.122-2.121 2.122-2.122-2.122-2.121 2.122z"
+     clip-rule="evenodd"
+     id="path249" />
+</svg>

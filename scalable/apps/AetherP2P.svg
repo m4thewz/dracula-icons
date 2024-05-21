@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="AetherP2P.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <rect
+     width="54"
+     height="54"
+     x="5"
+     y="5"
+     fill="#eb6c37"
+     rx="27"
+     ry="27"
+     id="rect2"
+     style="fill:#fd7e7c" />
+  <path
+     fill="#f8f8f2"
+     d="M32 9C19.258 9 9 19.258 9 32s10.258 23 23 23 23-10.258 23-23S44.742 9 32 9zm0 4c10.526 0 19 8.474 19 19s-8.474 19-19 19-19-8.474-19-19 8.474-19 19-19z"
+     id="path4" />
+  <rect
+     width="4"
+     height="30"
+     x="30"
+     y="17"
+     fill="#f8f8f2"
+     fill-rule="evenodd"
+     rx="2"
+     ry="2"
+     style="paint-order:stroke fill markers"
+     id="rect6" />
+  <rect
+     width="4"
+     height="30"
+     x="43.255"
+     y="-15"
+     fill="#f8f8f2"
+     fill-rule="evenodd"
+     rx="2"
+     ry="2"
+     style="paint-order:stroke fill markers"
+     transform="rotate(45)"
+     id="rect8" />
+  <rect
+     width="4"
+     height="30"
+     x="30"
+     y="-47"
+     fill="#f8f8f2"
+     fill-rule="evenodd"
+     rx="2"
+     ry="2"
+     style="paint-order:stroke fill markers"
+     transform="rotate(90)"
+     id="rect10" />
+  <rect
+     width="4"
+     height="30"
+     x="-2"
+     y="-60.255"
+     fill="#f8f8f2"
+     fill-rule="evenodd"
+     rx="2"
+     ry="2"
+     style="paint-order:stroke fill markers"
+     transform="rotate(135)"
+     id="rect12" />
+</svg>

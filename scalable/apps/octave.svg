@@ -1,7 +1,94 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
- <path d="m32 5c-14.958 0-27 12.042-27 27s12.042 27 27 27 27-12.042 27-27-12.042-27-27-27z" fill="#f9f9f9" stroke-width="1.9286"/>
- <path d="m31.811 14.94a17.06 17.06 0 0 0-17.06 17.06 17.06 17.06 0 0 0 17.06 17.06 17.06 17.06 0 0 0 17.06-17.06 17.06 17.06 0 0 0-17.06-17.06zm1.9386 3.8772a12.795 12.795 0 0 1 12.795 12.795 12.795 12.795 0 0 1-12.795 12.795 12.795 12.795 0 0 1-12.795-12.795 12.795 12.795 0 0 1 12.795-12.795z" fill="#2971d5" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".15" stroke-width="0"/>
- <rect x="13.201" y="25.796" width="12.407" height="12.407" rx="2.4814" ry="2.4814" fill="#fc924d" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".15" stroke-width="0"/>
- <rect x="41.116" y="35.102" width="7.7544" height="7.7544" rx="1.5509" ry="1.5509" fill="#fc924d" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".15" stroke-width="0"/>
- <rect x="38.015" y="16.491" width="6.2035" height="6.2035" rx="1.2407" ry="1.2407" fill="#fc924d" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".15" stroke-width="0"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1"
+   id="svg12"
+   sodipodi:docname="octave.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     d="m32 5c-14.958 0-27 12.042-27 27s12.042 27 27 27 27-12.042 27-27-12.042-27-27-27z"
+     fill="#f8f8f2"
+     stroke-width="1.9286"
+     id="path2" />
+  <path
+     d="m31.811 14.94a17.06 17.06 0 0 0-17.06 17.06 17.06 17.06 0 0 0 17.06 17.06 17.06 17.06 0 0 0 17.06-17.06 17.06 17.06 0 0 0-17.06-17.06zm1.9386 3.8772a12.795 12.795 0 0 1 12.795 12.795 12.795 12.795 0 0 1-12.795 12.795 12.795 12.795 0 0 1-12.795-12.795 12.795 12.795 0 0 1 12.795-12.795z"
+     fill="#2971d5"
+     stroke="#282a36"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-opacity=".15"
+     stroke-width="0"
+     id="path4"
+     style="fill:#168daa" />
+  <rect
+     x="13.201"
+     y="25.796"
+     width="12.407"
+     height="12.407"
+     rx="2.4814"
+     ry="2.4814"
+     fill="#fc924d"
+     stroke="#282a36"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-opacity=".15"
+     stroke-width="0"
+     id="rect6"
+     style="fill:#ffb86c" />
+  <rect
+     x="41.116"
+     y="35.102"
+     width="7.7544"
+     height="7.7544"
+     rx="1.5509"
+     ry="1.5509"
+     fill="#fc924d"
+     stroke="#282a36"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-opacity=".15"
+     stroke-width="0"
+     id="rect8"
+     style="fill:#ffb86c" />
+  <rect
+     x="38.015"
+     y="16.491"
+     width="6.2035"
+     height="6.2035"
+     rx="1.2407"
+     ry="1.2407"
+     fill="#fc924d"
+     stroke="#282a36"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-opacity=".15"
+     stroke-width="0"
+     id="rect10"
+     style="fill:#ffb86c" />
 </svg>

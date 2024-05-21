@@ -1,9 +1,8 @@
-<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#FFFFFF;
-      }</style>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
  </defs>
- <path class="ColorScheme-Text" d="m7 9v2h2v-2zm3 1v1h5v-1zm-3 2v1h8v-1zm0 2v1h8v-1z" fill="currentColor"/>
- <path d="m6 3c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3zm0 3h10c1.108 0 2 0.892 2 2v8c0 1.108-0.892 2-2 2h-10c-1.108 0-2-0.892-2-2v-8c0-1.108 0.892-2 2-2z" class="ColorScheme-Text" fill="currentColor"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 5,4 C 5,4 4,4 4,5 v 12 c 0,1 1,1 1,1 h 12 c 0,0 1,0 1,-1 V 5 C 18,4 17,4 17,4 Z m 1,3 h 10 v 9 H 6 Z m 1,1 v 3 h 3 V 8 Z m 4,2 v 1 h 4 v -1 z m -4,2 v 1 h 8 v -1 z m 0,2 v 1 h 8 v -1 z"/>
 </svg>

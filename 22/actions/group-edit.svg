@@ -1,8 +1,11 @@
-<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#FFFFFF;
-      }</style>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
  </defs>
- <path class="ColorScheme-Text" d="m16.717 4.5763c-0.78347-0.78347-2.045-0.78347-2.8284-6e-7l3.5355 3.5355c0.78347-0.78347 0.78348-2.045 0-2.8284zm-3.5355 0.70711-9.1924 9.1924 4e-7 3.5355h3.5355l9.1924-9.1924zm0 1.4142 2.1213 2.1213-7.7782 7.7782-2.1213-2.1213z" fill="currentColor"/>
+ <g transform="translate(3,-3)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 2,8 C 2,8 1,8 1,9 V 20 C 1,20 1,21 2,21 H 9 V 18.586 L 14,13.586 15,14.586 V 11 C 15,10 14,10 14,10 H 9 L 7,8 Z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 14,15 10,19 V 20.996 L 12,21 16,17 Z"/>
+ </g>
 </svg>

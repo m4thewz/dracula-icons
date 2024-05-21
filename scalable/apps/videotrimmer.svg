@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg5411"
+   sodipodi:docname="videotrimmer.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5415" />
+  <sodipodi:namedview
+     id="namedview5413"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5411" />
+  <g
+     transform="translate(3.826 3.826) scale(1.1739)"
+     id="g5409">
+    <circle
+       cx="24"
+       cy="24"
+       r="23"
+       fill="#44475a"
+       id="circle5401" />
+    <path
+       fill="#5397e9"
+       d="M11 15v18h26V15zm6 1h2v2h-2zm4 0h2v2h-2zm4 0h2v2h-2zm4 0h2v2h-2zM17 30h2v2h-2zm4 0h2v2h-2zm4 0h2v2h-2zm4 0h2v2h-2z"
+       id="path5403"
+       style="fill:#168daa" />
+    <path
+       fill="#f8f8f2"
+       d="M11 19v10h7V19zm9 0v10h8V19zm10 0v10h7V19z"
+       id="path5405" />
+    <path
+       fill="#f9e37d"
+       d="M15 12v24h4v-2h-2V14h2v-2zm14 0v2h2v20h-2v2h4V12z"
+       id="path5407"
+       style="fill:#fdc88e" />
+  </g>
+</svg>

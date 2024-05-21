@@ -1,8 +1,61 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#2c3135" style="paint-order:stroke fill markers"/>
- <g transform="matrix(1.2,0,0,1.2,3.2,-16)" stroke-width=".71429">
-  <path d="m8 35.479c0 10.29 8.4961 24.521 16 24.521 7.0642 0 16-14.232 16-24.521 0-10.29-7.1634-15.479-16-15.479s-16 5.1888-16 15.479z" fill="#5ee05e"/>
-  <path d="m28.382 42.382c2.0206-2.0206 4.8396-2.7554 7.4415-2.2055 0.54985 2.6018-0.18496 5.4209-2.2055 7.4414-2.0206 2.0206-4.8396 2.7554-7.4414 2.2055-0.54992-2.6019 0.18495-5.4209 2.2055-7.4414z" fill="#2c3135"/>
-  <path d="m12.176 40.313c2.6018-0.54222 5.4209 0.18239 7.4414 2.1749 2.0206 1.9925 2.7554 4.7724 2.2055 7.3381-2.6018 0.54222-5.4209-0.18238-7.4415-2.1749-2.0206-1.9926-2.7554-4.7724-2.2055-7.3381z" fill="#2c3135"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="alienarena.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#282a36"
+     style="paint-order:stroke fill markers;fill:#44475a"
+     id="circle2" />
+  <g
+     transform="matrix(1.2,0,0,1.2,3.2,-16)"
+     stroke-width=".71429"
+     id="g10">
+    <path
+       d="m8 35.479c0 10.29 8.4961 24.521 16 24.521 7.0642 0 16-14.232 16-24.521 0-10.29-7.1634-15.479-16-15.479s-16 5.1888-16 15.479z"
+       fill="#44c367"
+       id="path4"
+       style="fill:#44c367" />
+    <path
+       d="m28.382 42.382c2.0206-2.0206 4.8396-2.7554 7.4415-2.2055 0.54985 2.6018-0.18496 5.4209-2.2055 7.4414-2.0206 2.0206-4.8396 2.7554-7.4414 2.2055-0.54992-2.6019 0.18495-5.4209 2.2055-7.4414z"
+       fill="#282a36"
+       id="path6"
+       style="fill:#44475a" />
+    <path
+       d="m12.176 40.313c2.6018-0.54222 5.4209 0.18239 7.4414 2.1749 2.0206 1.9925 2.7554 4.7724 2.2055 7.3381-2.6018 0.54222-5.4209-0.18238-7.4415-2.1749-2.0206-1.9926-2.7554-4.7724-2.2055-7.3381z"
+       fill="#282a36"
+       id="path8"
+       style="fill:#44475a" />
+  </g>
 </svg>

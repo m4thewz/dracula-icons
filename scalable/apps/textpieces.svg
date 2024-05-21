@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="textpieces.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#9ea0a6"
+     id="circle2" />
+  <path
+     fill="#cbcccc"
+     d="M15.912 27.783v1.406a5.61 5.61 0 0 0 5.622 5.622h1.405v-4.217h4.217c.779 0 1.405.627 1.405 1.406s-.626 1.405-1.405 1.405H25.75v1.406h15.46a3.506 3.506 0 0 0 3.514-3.514 3.507 3.507 0 0 0-2.284-3.294l.176-.22z"
+     id="path4" />
+  <path
+     fill="#f8f8f2"
+     d="M20.43 11.62c0 7.279 2.911 11.646 8.734 16.012l.274.182c.11.093.225.181.347.265l8.866 6.055a4.12 4.12 0 0 0 5.739-1.082 4.118 4.118 0 0 0-.671-5.417l.003-.003-.026-.017a4.206 4.206 0 0 0-.388-.301l-7.875-5.379z"
+     id="path6" />
+  <path
+     fill="#e74b52"
+     d="M42.993 24.722c-1.35.001-2.687.499-3.64 1.455L21.885 43.645c-.955.952-1.454 2.29-1.455 3.64a5.09 5.09 0 0 0 5.095 5.094c1.35-.001 2.687-.499 3.64-1.455l17.467-17.468c.956-.952 1.454-2.29 1.456-3.64a5.09 5.09 0 0 0-5.095-5.094z"
+     id="path8"
+     style="fill:#c7484a" />
+  <path
+     fill="#f8f8f2"
+     d="m26.252 42.19-.728.728 1.092 1.091-.728.728-1.091-1.092-.728.728 1.092 1.092-1.092 1.091.728.728 1.091-1.092.728.728-1.092 1.093.728.727 1.092-1.092 1.092 1.092.728-.727-1.092-1.093.728-.728 1.092 1.092.727-.728-1.091-1.09 1.091-1.093-.727-.728-1.092 1.092-.728-.728 1.092-1.091-.73-.728-1.09 1.092zm1.092 2.547.728.728-.728.727-.728-.727z"
+     id="path10" />
+  <path
+     fill="#9ea0a6"
+     d="M24.797 16.078v1.455l8.734 6.005v-1.456z"
+     id="path12" />
+</svg>

@@ -1,24 +1,127 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <linearGradient id="a" x1="30" x2="57" y1="44" y2="44" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-  <linearGradient id="b">
-   <stop offset="0"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
-  <linearGradient id="c" x1="32" x2="32" y1="13" y2="9" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
- </defs>
- <circle cx="8.4665" cy="8.4665" r="6.6145" fill="#3578c7" style="paint-order:stroke markers fill"/>
- <path d="m5.1323 3.7041a5.8208 5.8208 0 0 0-2.4866 4.7624 5.8208 5.8208 0 0 0 5.8208 5.8208 5.8208 5.8208 0 0 0 5.8208-5.8208 5.8208 5.8208 0 0 0-2.4794-4.7624z" fill="#ffffff" style="paint-order:stroke markers fill"/>
- <path d="m8.4665 1.852a6.6145 6.6145 0 0 0-3.9444 1.3229h7.8976a6.6145 6.6145 0 0 0-3.9532-1.3229z" fill="url(#c)" opacity=".15" style="paint-order:stroke markers fill"/>
- <path d="m8.466 4.2332c-0.29211 6.879e-4 -0.38134 0.27599-0.52916 0.52967l-0.30799 0.52812-5.5525 5.167e-4a7.1436 7.1436 0 0 0-0.75343 3.1749 7.1436 7.1436 0 0 0 7.1436 7.1436 7.1436 7.1436 0 0 0 7.1436-7.1436 7.1436 7.1436 0 0 0-1.3999-4.2332h-5.7432z" fill="#5294e2" style="paint-order:stroke markers fill"/>
- <rect x="9.2599" y="4.762" width="3.969" height=".529" ry=".265" opacity=".25" style="paint-order:stroke markers fill"/>
- <path d="m15.61 8.4666-7.1437 7.1437a7.1437 7.1437 0 0 0 7.1437-7.1437z" fill="url(#a)" opacity=".15" style="paint-order:stroke markers fill"/>
- <path d="m6.3499 6.3499v1.0583c2.3381 0 4.2332 1.8952 4.2332 4.2332h1.0583c0-2.9235-2.3691-5.2916-5.2916-5.2916m0 2.1167v1.0583c1.1689 0 2.1167 0.94772 2.1167 2.1167h1.0583c0-1.7534-1.4216-3.1749-3.1749-3.1749m0 2.1167c-0.58445 0-1.0583 0.47386-1.0583 1.0583 0 0.58445 0.47386 1.0583 1.0583 1.0583 0.58445 0 1.0583-0.47386 1.0583-1.0583 0-0.58445-0.47386-1.0583-1.0583-1.0583" opacity=".15" stroke-width=".19843"/>
- <g transform="translate(-1.0578)">
-  <circle cx="13.493" cy="12.435" r="3.4395" fill="#4d4d4d" style="paint-order:stroke fill markers"/>
-  <path d="m13.493 10.451a1.3229 1.3229 0 0 0-1.3229 1.3229h-0.22014c-0.17106 0-0.30903 0.13796-0.30903 0.30903v2.0283c0 0.17106 0.13796 0.3085 0.30903 0.3085h3.0866c0.17106 0 0.3085-0.13745 0.3085-0.3085v-2.0283c0-0.17106-0.13745-0.30903-0.3085-0.30903h-0.22066a1.3229 1.3229 0 0 0-1.3229-1.3229zm0 0.26458a0.92603 0.92603 0 0 1 0.92603 0.92603 0.92603 0.92603 0 0 1-0.01085 0.13229h-1.8309a0.92603 0.92603 0 0 1-0.01033-0.13229 0.92603 0.92603 0 0 1 0.92603-0.92603z" fill="#ffffff" stroke-width=".26458"/>
-  <circle cx="13.493" cy="13.097" r="1.0583" fill="#808080" stroke-width=".26458"/>
-  <rect x="13.229" y="13.097" width=".52916" height=".79374" fill="#1a1a1a" stroke-width=".26458"/>
-  <circle cx="13.493" cy="12.832" r=".52916" fill="#1a1a1a" stroke-width=".26458"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg35"
+   sodipodi:docname="securefx.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview37"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg35" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="a"
+       x1="42"
+       x2="44"
+       y1="51"
+       y2="55"
+       gradientTransform="scale(.26458)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <circle
+     cx="8.466"
+     cy="8.466"
+     r="7.408"
+     fill="#44475a"
+     style="paint-order:stroke fill markers"
+     id="circle9" />
+  <path
+     fill="url(#a)"
+     d="m15.164 11.613-7.327 4.23a7.408 7.408 0 0 0 .63.032 7.408 7.408 0 0 0 6.697-4.262z"
+     opacity=".1"
+     style="paint-order:stroke fill markers"
+     id="path11" />
+  <path
+     d="M8.466 1.058a7.408 7.408 0 0 0-6.692 4.234h5.052l.318-.53c.15-.251.443-.529.793-.529h6.608a7.408 7.408 0 0 0-6.079-3.175z"
+     opacity=".2"
+     id="path13" />
+  <path
+     fill="#fff"
+     d="M4.278 3.704a6.35 6.35 0 0 0-1.29 1.588h3.838l.318-.53c.15-.251.443-.529.793-.529h5.244a6.35 6.35 0 0 0-.523-.529z"
+     style="paint-order:stroke fill markers;fill:#8894b8"
+     id="path15" />
+  <path
+     d="M8.467 1.058A7.408 7.408 0 0 0 3.58 2.91h9.776a7.408 7.408 0 0 0-4.89-1.852z"
+     opacity=".15"
+     style="paint-order:stroke fill markers"
+     id="path17" />
+  <rect
+     width="3.969"
+     height=".529"
+     x="9.26"
+     y="4.762"
+     opacity=".25"
+     ry=".265"
+     style="paint-order:stroke markers fill"
+     id="rect19" />
+  <path
+     d="M6.35 6.35v1.058a4.233 4.233 0 0 1 4.233 4.233h1.058A5.29 5.29 0 0 0 6.35 6.35m0 2.117v1.058c1.169 0 2.117.948 2.117 2.116h1.058A3.175 3.175 0 0 0 6.35 8.467m0 2.116a1.058 1.058 0 1 0 0 2.117 1.058 1.058 0 0 0 0-2.117"
+     opacity=".15"
+     id="path21" />
+  <g
+     transform="translate(-1.058)"
+     id="g33">
+    <circle
+       cx="13.493"
+       cy="12.435"
+       r="3.439"
+       fill="#4d4d4d"
+       style="paint-order:stroke fill markers;fill:#282a36"
+       id="circle23" />
+    <path
+       fill="#fff"
+       d="M13.493 10.451a1.323 1.323 0 0 0-1.323 1.323h-.22a.309.309 0 0 0-.31.309v2.028a.31.31 0 0 0 .31.309h3.087a.308.308 0 0 0 .308-.309v-2.028a.308.308 0 0 0-.308-.31h-.221a1.323 1.323 0 0 0-1.323-1.322zm0 .265a.926.926 0 0 1 .926.926.926.926 0 0 1-.01.132h-1.832a.926.926 0 0 1-.01-.132.926.926 0 0 1 .926-.926z"
+       id="path25"
+       style="fill:#f8f8f2" />
+    <circle
+       cx="13.493"
+       cy="13.097"
+       r="1.058"
+       fill="gray"
+       id="circle27"
+       style="fill:#717380" />
+    <path
+       fill="#1a1a1a"
+       d="M13.229 13.097h.529v.794h-.529z"
+       id="path29"
+       style="fill:#282a36" />
+    <circle
+       cx="13.493"
+       cy="12.832"
+       r=".529"
+       fill="#1a1a1a"
+       id="circle31"
+       style="fill:#282a36" />
+  </g>
 </svg>

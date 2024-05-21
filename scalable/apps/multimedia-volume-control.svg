@@ -1,14 +1,85 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0 -280.07)">
-  <circle cx="8.4665" cy="288.53" r="7.1436" fill="#ffbd55" style="paint-order:stroke markers fill"/>
-  <g stroke-width=".789">
-   <path d="m4.445 284.51c-1.34 3.016-1.34 5.027 0 8.043 2.682 1.34 5.363 1.34 8.043 0 1.34-3.016 1.34-5.027 0-8.043-2.681-1.34-5.363-1.34-8.043 0z" fill="#fff"/>
-   <path d="m12.823 288.53a4.357 4.357 0 1 1-8.713 0 4.357 4.357 0 1 1 8.713 0z" fill="#666"/>
-   <path d="m11.818 288.53a3.351 3.351 0 1 1-6.703 0 3.351 3.351 0 1 1 6.703 0z" fill="#ffbd55"/>
-   <path d="M5.45 284.847a.67.67 0 1 1-1.34 0 .67.67 0 1 1 1.34 0zM5.45 292.22a.67.67 0 1 1-1.34 0 .67.67 0 1 1 1.34 0zM12.823 292.22a.67.67 0 1 1-1.34 0 .67.67 0 1 1 1.34 0zM12.823 284.847a.67.67 0 1 1-1.34 0 .67.67 0 1 1 1.34 0z" fill="#fff"/>
-   <path d="m10.812 288.53a2.346 2.346 0 1 1-4.691 0 2.346 2.346 0 1 1 4.691 0z" fill="#4d4d4d"/>
-   <path d="M9.807 287.863a.67.67 0 1 1-1.34 0 .67.67 0 1 1 1.34 0z" fill="#fff"/>
-   <path d="M5.115 284.847a.335.335 0 1 1-.67 0 .335.335 0 1 1 .67 0M12.488 284.847a.335.335 0 1 1-.67 0 .335.335 0 1 1 .67 0M12.488 292.22a.335.335 0 1 1-.67 0 .335.335 0 1 1 .67 0M5.115 292.22a.335.335 0 1 1-.67 0 .335.335 0 1 1 .67 0" fill="#ccc"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg7318"
+   sodipodi:docname="multimedia-volume-control.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7322" />
+  <sodipodi:namedview
+     id="namedview7320"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7318" />
+  <g
+     transform="translate(0 -280.07)"
+     id="g7316">
+    <circle
+       cx="8.4665"
+       cy="288.53"
+       r="7.1436"
+       fill="#ffbd55"
+       style="paint-order:stroke markers fill;fill:#ffb86c"
+       id="circle7298" />
+    <g
+       stroke-width=".789"
+       id="g7314">
+      <path
+         d="m4.445 284.51c-1.34 3.016-1.34 5.027 0 8.043 2.682 1.34 5.363 1.34 8.043 0 1.34-3.016 1.34-5.027 0-8.043-2.681-1.34-5.363-1.34-8.043 0z"
+         fill="#f8f8f2"
+         id="path7300"
+         style="fill:#f8f8f2" />
+      <path
+         d="m12.823 288.53a4.357 4.357 0 1 1-8.713 0 4.357 4.357 0 1 1 8.713 0z"
+         fill="#717380"
+         id="path7302"
+         style="fill:#717380" />
+      <path
+         d="m11.818 288.53a3.351 3.351 0 1 1-6.703 0 3.351 3.351 0 1 1 6.703 0z"
+         fill="#ffbd55"
+         id="path7304"
+         style="fill:#ffb86c" />
+      <path
+         d="M5.45 284.847a.67.67 0 1 1-1.34 0 .67.67 0 1 1 1.34 0zM5.45 292.22a.67.67 0 1 1-1.34 0 .67.67 0 1 1 1.34 0zM12.823 292.22a.67.67 0 1 1-1.34 0 .67.67 0 1 1 1.34 0zM12.823 284.847a.67.67 0 1 1-1.34 0 .67.67 0 1 1 1.34 0z"
+         fill="#f8f8f2"
+         id="path7306"
+         style="fill:#f8f8f2" />
+      <path
+         d="m10.812 288.53a2.346 2.346 0 1 1-4.691 0 2.346 2.346 0 1 1 4.691 0z"
+         fill="#44475a"
+         id="path7308"
+         style="fill:#44475a" />
+      <path
+         d="M9.807 287.863a.67.67 0 1 1-1.34 0 .67.67 0 1 1 1.34 0z"
+         fill="#f8f8f2"
+         id="path7310"
+         style="fill:#f8f8f2" />
+      <path
+         d="M5.115 284.847a.335.335 0 1 1-.67 0 .335.335 0 1 1 .67 0M12.488 284.847a.335.335 0 1 1-.67 0 .335.335 0 1 1 .67 0M12.488 292.22a.335.335 0 1 1-.67 0 .335.335 0 1 1 .67 0M5.115 292.22a.335.335 0 1 1-.67 0 .335.335 0 1 1 .67 0"
+         fill="#cbcccc"
+         id="path7312"
+         style="fill:#cbcccc" />
+    </g>
   </g>
- </g>
 </svg>

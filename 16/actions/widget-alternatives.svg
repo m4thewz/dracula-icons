@@ -1,10 +1,8 @@
-<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-    <style
-        type="text/css"
-        id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#FFFFFF;
-        }
-    </style>
-    <path class="ColorScheme-Text" d="m14 3v3h-4v-3zm-1 1h-2v1h2zm-7.1719 0.67188 0.70703 0.70703-1.6211 1.6211h4.0859v1h-4.0859l1.6211 1.6211-0.70703 0.70703-2.8281-2.8281 2.8281-2.8281zm4.3438 2 2.8281 2.8281-2.8281 2.8281-0.70703-0.70703 1.6211-1.6211h-4.0859v-1h4.0859l-1.6211-1.6211 0.70703-0.70703zm-4.1719 4.3281v3h-4v-3zm-1 1h-2v1h2z" fill="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 10 1 L 10 3 L 6 3 L 6 5 L 10 5 L 10 7 L 12.5 5.5 L 15 4 L 12.5 2.5 L 10 1 z M 1 2 L 1 6 L 5 6 L 5 2 L 1 2 z M 6 9 L 3.5 10.5 L 1 12 L 3.5 13.5 L 6 15 L 6 13 L 10 13 L 10 11 L 6 11 L 6 9 z M 11 10 L 11 14 L 15 14 L 15 10 L 11 10 z"/>
 </svg>

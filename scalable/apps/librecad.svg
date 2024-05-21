@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   fill="none"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="librecad.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#f8f8f2"
+     id="circle2" />
+  <path
+     fill="#8ED900"
+     d="M17.273 17.273V9.366a27.146 27.146 0 0 0-7.907 7.907h7.907Zm29.454-7.907v7.907h7.907a27.145 27.145 0 0 0-7.907-7.907Zm7.906 37.361h-7.906v7.907a27.145 27.145 0 0 0 7.907-7.907Zm-37.36 7.906v-7.906H9.366a27.145 27.145 0 0 0 7.907 7.907Z"
+     id="path4"
+     style="fill:#44c367" />
+  <path
+     fill="#4D4D4D"
+     d="M22.182 29.546H50v4.909H22.182z"
+     id="path6"
+     style="fill:#44475a" />
+  <circle
+     cx="32"
+     cy="32"
+     r="16.136"
+     stroke="#8ED900"
+     stroke-width="7"
+     id="circle8"
+     style="stroke:#44c367" />
+  <path
+     fill="#4D4D4D"
+     d="M12.364 27.091h9.818v9.818h-9.818z"
+     id="path10"
+     style="fill:#44475a" />
+</svg>

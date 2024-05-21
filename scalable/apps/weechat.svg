@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg2562"
+   sodipodi:docname="weechat.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2566" />
+  <sodipodi:namedview
+     id="namedview2564"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2562" />
+  <path
+     fill="#ffc688"
+     d="M32 5c14.912 0 27 12.087 27 26.999s-12.088 27-27 27-27-12.088-27-27 12.088-27 27-27z"
+     id="path2556"
+     style="fill:#fdc88e" />
+  <path
+     fill="#29b55d"
+     d="m49 20.608-21.034.49c-2.068.047-4.149.837-5.788 2.158-1.58 1.302-2.524 3.224-3.017 5.178l7.5-.326c.067-.825.535-1.574 1.137-2.121.544-.471 1.237-.787 1.962-.814l18.017-.652z"
+     id="path2558"
+     style="fill:#44c367" />
+  <path
+     fill="#384aaa"
+     d="m18.428 30.555-3.18 8.397c-.42 1.109-.347 2.502.525 3.363 1.028 1.016 2.59 1.165 3.96 1.04l22.337-2.039 4.973-14.675-6.359.245-3.831 10.843-3.424.245L37.26 27.05l-6.848.326-4.076 11.25-2.283.081c-.66.024-1.019-.896-.815-1.467l2.527-7.093z"
+     id="path2560"
+     style="fill:#6272a4" />
+</svg>

@@ -1,30 +1,146 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#999" style="paint-order:stroke fill markers"/>
- <path d="m32 6.0004a26 26 0 0 0-26 26 26 26 0 0 0 1.04 7.2352v-2.0352c0-1.7285 1.3915-3.12 3.12-3.12h1.2736a21.84 21.84 0 0 0 18.486 14.454v5.3056c0 1.7285-1.3915 3.12-3.12 3.12h-2.0069a26 26 0 0 0 7.2068 1.04 26 26 0 0 0 26-26 26 26 0 0 0-26-26z" fill="#cacbcf" stroke-width="1.04" style="paint-order:stroke fill markers"/>
- <g transform="translate(-2,2)">
-  <path d="m53 13a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#85858a"/>
-  <path d="m52 13a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#fff"/>
- </g>
- <g transform="translate(0,4)">
-  <path d="m17 11a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#85858a"/>
-  <path d="m16 11a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#fff"/>
- </g>
- <path d="m48 27.122c0 8.715-7.163 15.878-16 15.878s-16-7.163-16-15.878c0-8.958 7.163-16.122 16-16.122s16 7.164 16 16.122" fill="#fff" fill-rule="evenodd"/>
- <g transform="matrix(-1,0,0,1,44,46)" fill="#949496" fill-rule="evenodd">
-  <rect width="1" height="7" rx=".5"/>
-  <rect x="2" width="1" height="7" rx=".5"/>
-  <rect x="4" width="1" height="7" rx=".5"/>
-  <rect x="6" width="1" height="7" rx=".5"/>
-  <rect x="8" width="1" height="7" rx=".5"/>
- </g>
- <g transform="translate(-3,-2)">
-  <path d="m53 51a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#85858a"/>
-  <path d="m52 51a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#fff"/>
- </g>
- <g transform="translate(0,-4)">
-  <path d="m17 53a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" fill="#6a6a6a"/>
-  <path d="m16 53a1 1 0 1 0-2 0 1 1 0 0 0 2 0z" fill="#fff"/>
- </g>
- <path d="m46 27.107c0 7.6256-6.2676 13.893-14 13.893s-14-6.2676-14-13.893c0-7.8382 6.2676-14.107 14-14.107s14 6.2685 14 14.107" fill="#f6b44d" fill-rule="evenodd" stroke-width=".875"/>
- <path d="m32 15c-6.648 0-12 5.352-12 12s5.352 12 12 12 12-5.352 12-12-5.352-12-12-12m0 1.5c5.817 0 10.5 4.683 10.5 10.5s-4.683 10.5-10.5 10.5-10.5-4.683-10.5-10.5 4.683-10.5 10.5-10.5m-1.5 1.5v10.5h9v-1.5h-7.5v-9z" fill="#fff"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg48"
+   sodipodi:docname="preferences-system-backup.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs52" />
+  <sodipodi:namedview
+     id="namedview50"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg48" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#9ea0a6"
+     style="paint-order:stroke fill markers"
+     id="circle2" />
+  <path
+     d="m32 6.0004a26 26 0 0 0-26 26 26 26 0 0 0 1.04 7.2352v-2.0352c0-1.7285 1.3915-3.12 3.12-3.12h1.2736a21.84 21.84 0 0 0 18.486 14.454v5.3056c0 1.7285-1.3915 3.12-3.12 3.12h-2.0069a26 26 0 0 0 7.2068 1.04 26 26 0 0 0 26-26 26 26 0 0 0-26-26z"
+     fill="#cbcccc"
+     stroke-width="1.04"
+     style="paint-order:stroke fill markers"
+     id="path4" />
+  <g
+     transform="translate(-2,2)"
+     id="g10">
+    <path
+       d="m53 13a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"
+       fill="#717380"
+       id="path6" />
+    <path
+       d="m52 13a1 1 0 1 0-2 0 1 1 0 0 0 2 0z"
+       fill="#f8f8f2"
+       id="path8" />
+  </g>
+  <g
+     transform="translate(0,4)"
+     id="g16">
+    <path
+       d="m17 11a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"
+       fill="#717380"
+       id="path12" />
+    <path
+       d="m16 11a1 1 0 1 0-2 0 1 1 0 0 0 2 0z"
+       fill="#f8f8f2"
+       id="path14" />
+  </g>
+  <path
+     d="m48 27.122c0 8.715-7.163 15.878-16 15.878s-16-7.163-16-15.878c0-8.958 7.163-16.122 16-16.122s16 7.164 16 16.122"
+     fill="#f8f8f2"
+     fill-rule="evenodd"
+     id="path18" />
+  <g
+     transform="matrix(-1,0,0,1,44,46)"
+     fill="#9ea0a6"
+     fill-rule="evenodd"
+     id="g30">
+    <rect
+       width="1"
+       height="7"
+       rx=".5"
+       id="rect20" />
+    <rect
+       x="2"
+       width="1"
+       height="7"
+       rx=".5"
+       id="rect22" />
+    <rect
+       x="4"
+       width="1"
+       height="7"
+       rx=".5"
+       id="rect24" />
+    <rect
+       x="6"
+       width="1"
+       height="7"
+       rx=".5"
+       id="rect26" />
+    <rect
+       x="8"
+       width="1"
+       height="7"
+       rx=".5"
+       id="rect28" />
+  </g>
+  <g
+     transform="translate(-3,-2)"
+     id="g36">
+    <path
+       d="m53 51a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"
+       fill="#717380"
+       id="path32" />
+    <path
+       d="m52 51a1 1 0 1 0-2 0 1 1 0 0 0 2 0z"
+       fill="#f8f8f2"
+       id="path34" />
+  </g>
+  <g
+     transform="translate(0,-4)"
+     id="g42">
+    <path
+       d="m17 53a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"
+       fill="#717380"
+       id="path38" />
+    <path
+       d="m16 53a1 1 0 1 0-2 0 1 1 0 0 0 2 0z"
+       fill="#f8f8f2"
+       id="path40" />
+  </g>
+  <path
+     d="m46 27.107c0 7.6256-6.2676 13.893-14 13.893s-14-6.2676-14-13.893c0-7.8382 6.2676-14.107 14-14.107s14 6.2685 14 14.107"
+     fill="#f6b44d"
+     fill-rule="evenodd"
+     stroke-width=".875"
+     id="path44"
+     style="fill:#ffb86c" />
+  <path
+     d="m32 15c-6.648 0-12 5.352-12 12s5.352 12 12 12 12-5.352 12-12-5.352-12-12-12m0 1.5c5.817 0 10.5 4.683 10.5 10.5s-4.683 10.5-10.5 10.5-10.5-4.683-10.5-10.5 4.683-10.5 10.5-10.5m-1.5 1.5v10.5h9v-1.5h-7.5v-9z"
+     fill="#f8f8f2"
+     id="path46" />
 </svg>

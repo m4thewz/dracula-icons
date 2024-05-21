@@ -2,12 +2,12 @@
  <defs>
   <clipPath id="c">
    <g transform="translate(0 -1004.4)">
-    <path transform="matrix(15.333 0 0 11.5 415 878.86)" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" fill="#1890d0"/>
+    <path transform="matrix(15.333 0 0 11.5 415 878.86)" d="m-24 13c0 1.105-0.672 2-1.5 2s-1.5-0.895-1.5-2 0.672-2 1.5-2 1.5 0.895 1.5 2z" fill="#13b1d5"/>
    </g>
   </clipPath>
  </defs>
  <g transform="translate(1 -.9999)">
-  <circle cx="31" cy="33" r="27" fill="#ffbc01" stroke-width=".9"/>
+  <circle cx="31" cy="33" r="27" fill="#ffb86c" stroke-width=".9"/>
   <g transform="matrix(1.413 0 0 1.413 -63.384 -8.3311)" fill-opacity=".70161" stroke-width=".76667">
    <g transform="translate(42.795 5.8958)" fill-opacity=".70161" stroke-width=".76667">
     <g clip-path="url(#c)" fill-opacity=".70161" stroke-width=".76667">

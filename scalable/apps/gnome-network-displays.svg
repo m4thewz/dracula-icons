@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="gnome-network-displays.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#f8f8f2"
+     id="circle2" />
+  <path
+     fill="#9ea0a6"
+     d="m32 36.696-4.696 3.522c0 4.108-.587 4.108-3.521 5.87l8.217.586 8.217-.587c-2.934-1.76-3.521-1.76-3.521-5.87z"
+     id="path4" />
+  <path
+     fill="#cbcccc"
+     d="M23.783 46.087v1.174h16.435v-1.174z"
+     id="path6" />
+  <rect
+     width="30.522"
+     height="21.13"
+     x="16.739"
+     y="19.087"
+     fill="#282a36"
+     ry="1.174"
+     style="paint-order:normal;fill:#44475a"
+     id="rect8" />
+  <path
+     fill="#6a60cb"
+     d="M19.087 21.435h25.826V37.87H19.087z"
+     style="paint-order:normal;fill:#9576c5"
+     id="path10" />
+  <circle
+     cx="32"
+     cy="33.174"
+     r="2.348"
+     fill="#f8f8f2"
+     style="paint-order:normal"
+     id="circle12" />
+  <path
+     fill="#f8f8f2"
+     d="M32 23.783c-3.354.001-6.543 1.79-8.217 4.696l2.123 1.176c1.256-2.178 3.58-3.525 6.094-3.524s4.836 1.348 6.092 3.526l2.125-1.178c-1.675-2.906-4.863-4.697-8.217-4.696zm0 3.522a5.863 5.863 0 0 0-5.076 2.94l2.029 1.17a3.517 3.517 0 0 1 6.094.001l2.032-1.174A5.864 5.864 0 0 0 32 27.305z"
+     style="paint-order:normal"
+     id="path14" />
+</svg>

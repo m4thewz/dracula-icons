@@ -1,11 +1,11 @@
-<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#FFFFFF;
-      }
-      .ColorScheme-NegativeText {
-        color:#da4453;
-      }</style>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
  </defs>
- <path class="ColorScheme-NegativeText" d="m9 1c-1.108 0-2 0.892-2 2v1h-4.5c-0.277 0-0.5 0.223-0.5 0.5s0.23687 0.58656 0.5 0.5h0.49805l0.54688 13.061c0.0612 1.0155 0.9062 1.9395 1.998 1.9395h9.9141c1.0919 0 1.9368-0.92386 1.998-1.9395l0.54688-13.061h0.49805c0.277 0 0.5-0.223 0.5-0.5s-0.22318-0.48992-0.5-0.5h-4.5v-1c0-1.108-0.892-2-2-2h-3zm0 1h3c0.554 0 1 0.446 1 1v1h-5v-1c0-0.554 0.446-1 1-1zm-5 3h13l-0.54297 13c-0.03333 0.553-0.446 1-1 1h-9.9141c-0.554 0-0.96667-0.447-1-1l-0.54297-13zm3.5 2c-0.277 0-0.5 0.223-0.5 0.5v9c0 0.277 0.223 0.5 0.5 0.5s0.5-0.223 0.5-0.5v-9c0-0.277-0.223-0.5-0.5-0.5zm3.002 0c-0.277 0-0.5 0.223-0.5 0.5v9c0 0.277 0.223 0.5 0.5 0.5s0.5-0.223 0.5-0.5v-9c0-0.277-0.223-0.5-0.5-0.5zm2.998 0c-0.277 0-0.5 0.223-0.5 0.5v9c0 0.277 0.223 0.5 0.5 0.5s0.5-0.223 0.5-0.5v-9c0-0.277-0.223-0.5-0.5-0.5z" fill="currentColor"/>
+ <g transform="translate(3,-3)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 2,8 C 2,8 1,8 1,9 V 20 C 1,20 1,21 2,21 H 10 V 16 H 15 V 11 C 15,10 14,10 14,10 H 9 L 7,8 Z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 11,17 V 18 C 11,18.28 11.1,18.54 11.28,18.72 L 12.06,19.5 11.28,20.28 C 11.1,20.46 11,20.72 11,21 V 22 H 12 C 12.28,22 12.54,21.9 12.72,21.72 L 13.5,20.94 14.28,21.72 C 14.46,21.9 14.72,22 15,22 H 16 V 21 C 16,20.72 15.9,20.46 15.72,20.28 L 14.94,19.5 15.72,18.72 C 15.9,18.54 16,18.28 16,18 V 17 H 15 C 14.72,17 14.46,17.1 14.28,17.28 L 13.5,18.06 12.72,17.28 C 12.54,17.1 12.28,17 12,17 Z"/>
+ </g>
 </svg>

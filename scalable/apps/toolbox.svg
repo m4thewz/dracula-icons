@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="toolbox.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     d="M15.61 8.466a7.144 7.144 0 0 1-7.144 7.144 7.144 7.144 0 0 1-7.143-7.144 7.144 7.144 0 0 1 7.143-7.143 7.144 7.144 0 0 1 7.144 7.143z"
+     style="fill:#c7925b"
+     id="path2" />
+  <path
+     fill="#282a36"
+     d="M5.821 4.498h5.291a1.323 1.323 0 0 1 1.323 1.323v5.291a1.323 1.323 0 0 1-1.323 1.323H5.821a1.323 1.323 0 0 1-1.323-1.323V5.821a1.323 1.323 0 0 1 1.323-1.323Z"
+     style="paint-order:markers stroke fill"
+     id="path4" />
+  <path
+     d="M7.109 8.835v-2.92h.997v-.679H5.393v.679h.997v2.92h.719Zm3.669-1.871c.253-.155.413-.432.413-.792 0-.56-.4-.936-1.178-.936H8.492v3.599h1.61c.818 0 1.245-.36 1.245-.981 0-.453-.223-.762-.569-.89Zm-.854-1.101c.352 0 .543.139.543.422s-.191.427-.543.427h-.716v-.849h.716Zm-.716 2.345v-.889h.84c.374 0 .574.144.574.447 0 .309-.2.442-.574.442h-.84Z"
+     style="fill:#f8f8f2;white-space:pre"
+     id="path6" />
+  <path
+     d="M5.033 10.97h3.092v.614H5.033v-.614Z"
+     style="fill:#f8f8f2"
+     id="path8" />
+</svg>

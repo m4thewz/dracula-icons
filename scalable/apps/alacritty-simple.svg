@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="alacritty-simple.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <rect
+     width="14.287"
+     height="14.287"
+     x="1.323"
+     y="1.323"
+     fill="#ec4b02"
+     rx="7.144"
+     ry="7.144"
+     style="paint-order:stroke fill markers;fill:#ff5555"
+     id="rect2" />
+  <rect
+     width="12.7"
+     height="12.7"
+     x="2.117"
+     y="2.117"
+     fill="#29363d"
+     rx="6.35"
+     ry="6.35"
+     id="rect4"
+     style="fill:#44475a" />
+  <path
+     fill="#3c98fe"
+     d="m7.805 9.113-.207.507c.557 1.729.557 1.729.868 3.237.312-1.508.312-1.508.87-3.237l-.87-2.12z"
+     id="path6"
+     style="fill:#13b1d5" />
+  <path
+     fill="#ec7a02"
+     d="M7.74 4.083h1.452l3.216 7.938h-1.349L8.466 5.958 5.874 12.02H4.525z"
+     id="path8"
+     style="fill:#ffb86c" />
+</svg>

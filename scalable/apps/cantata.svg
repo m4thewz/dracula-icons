@@ -1,10 +1,69 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(1.35 0 0 1.35 -.4 -22)" stroke-linejoin="round" stroke-width="1.4815">
-  <circle transform="translate(0,16)" cx="24" cy="24" r="20" fill="#b3b3b3" stroke-linecap="round"/>
-  <path d="M 24,20 A 20,20 0 0 0 4,40 20,20 0 0 0 24,60 20,20 0 0 0 38.13281,54.13281 L 24,40 38.13,25.867 A 20,20 0 0 0 24,20" fill="#39c458"/>
-  <circle cx="24" cy="40" r="16" fill="#fcfcfc" stroke-linecap="round"/>
- </g>
- <g transform="translate(0,16)" fill-rule="evenodd">
-  <path d="m32-11.692 4.1539 1.3846s1.7197 5.2921 3.1044 6.6767c2.1891 2.1891 10.742 7.1697 10.742 18.247 0 8.3078-5.5386 13.846-12.462 18 6.9232-6.9232 9.6925-9.6925 9.6925-18 0-11.077-11.077-12.462-11.077-12.462v30.151c0 3.0808-2.9036 8.1943-7.6418 10.162-6.0066 2.4882-12.3 1.0676-14.054-3.1722-1.7543-4.2384 1.6893-9.6911 7.6945-12.178 3.5876-1.4871 6.9509-1.8277 9.849-0.5774z" fill="#4d4d4d"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="cantata.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <g
+     transform="matrix(1.35 0 0 1.35 -.4 -22)"
+     stroke-linejoin="round"
+     stroke-width="1.4815"
+     id="g8">
+    <circle
+       transform="translate(0,16)"
+       cx="24"
+       cy="24"
+       r="20"
+       fill="#9ea0a6"
+       stroke-linecap="round"
+       id="circle2" />
+    <path
+       d="M 24,20 A 20,20 0 0 0 4,40 20,20 0 0 0 24,60 20,20 0 0 0 38.13281,54.13281 L 24,40 38.13,25.867 A 20,20 0 0 0 24,20"
+       fill="#39c458"
+       id="path4"
+       style="fill:#44c367" />
+    <circle
+       cx="24"
+       cy="40"
+       r="16"
+       fill="#f8f8f2"
+       stroke-linecap="round"
+       id="circle6" />
+  </g>
+  <g
+     transform="translate(0,16)"
+     fill-rule="evenodd"
+     id="g12">
+    <path
+       d="m32-11.692 4.1539 1.3846s1.7197 5.2921 3.1044 6.6767c2.1891 2.1891 10.742 7.1697 10.742 18.247 0 8.3078-5.5386 13.846-12.462 18 6.9232-6.9232 9.6925-9.6925 9.6925-18 0-11.077-11.077-12.462-11.077-12.462v30.151c0 3.0808-2.9036 8.1943-7.6418 10.162-6.0066 2.4882-12.3 1.0676-14.054-3.1722-1.7543-4.2384 1.6893-9.6911 7.6945-12.178 3.5876-1.4871 6.9509-1.8277 9.849-0.5774z"
+       fill="#44475a"
+       id="path10" />
+  </g>
 </svg>

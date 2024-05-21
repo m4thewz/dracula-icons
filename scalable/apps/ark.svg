@@ -1,17 +1,99 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g>
-  <path d="m32 5a27 27 0 0 0-23.662 14h47.293a27 27 0 0 0-23.631-14z" fill="#7bd57d" style="paint-order:stroke fill markers"/>
-  <circle cx="32" cy="32" r="23" fill="#ffd351" style="paint-order:stroke fill markers"/>
-  <circle cx="32" cy="32" r="19" fill="#707ed0" style="paint-order:stroke fill markers"/>
-  <path d="m8.3379 19a27 27 0 0 0-3.3379 13 27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-3.3691-13h-47.293z" fill="#c49a6c" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m32 33a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2 2 2 0 0 0 2-2v-6a2 2 0 0 0-2-2zm0 7a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z" fill="#fff"/>
- <path d="m32 21h2v2h-2z" fill="#f2f2f2"/>
- <path d="m30 23h2v2h-2z" fill="#e0e0e0"/>
- <path d="m32 25h2v2h-2z" fill="#f2f2f2"/>
- <path d="m30 27h2v2h-2z" fill="#e0e0e0"/>
- <path d="m32 29h2v2h-2z" fill="#f2f2f2"/>
- <path d="m30 31h2v2h-2z" fill="#e0e0e0"/>
- <path d="m42 40c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h11c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm0 0.99805h2v4h-2zm3 2e-3h1v4h-1zm2 0h1v4h-1zm2 0h2v4h-2zm3 0h1v4h-1z" fill="#a97b50"/>
- <path d="m15 37-2 3h1v4h2v-4h1zm2 3h1v4h2v-4h1l-2-3zm-5 5v1h10v-1z" fill="#a97b50"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="ark.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs34" />
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30" />
+  <g
+     id="g10">
+    <path
+       d="m32 5a27 27 0 0 0-23.662 14h47.293a27 27 0 0 0-23.631-14z"
+       fill="#7bd57d"
+       style="paint-order:stroke fill markers;fill:#7afa99"
+       id="path2" />
+    <circle
+       cx="32"
+       cy="32"
+       r="23"
+       fill="#ffd351"
+       style="paint-order:stroke fill markers;fill:#f1fa8c"
+       id="circle4" />
+    <circle
+       cx="32"
+       cy="32"
+       r="19"
+       fill="#707ed0"
+       style="paint-order:stroke fill markers;fill:#168daa"
+       id="circle6" />
+    <path
+       d="m8.3379 19a27 27 0 0 0-3.3379 13 27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-3.3691-13h-47.293z"
+       fill="#c49a6c"
+       style="paint-order:stroke fill markers;fill:#c7925b"
+       id="path8" />
+  </g>
+  <path
+     d="m32 33a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2 2 2 0 0 0 2-2v-6a2 2 0 0 0-2-2zm0 7a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"
+     fill="#f8f8f2"
+     id="path12" />
+  <path
+     d="m32 21h2v2h-2z"
+     fill="#f8f8f2"
+     id="path14" />
+  <path
+     d="m30 23h2v2h-2z"
+     fill="#cbcccc"
+     id="path16" />
+  <path
+     d="m32 25h2v2h-2z"
+     fill="#f8f8f2"
+     id="path18" />
+  <path
+     d="m30 27h2v2h-2z"
+     fill="#cbcccc"
+     id="path20" />
+  <path
+     d="m32 29h2v2h-2z"
+     fill="#f8f8f2"
+     id="path22" />
+  <path
+     d="m30 31h2v2h-2z"
+     fill="#cbcccc"
+     id="path24" />
+  <path
+     d="m42 40c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h11c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm0 0.99805h2v4h-2zm3 2e-3h1v4h-1zm2 0h1v4h-1zm2 0h2v4h-2zm3 0h1v4h-1z"
+     fill="#a97b50"
+     id="path26"
+     style="fill:#1e1f29;opacity:0.4" />
+  <path
+     d="m15 37-2 3h1v4h2v-4h1zm2 3h1v4h2v-4h1l-2-3zm-5 5v1h10v-1z"
+     fill="#a97b50"
+     id="path28"
+     style="fill:#1e1f29;opacity:0.4" />
 </svg>

@@ -1,5 +1,10 @@
-<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color: #FFFFFF; }.ColorScheme-NegativeText { color: #da4453; }</style>
-    <path class="ColorScheme-Text" d="m15 3c-1.662 0-3 1.338-3 3s1.338 3 3 3 3-1.338 3-3-1.338-3-3-3zm-13 6v1h5.8789062l-1-1zm13 1c-0.646346 0-1.437635 0.200563-2 0.427734l0.447266 0.898438 0.01367 0.01367c0.427726-0.160032 1.055459-0.339842 1.539064-0.339842 2.21602 0 4 1.78398 4 4h-1.878906l1 1h1.878906v-1c0-2.77002-2.22998-5-5-5zm-12 1c-0.3523436 0-0.6859307 0.07201-1 0.183594v1.09375c0.2812497-0.163698 0.6015527-0.268514 0.9492188-0.277344h0.00195c0.0162831-1.99e-4 0.0325512-1.99e-4 0.0488312 0 1.104569 0 2 0.895431 2 2s-0.895431 2-2 2c-0.365911 0-0.70494-0.105764-1-0.277344v1.09375c0.3140693 0.111584 0.6476564 0.183594 1 0.183594 1.656854 0 3-1.343146 3-3s-1.343146-3-3-3zm7 1.121094v3.878906h-1v1h-1v1h-6v1h9v-5.878906zm3 3v0.878906h0.878906z" fill="currentColor"/>
-    <path class="ColorScheme-NegativeText" d="M 3.7070311,3 2.9999999,3.7070312 18.292969,19 19,18.292969 Z" fill="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="translate(3,3)">
+  <path style="opacity:.35;fill:currentColor" class="ColorScheme-Text" d="M 11 1 C 9.338 1 8 2.338 8 4 C 8 5.662 9.338 7 11 7 C 12.662 7 14 5.662 14 4 C 14 2.338 12.662 1 11 1 z M 0 6 L 0 7 L 4 7 L 4 8 L 5 8 L 5 9 L 6 9 L 6 13 L 5 13 L 5 14 L 4 14 L 4 15 L 0 15 L 0 16 L 7 16 L 7 6 L 0 6 z M 0 8 L 0 9.2773438 C 0.59563287 9.6237092 1 10.261342 1 11 C 1 11.738658 0.59563287 12.376291 0 12.722656 L 0 14 L 3 14 L 3 13 L 4 13 L 4 12 L 5 12 L 5 10 L 4 10 L 4 9 L 3 9 L 3 8 L 0 8 z M 11 8 C 10.353654 8 9.562365 8.2005634 9 8.4277344 L 9 14 L 16 14 L 16 13 C 16 10.22998 13.77002 8 11 8 z"/>
+ </g>
 </svg>

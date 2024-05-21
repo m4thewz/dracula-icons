@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="0ad.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     fill="#b89961"
+     d="M32 5c14.912 0 27 12.088 27 27S46.911 59 32 59 5 46.911 5 32 17.088 5 32 5z"
+     id="path2"
+     style="fill:#fdc88e" />
+  <path
+     fill="#805b20"
+     d="M32 14c-9.942 0-18 8.058-18 18s8.058 18 18 18 18-8.058 18-18-8.058-18-18-18z"
+     id="path4"
+     style="fill:#1e1f29;opacity:0.5" />
+  <path
+     fill="#f8f8f2"
+     d="M30.832 18.044a14.011 14.011 0 0 0-12.784 12.789h12.784zm2.335.005v12.784h12.79a14.011 14.011 0 0 0-12.79-12.784zM18.043 33.168a14.011 14.011 0 0 0 12.79 12.784V33.168zm15.124 0v12.789a14.011 14.011 0 0 0 12.784-12.79z"
+     id="path6" />
+</svg>

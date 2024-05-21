@@ -1,5 +1,8 @@
-<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color: #FFFFFF; }.ColorScheme-NegativeText { color: #da4453; }</style>
-    <path class="ColorScheme-Text" d="m4.1210938 2 1 1h6.8789062v1h1v1h1v-3h-9.8789062zm3.8789062 2c-0.5314364 0-0.953841 0.2417414-1.28125 0.5976562l0.4023438 0.4023438h2.4648437c-0.3538509-0.56299-0.8718919-1-1.5859375-1zm-6 0.1210938v0.8789062h0.8789062l-0.8789062-0.8789062zm0 1.8789062v3h1v-1h1v-1h0.8789062l-1-1h-1.8789062zm6.1210938 0 1 1h2.8789062v1h1v1h1v-3h-5.8789062zm-1.5078126 2.734375c-0.0689205 0.0860489-0.1397304 0.170977-0.1992187 0.265625h0.4648437l-0.265625-0.265625zm-4.6132812 1.265625v4h1v-2h1v-1h4.8789062l-1-1h-5.8789062zm10.121094 0 1.878906 1.878906v-1.878906h-1.878906zm-4.121094 2c-1.1045695 0-2 0.895431-2 2h1a1 1 0 0 1 1-1 1 1 0 0 1 1 1h1c0-1.104569-0.8954299-2-2-2z" fill="currentColor"/>
-    <path class="ColorScheme-NegativeText" d="M 2.7070315,2 2.0000002,2.7070312 13.292969,14 14,13.267578 Z" fill="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="opacity:.35;fill:currentColor" class="ColorScheme-Text" d="M 0 1 L 0 5 L 1 5 L 1 4 L 2 4 L 2 3 L 3 3 L 3 2 L 13 2 L 13 3 L 14 3 L 14 4 L 15 4 L 15 5 L 16 5 L 16 1 L 0 1 z M 4 3 L 4 4 L 3 4 L 3 5 L 6.2773438 5 C 6.6237092 4.4043671 7.2613415 4 8 4 C 8.7386582 4 9.3762907 4.4043671 9.7226562 5 L 13 5 L 13 4 L 12 4 L 12 3 L 4 3 z M 0 6 L 0 10 L 1 10 L 1 9 L 2 9 L 2 8 L 3 8 L 3 7 L 13 7 L 13 8 L 14 8 L 14 9 L 15 9 L 15 10 L 16 10 L 16 6 L 0 6 z M 4 8 L 4 9 L 3 9 L 3 10 L 6.2773438 10 C 6.6237092 9.4043671 7.2613415 9 8 9 C 8.7386582 9 9.3762907 9.4043671 9.7226562 10 L 13 10 L 13 9 L 12 9 L 12 8 L 4 8 z M 0 11 L 0 15 L 1 15 L 1 14 L 2 14 L 2 13 L 3 13 L 3 12 L 13 12 L 13 13 L 14 13 L 14 14 L 15 14 L 15 15 L 16 15 L 16 11 L 0 11 z M 4 13 L 4 14 L 3 14 L 3 15 L 6.2773438 15 C 6.6237092 14.404367 7.2613415 14 8 14 C 8.7386582 14 9.3762907 14.404367 9.7226562 15 L 13 15 L 13 14 L 12 14 L 12 13 L 4 13 z"/>
 </svg>

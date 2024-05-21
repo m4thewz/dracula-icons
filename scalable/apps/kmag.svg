@@ -1,12 +1,90 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#eceff1" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
- <g transform="translate(0 -1058.5)">
-  <path d="m22 1070.5v2h9v-2zm-6 4v2h22v-2zm0 6v2h31v-2zm0 4v2h31v-2zm0 4v2h31v-2zm0 6v2h31v-2zm0 4v2h31v-2zm0 4v2h15v-2zm19 7v2h7v-2z" fill="#90a4ae"/>
-  <path d="m47 1087.5a10 10 0 0 0-10 10 10 10 0 0 0 10 10h7c1.662 0 3-1.338 3-3v-7a10 10 0 0 0-10-10z" fill="#546e7a"/>
-  <circle cx="55" cy="1105.5" rx="1" ry="1" fill="#37474f"/>
-  <circle transform="scale(-1,1)" cx="-47" cy="1097.5" rx="8" ry="8" fill="#eceff1"/>
-  <circle transform="scale(-1,1)" cx="-47" cy="1097.5" rx="8" ry="8" fill="#d0eaf6"/>
-  <path d="m42.111 1092.5a7 7 0 0 0-2.0332 4h8.9219v-4h-6.8887z" fill="#8ab1c3"/>
-  <path d="m40.08 1098.5a7 7 0 0 0 2.0234 4h6.8965v-4h-8.9199z" fill="#8ab1c3"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 64 64"
+   id="svg20"
+   sodipodi:docname="kmag.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     id="namedview22"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#eceff1"
+     stroke-width="3.7796"
+     style="paint-order:stroke fill markers;fill:#f8f8f2"
+     id="circle2" />
+  <g
+     transform="translate(0 -1058.5)"
+     id="g18">
+    <path
+       d="m22 1070.5v2h9v-2zm-6 4v2h22v-2zm0 6v2h31v-2zm0 4v2h31v-2zm0 4v2h31v-2zm0 6v2h31v-2zm0 4v2h31v-2zm0 4v2h15v-2zm19 7v2h7v-2z"
+       fill="#90a4ae"
+       id="path4"
+       style="fill:#9ea0a6" />
+    <path
+       d="m47 1087.5a10 10 0 0 0-10 10 10 10 0 0 0 10 10h7c1.662 0 3-1.338 3-3v-7a10 10 0 0 0-10-10z"
+       fill="#546e7a"
+       id="path6"
+       style="fill:#168daa" />
+    <circle
+       cx="55"
+       cy="1105.5"
+       rx="1"
+       ry="1"
+       fill="#37474f"
+       id="circle8" />
+    <circle
+       transform="scale(-1,1)"
+       cx="-47"
+       cy="1097.5"
+       rx="8"
+       ry="8"
+       fill="#eceff1"
+       id="circle10" />
+    <circle
+       transform="scale(-1,1)"
+       cx="-47"
+       cy="1097.5"
+       rx="8"
+       ry="8"
+       fill="#d0eaf6"
+       id="circle12" />
+    <path
+       d="m42.111 1092.5a7 7 0 0 0-2.0332 4h8.9219v-4h-6.8887z"
+       fill="#8ab1c3"
+       id="path14"
+       style="fill:#72bfd0" />
+    <path
+       d="m40.08 1098.5a7 7 0 0 0 2.0234 4h6.8965v-4h-8.9199z"
+       fill="#8ab1c3"
+       id="path16"
+       style="fill:#72bfd0" />
+  </g>
 </svg>

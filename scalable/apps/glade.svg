@@ -1,15 +1,123 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="32" cy="32" r="27" fill="#e6e6e6" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
- <circle cx="32" cy="32" r="22" fill="#f2f2f2" stroke-width="3.0797" style="paint-order:stroke fill markers"/>
- <circle cx="21.5" cy="28.5" r="2" fill="none" stroke="#c9caca" stroke-miterlimit="10"/>
- <circle cx="21.5" cy="38.5" r="2" fill="none" stroke="#c9caca" stroke-miterlimit="10"/>
- <g fill="#b3b3b3">
-  <rect x="11" y="17" width="42" height="1" opacity=".5"/>
-  <rect x="11" y="21" width="42" height="1" opacity=".5"/>
-  <rect x="11" y="44" width="42" height="1" opacity=".5"/>
-  <rect x="11" y="48" width="42" height="1" opacity=".5"/>
-  <rect transform="rotate(90)" x="15" y="-15" width="36" height="1" opacity=".5"/>
-  <rect transform="rotate(90)" x="15" y="-50" width="36" height="1" opacity=".5"/>
- </g>
- <path d="m7 51h48v-32zm41-7h-18l18-12z" fill="#64cf00" opacity=".7" stroke-width="1.1606"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="glade.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#cbcccc"
+     stroke-width="3.7796"
+     style="paint-order:stroke fill markers"
+     id="circle2" />
+  <circle
+     cx="32"
+     cy="32"
+     r="22"
+     fill="#f8f8f2"
+     stroke-width="3.0797"
+     style="paint-order:stroke fill markers"
+     id="circle4" />
+  <circle
+     cx="21.5"
+     cy="28.5"
+     r="2"
+     fill="none"
+     stroke="#c9caca"
+     stroke-miterlimit="10"
+     id="circle6"
+     style="stroke:#cbcccc" />
+  <circle
+     cx="21.5"
+     cy="38.5"
+     r="2"
+     fill="none"
+     stroke="#c9caca"
+     stroke-miterlimit="10"
+     id="circle8"
+     style="stroke:#cbcccc" />
+  <g
+     fill="#9ea0a6"
+     id="g22">
+    <rect
+       x="11"
+       y="17"
+       width="42"
+       height="1"
+       opacity=".5"
+       id="rect10" />
+    <rect
+       x="11"
+       y="21"
+       width="42"
+       height="1"
+       opacity=".5"
+       id="rect12" />
+    <rect
+       x="11"
+       y="44"
+       width="42"
+       height="1"
+       opacity=".5"
+       id="rect14" />
+    <rect
+       x="11"
+       y="48"
+       width="42"
+       height="1"
+       opacity=".5"
+       id="rect16" />
+    <rect
+       transform="rotate(90)"
+       x="15"
+       y="-15"
+       width="36"
+       height="1"
+       opacity=".5"
+       id="rect18" />
+    <rect
+       transform="rotate(90)"
+       x="15"
+       y="-50"
+       width="36"
+       height="1"
+       opacity=".5"
+       id="rect20" />
+  </g>
+  <path
+     d="m7 51h48v-32zm41-7h-18l18-12z"
+     fill="#64cf00"
+     opacity=".7"
+     stroke-width="1.1606"
+     id="path24"
+     style="fill:#44c367" />
 </svg>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="org.gnome.Adwaita1.Demo.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#69c2bf"
+     id="circle2"
+     style="fill:#72bfd0" />
+  <g
+     fill="#f8f8f2"
+     id="g12">
+    <circle
+       cx="32"
+       cy="32"
+       r="23"
+       opacity=".1"
+       id="circle4"
+       style="opacity:0.25" />
+    <path
+       d="M12.742 30.93H32v19.258z"
+       id="path6" />
+    <path
+       d="M44.838 18.092H32V30.93z"
+       opacity=".75"
+       id="path8" />
+    <path
+       d="M32 30.93h9.629v9.629z"
+       opacity=".5"
+       id="path10" />
+  </g>
+</svg>

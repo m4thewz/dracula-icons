@@ -8,7 +8,7 @@
    <stop stop-color="#9c6d42" stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
- <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#f9f9f9" style="paint-order:stroke fill markers"/>
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#f8f8f2" style="paint-order:stroke fill markers"/>
  <g transform="matrix(.61537 0 0 .61537 3.2563 3.2563)">
   <g stroke-width="204.07">
    <path transform="matrix(.26458 0 0 .26458 3.2916e-5 3.2916e-5)" d="m51.502 6v6.5h6.498v-3.5c0-1.6619-1.3381-3-3-3z" fill="#45a943"/>

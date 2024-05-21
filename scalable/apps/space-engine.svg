@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="space-engine.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#282a36"
+     fill-rule="evenodd"
+     style="paint-order:stroke fill markers;fill:#44475a"
+     id="circle2" />
+  <path
+     fill="#f8f8f2"
+     d="m30.226 28.838-.006-4.751s-8.07.058-14.204.058c-1.98 0-3.734 2.61-3.78 4.58 6.58 0 17.99.113 17.99.113zm-17.98 7.258-.009 4.786s8.703-.058 14.836-.058c1.98 0 3.734-2.61 3.78-4.58-6.58 0-18.607-.148-18.607-.148zm-.04-6.008c6.136 0 9.4.096 14.85.096 2.439 0 3.776 2.731 3.776 4.628-4.479 0-7.645-.141-14.322-.141-3.1 0-4.305-3.324-4.304-4.583zm21.429-5.966h18.16v4.653H33.629zm-.032 11.986h18.16v4.653H33.598zm-.087-6.006h13.71v4.653H33.51z"
+     id="path4" />
+</svg>

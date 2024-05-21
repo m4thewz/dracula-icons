@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="diligent-graphics.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <g
+     transform="translate(0 -280.07)"
+     id="g14">
+    <rect
+       width="14.287"
+       height="14.287"
+       x="-295.68"
+       y="-15.61"
+       fill="#268bcf"
+       rx="7.144"
+       ry="7.144"
+       transform="matrix(0 -1 -1 0 0 0)"
+       id="rect2"
+       style="fill:#168daa" />
+    <rect
+       width="11.642"
+       height="11.642"
+       x="-294.35"
+       y="-14.288"
+       opacity=".15"
+       rx="5.821"
+       ry="5.821"
+       transform="matrix(0 -1 -1 0 0 0)"
+       id="rect4"
+       style="fill:#1e1f29" />
+    <text
+       xml:space="preserve"
+       x="4.459"
+       y="290.166"
+       style="font-style:normal;font-weight:400;font-size:7.97611px;line-height:1.25;font-family:sans-serif;fill:#f8f8f2;fill-opacity:1;stroke:none;stroke-width:.199403"
+       id="text8"><tspan
+         x="4.459"
+         y="290.166"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:7.97611px;font-family:&quot;Liberation Serif&quot;;-inkscape-font-specification:&quot;Liberation Serif, Normal&quot;;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f8f8f2;fill-opacity:1;stroke-width:.199403"
+         id="tspan6">D</tspan></text>
+    <text
+       xml:space="preserve"
+       x="7.096"
+       y="292.602"
+       style="font-style:normal;font-weight:400;font-size:7.97611px;line-height:1.25;font-family:sans-serif;fill:#f8f8f2;fill-opacity:1;stroke:none;stroke-width:.199403"
+       id="text12"><tspan
+         x="7.096"
+         y="292.602"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:7.97611px;font-family:&quot;Liberation Serif&quot;;-inkscape-font-specification:&quot;Liberation Serif, Normal&quot;;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f8f8f2;fill-opacity:1;stroke-width:.199403"
+         id="tspan10">G</tspan></text>
+  </g>
+</svg>

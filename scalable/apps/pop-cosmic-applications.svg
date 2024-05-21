@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="pop-cosmic-applications.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <circle
+     cx="31.998"
+     cy="31.998"
+     r="27.001"
+     fill="#f8f8f2"
+     id="circle2" />
+  <g
+     stroke-width=".5"
+     transform="translate(14 14)"
+     id="g22">
+    <rect
+       width="7"
+       height="7"
+       x="14.5"
+       y="25"
+       fill="#38c5d7"
+       rx="1.05"
+       ry="1.05"
+       id="rect4"
+       style="fill:#4cc3dc" />
+    <rect
+       width="7"
+       height="7"
+       x="4"
+       y="14.5"
+       fill="#ffe55a"
+       rx="1.05"
+       ry="1.05"
+       id="rect6"
+       style="fill:#f1fa8c" />
+    <rect
+       width="7"
+       height="7"
+       x="14.5"
+       y="14.5"
+       fill="#88f7f0"
+       rx="1.05"
+       ry="1.05"
+       id="rect8"
+       style="fill:#8be9fd" />
+    <rect
+       width="7"
+       height="7"
+       x="25"
+       y="14.5"
+       fill="#ffad00"
+       rx="1.05"
+       ry="1.05"
+       id="rect10"
+       style="fill:#ffb86c" />
+    <rect
+       width="7"
+       height="7"
+       x="4"
+       y="4"
+       fill="#38c5d7"
+       rx="1.05"
+       ry="1.05"
+       id="rect12"
+       style="fill:#4cc3dc" />
+    <rect
+       width="7"
+       height="7"
+       x="14.5"
+       y="4"
+       fill="#ffe55a"
+       rx="1.05"
+       ry="1.05"
+       id="rect14"
+       style="fill:#f1fa8c" />
+    <rect
+       width="7"
+       height="7"
+       x="25"
+       y="4"
+       fill="#38c5d7"
+       rx="1.05"
+       ry="1.05"
+       id="rect16"
+       style="fill:#4cc3dc" />
+    <rect
+       width="7"
+       height="7"
+       x="4"
+       y="25"
+       fill="#88f7f0"
+       rx="1.05"
+       ry="1.05"
+       id="rect18"
+       style="fill:#8be9fd" />
+    <rect
+       width="7"
+       height="7"
+       x="25"
+       y="25"
+       fill="#ffe55a"
+       rx="1.05"
+       ry="1.05"
+       id="rect20"
+       style="fill:#f1fa8c" />
+  </g>
+</svg>

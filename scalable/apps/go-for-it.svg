@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="go-for-it.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     fill="#44475a"
+     d="M32 59c14.911 0 27-12.089 27-27S46.911 5 32 5 5 17.089 5 32s12.089 27 27 27z"
+     class="shp36"
+     id="path2" />
+  <circle
+     cx="32"
+     cy="32"
+     r="10"
+     fill="gray"
+     style="paint-order:stroke fill markers;fill:#717380"
+     id="circle4" />
+  <g
+     stroke-width="3.78"
+     id="g10">
+    <path
+       fill="#5fd37d"
+       d="m32.706 31.99 15.558 15.558-.71.707-15.558-15.558z"
+       id="path6"
+       style="fill:#44c367" />
+    <path
+       fill="#f8f8f2"
+       d="M31.995 14.998A1.002 1.002 0 0 0 30.993 16a1.002 1.002 0 0 0 .004.07v15.916a1.002 1.002 0 0 0 1.002.99 1.002 1.002 0 0 0 1.001-1 1.002 1.002 0 0 0-.004-.07V16a1.002 1.002 0 0 0 0-.012 1.002 1.002 0 0 0-1.002-.99z"
+       id="path8" />
+  </g>
+</svg>

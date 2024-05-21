@@ -1,17 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g>
-  <path d="m32 5c14.912 0 27 12.088 27 27s-12.088 27-27 27-27-12.088-27-27 12.088-27 27-27z" fill="#f9d546" stroke-width="1.1739"/>
-  <path d="m29.652 15.565-1.1328 3.3985a13.5 13.5 0 0 0-3.2647 1.3617l-3.2142-1.6071-3.3222 3.3222 1.6047 3.2095a13.5 13.5 0 0 0-1.3477 3.2647l-3.409 1.1375v4.6957l3.3985 1.1328a13.5 13.5 0 0 0 1.3617 3.2647l-1.6071 3.2142 3.3222 3.3222 3.2095-1.6047a13.5 13.5 0 0 0 3.2647 1.3477l1.1375 3.409h4.6957l1.1328-3.3985a13.5 13.5 0 0 0 3.2647-1.3617l3.2142 1.6071 3.3222-3.3222-1.6047-3.2095a13.5 13.5 0 0 0 1.3477-3.2647l3.409-1.1375v-4.6957l-3.3985-1.1328a13.5 13.5 0 0 0-1.3617-3.2647l1.6071-3.2142-3.3222-3.3222-3.2095 1.6047a13.5 13.5 0 0 0-3.2647-1.3477l-1.1375-3.409zm2.3478 7.0435a9.3913 9.3913 0 0 1 9.3913 9.3913 9.3913 9.3913 0 0 1-9.3913 9.3913 9.3913 9.3913 0 0 1-9.3913-9.3913 9.3913 9.3913 0 0 1 9.3913-9.3913z" fill="#b545ab"/>
-  <path d="m20.261 21.435h5.8696l5.8696 14.087 5.8696-14.087h5.8696l-8.2174 18.783h-7.0435z" fill="#e44040" fill-rule="evenodd"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 64 64"
+   id="svg12"
+   sodipodi:docname="kvirc.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g10">
+    <path
+       d="m32 5c14.912 0 27 12.088 27 27s-12.088 27-27 27-27-12.088-27-27 12.088-27 27-27z"
+       fill="#f9d546"
+       stroke-width="1.1739"
+       id="path4"
+       style="fill:#ffb86c" />
+    <path
+       d="m29.652 15.565-1.1328 3.3985a13.5 13.5 0 0 0-3.2647 1.3617l-3.2142-1.6071-3.3222 3.3222 1.6047 3.2095a13.5 13.5 0 0 0-1.3477 3.2647l-3.409 1.1375v4.6957l3.3985 1.1328a13.5 13.5 0 0 0 1.3617 3.2647l-1.6071 3.2142 3.3222 3.3222 3.2095-1.6047a13.5 13.5 0 0 0 3.2647 1.3477l1.1375 3.409h4.6957l1.1328-3.3985a13.5 13.5 0 0 0 3.2647-1.3617l3.2142 1.6071 3.3222-3.3222-1.6047-3.2095a13.5 13.5 0 0 0 1.3477-3.2647l3.409-1.1375v-4.6957l-3.3985-1.1328a13.5 13.5 0 0 0-1.3617-3.2647l1.6071-3.2142-3.3222-3.3222-3.2095 1.6047a13.5 13.5 0 0 0-3.2647-1.3477l-1.1375-3.409zm2.3478 7.0435a9.3913 9.3913 0 0 1 9.3913 9.3913 9.3913 9.3913 0 0 1-9.3913 9.3913 9.3913 9.3913 0 0 1-9.3913-9.3913 9.3913 9.3913 0 0 1 9.3913-9.3913z"
+       fill="#b545ab"
+       id="path6"
+       style="fill:#c7639f" />
+    <path
+       d="m20.261 21.435h5.8696l5.8696 14.087 5.8696-14.087h5.8696l-8.2174 18.783h-7.0435z"
+       fill="#e44040"
+       fill-rule="evenodd"
+       id="path8"
+       style="fill:#c7484a" />
+  </g>
 </svg>

@@ -1,24 +1,123 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <linearGradient id="c" x2="0" y1="-521.8" y2="-525.8" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2a2c2f" offset="0"/>
-   <stop stop-color="#424649" offset="1"/>
-  </linearGradient>
- </defs>
- <g transform="matrix(1.35 0 0 1.35 -519.57 -675.13)" stroke-width=".74074">
-  <rect x="388.57" y="503.8" width="40" height="40" rx="20" fill="#383b3e"/>
-  <rect x="401.57" y="516.8" width="14" height="14" rx="7" fill="#f57953"/>
-  <rect transform="scale(1,-1)" x="406.57" y="-525.8" width="4" height="4" rx="2" fill="url(#c)"/>
-  <path transform="translate(384.57,499.8)" d="m24 18c-3.324 0-6 2.676-6 6s2.676 6 6 6 6-2.676 6-6-2.676-6-6-6m0 1c2.77 0 5 2.23 5 5s-2.23 5-5 5-5-2.23-5-5 2.23-5 5-5" fill="#fff" fill-opacity=".275"/>
-  <g fill="#4c5053">
-   <path d="m418.07 507.34c-0.971-0.56-1.973-1-2.99-1.377l-3.465 9.368c0.495 0.179 0.982 0.396 1.454 0.668 0.472 0.273 0.903 0.587 1.306 0.925l6.381-7.685c-0.83-0.694-1.716-1.34-2.687-1.901"/>
-   <path d="m399.07 540.25c-0.971-0.56-1.857-1.207-2.687-1.901l6.381-7.685c0.403 0.339 0.834 0.653 1.306 0.925 0.472 0.273 0.96 0.489 1.454 0.668l-3.465 9.368c-1.016-0.372-2.02-0.816-2.99-1.376"/>
-   <g fill-opacity=".198">
-    <path d="m422.01 510.36c-0.793-0.793-1.646-1.481-2.531-2.103l-5.771 8.152c0.431 0.301 0.846 0.636 1.232 1.022s0.721 0.801 1.022 1.232l8.152-5.771c-0.622-0.885-1.311-1.739-2.103-2.531"/>
-    <path d="m395.14 537.23c-0.793-0.793-1.481-1.646-2.103-2.532l8.152-5.771c0.301 0.431 0.636 0.846 1.022 1.232s0.801 0.721 1.232 1.022l-5.771 8.152c-0.885-0.622-1.739-1.311-2.531-2.103"/>
-    <path d="m425.03 514.3c-0.56-0.971-1.207-1.857-1.901-2.687l-7.685 6.381c0.339 0.403 0.653 0.834 0.925 1.306 0.273 0.472 0.489 0.96 0.668 1.454l9.368-3.465c-0.372-1.016-0.816-2.02-1.377-2.99"/>
-    <path d="m392.12 533.3c-0.56-0.971-1-1.973-1.377-2.99l9.368-3.465c0.179 0.495 0.396 0.982 0.668 1.454 0.273 0.472 0.587 0.903 0.925 1.306l-7.685 6.381c-0.694-0.83-1.34-1.716-1.901-2.687"/>
-   </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg35"
+   sodipodi:docname="juk.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview37"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg35" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="c"
+       x2="0"
+       y1="-521.8"
+       y2="-525.8"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#2a2c2f"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#424649"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="matrix(1.35 0 0 1.35 -519.57 -675.13)"
+     stroke-width=".74074"
+     id="g33">
+    <rect
+       x="388.57"
+       y="503.8"
+       width="40"
+       height="40"
+       rx="20"
+       fill="#383b3e"
+       id="rect9"
+       style="fill:#44475a" />
+    <rect
+       x="401.57"
+       y="516.8"
+       width="14"
+       height="14"
+       rx="7"
+       fill="#f57953"
+       id="rect11"
+       style="fill:#fd7e7c" />
+    <rect
+       transform="scale(1,-1)"
+       x="406.57"
+       y="-525.8"
+       width="4"
+       height="4"
+       rx="2"
+       fill="url(#c)"
+       id="rect13"
+       style="fill:#282a36" />
+    <path
+       transform="translate(384.57,499.8)"
+       d="m24 18c-3.324 0-6 2.676-6 6s2.676 6 6 6 6-2.676 6-6-2.676-6-6-6m0 1c2.77 0 5 2.23 5 5s-2.23 5-5 5-5-2.23-5-5 2.23-5 5-5"
+       fill="#f8f8f2"
+       fill-opacity=".275"
+       id="path15" />
+    <g
+       fill="#4c5053"
+       id="g31"
+       style="fill:#717380">
+      <path
+         d="m418.07 507.34c-0.971-0.56-1.973-1-2.99-1.377l-3.465 9.368c0.495 0.179 0.982 0.396 1.454 0.668 0.472 0.273 0.903 0.587 1.306 0.925l6.381-7.685c-0.83-0.694-1.716-1.34-2.687-1.901"
+         id="path17"
+         style="fill:#717380" />
+      <path
+         d="m399.07 540.25c-0.971-0.56-1.857-1.207-2.687-1.901l6.381-7.685c0.403 0.339 0.834 0.653 1.306 0.925 0.472 0.273 0.96 0.489 1.454 0.668l-3.465 9.368c-1.016-0.372-2.02-0.816-2.99-1.376"
+         id="path19"
+         style="fill:#717380" />
+      <g
+         fill-opacity=".198"
+         id="g29"
+         style="fill:#717380">
+        <path
+           d="m422.01 510.36c-0.793-0.793-1.646-1.481-2.531-2.103l-5.771 8.152c0.431 0.301 0.846 0.636 1.232 1.022s0.721 0.801 1.022 1.232l8.152-5.771c-0.622-0.885-1.311-1.739-2.103-2.531"
+           id="path21"
+           style="fill:#717380" />
+        <path
+           d="m395.14 537.23c-0.793-0.793-1.481-1.646-2.103-2.532l8.152-5.771c0.301 0.431 0.636 0.846 1.022 1.232s0.801 0.721 1.232 1.022l-5.771 8.152c-0.885-0.622-1.739-1.311-2.531-2.103"
+           id="path23"
+           style="fill:#717380" />
+        <path
+           d="m425.03 514.3c-0.56-0.971-1.207-1.857-1.901-2.687l-7.685 6.381c0.339 0.403 0.653 0.834 0.925 1.306 0.273 0.472 0.489 0.96 0.668 1.454l9.368-3.465c-0.372-1.016-0.816-2.02-1.377-2.99"
+           id="path25"
+           style="fill:#717380" />
+        <path
+           d="m392.12 533.3c-0.56-0.971-1-1.973-1.377-2.99l9.368-3.465c0.179 0.495 0.396 0.982 0.668 1.454 0.273 0.472 0.587 0.903 0.925 1.306l-7.685 6.381c-0.694-0.83-1.34-1.716-1.901-2.687"
+           id="path27"
+           style="fill:#717380" />
+      </g>
+    </g>
   </g>
- </g>
 </svg>

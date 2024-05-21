@@ -1,5 +1,52 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#60d87c" style="paint-order:stroke fill markers"/>
- <path d="m8.4666 1.3229a7.1437 7.1437 0 0 0-0.26458 0.0093016v5.4141h0.52916v-5.4099a7.1437 7.1437 0 0 0-0.26458-0.013436z" opacity=".35" stroke-width="1.0624" style="paint-order:markers stroke fill"/>
- <path d="m8.467 6.35a1.06 1.06 0 0 0-1.059 1.058v2.117a1.06 1.06 0 0 0 1.059 1.058 1.06 1.06 0 0 0 1.058-1.058v-2.117a1.06 1.06 0 0 0-1.058-1.058zm0 0.529c0.292 0 0.529 0.211 0.529 0.529 0 0.265-0.237 0.53-0.53 0.53a0.548 0.548 0 0 1-0.529-0.53c0-0.318 0.238-0.53 0.53-0.53zm0 1.587a0.53 0.53 0 0 1 0.529 0.53v0.529a0.53 0.53 0 0 1-1.059 0v-0.53a0.53 0.53 0 0 1 0.53-0.529z" fill="#fff"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg8"
+   sodipodi:docname="peazip.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <circle
+     cx="8.4665"
+     cy="8.4665"
+     r="7.1436"
+     fill="#60d87c"
+     style="paint-order:stroke fill markers;fill:#44c367"
+     id="circle2" />
+  <path
+     d="m8.4666 1.3229a7.1437 7.1437 0 0 0-0.26458 0.0093016v5.4141h0.52916v-5.4099a7.1437 7.1437 0 0 0-0.26458-0.013436z"
+     opacity=".35"
+     stroke-width="1.0624"
+     style="paint-order:markers stroke fill"
+     id="path4" />
+  <path
+     d="m8.467 6.35a1.06 1.06 0 0 0-1.059 1.058v2.117a1.06 1.06 0 0 0 1.059 1.058 1.06 1.06 0 0 0 1.058-1.058v-2.117a1.06 1.06 0 0 0-1.058-1.058zm0 0.529c0.292 0 0.529 0.211 0.529 0.529 0 0.265-0.237 0.53-0.53 0.53a0.548 0.548 0 0 1-0.529-0.53c0-0.318 0.238-0.53 0.53-0.53zm0 1.587a0.53 0.53 0 0 1 0.529 0.53v0.529a0.53 0.53 0 0 1-1.059 0v-0.53a0.53 0.53 0 0 1 0.53-0.529z"
+     fill="#f8f8f2"
+     id="path6" />
 </svg>

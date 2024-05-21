@@ -1,7 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
- <g transform="translate(-421.71429-525.79071)" style="fill:#fdbc4b">
-  <path d="m432.71429 528.79032a3.99999 4.00003 0 0 0 -4 4 3.99999 4.00003 0 0 0 4 4 3.99999 4.00003 0 0 0 4 -4 3.99999 4.00003 0 0 0 -4 -4m0 1a3 3.00003 0 0 1 3 3 3 3.00003 0 0 1 -3 3 3 3.00003 0 0 1 -3 -3 3 3.00003 0 0 1 3 -3"/>
-  <path d="m12 13a7.99995 8.00003 0 0 0 -7.927734 7h1.00781A6.99996 7.00003 0 0 1 12 14a6.99996 7.00003 0 0 1 1 .08008v-1.00977A7.99995 8.00003 0 0 0 12 13" transform="translate(420.71429 524.79071)"/>
-  <path d="m440.71429 536.79071l-8 4 2 1 1 3 1-2 2 1z" style="fill-rule:evenodd"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="translate(3,3)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 12.5,9 A 3.5,3.5 0 0 0 9,12.5 3.5,3.5 0 0 0 12.5,16 3.5,3.5 0 0 0 16,12.5 L 13,15 V 13 H 10 V 12 H 13 V 10 L 16,12.5 A 3.5,3.5 0 0 0 12.5,9 Z M 8,9 C 3.568,9 0,12.122 0,16 H 10 C 8.741,15 8,13.574 8,12 8,10.937 8.362,9.8505 9,9 Z M 8,0 A 4,4 0 0 0 4,4 4,4 0 0 0 8,8 4,4 0 0 0 12,4 4,4 0 0 0 8,0 Z"/>
  </g>
 </svg>

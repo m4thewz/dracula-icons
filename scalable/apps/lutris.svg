@@ -1,11 +1,82 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(1.0385 0 0 1.0385 -.32619 -.32515)">
-  <circle cx="8.467" cy="8.466" r="6.879" fill="#fbbf00" stroke-width=".92729" style="paint-order:stroke markers fill"/>
- </g>
- <g transform="matrix(1.2327 0 0 1.2379 -2.9483 -2.2403)" stroke-width=".21418">
-  <path d="m5.6884 10.451 3.5718-1.1906 3.5718 1.1906-3.5718 1.1906z" fill="#fff"/>
-  <ellipse cx="10.727" cy="10.401" rx=".79373" ry=".39687" fill="#fbbf00"/>
-  <rect x="7.2759" y="7.2759" width=".79373" height="3.1749" rx=".39687" fill="#fff" stroke="#fbbf00"/>
-  <circle cx="7.6539" cy="6.9546" r="1.1906" fill="#fff" stroke="#fbbf00"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg14875"
+   sodipodi:docname="lutris.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14879" />
+  <sodipodi:namedview
+     id="namedview14877"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14875" />
+  <g
+     transform="matrix(1.0385 0 0 1.0385 -.32619 -.32515)"
+     id="g14863">
+    <circle
+       cx="8.467"
+       cy="8.466"
+       r="6.879"
+       fill="#fbbf00"
+       stroke-width=".92729"
+       style="paint-order:stroke markers fill;fill:#ffb86c"
+       id="circle14861" />
+  </g>
+  <g
+     transform="matrix(1.2327 0 0 1.2379 -2.9483 -2.2403)"
+     stroke-width=".21418"
+     id="g14873">
+    <path
+       d="m5.6884 10.451 3.5718-1.1906 3.5718 1.1906-3.5718 1.1906z"
+       fill="#f8f8f2"
+       id="path14865" />
+    <ellipse
+       cx="10.727"
+       cy="10.401"
+       rx=".79373"
+       ry=".39687"
+       fill="#fbbf00"
+       id="ellipse14867"
+       style="fill:#ffb86c" />
+    <rect
+       x="7.2759"
+       y="7.2759"
+       width=".79373"
+       height="3.1749"
+       rx=".39687"
+       fill="#f8f8f2"
+       stroke="#fbbf00"
+       id="rect14869"
+       style="stroke:#ffb86c" />
+    <circle
+       cx="7.6539"
+       cy="6.9546"
+       r="1.1906"
+       fill="#f8f8f2"
+       stroke="#fbbf00"
+       id="circle14871"
+       style="stroke:#ffb86c" />
+  </g>
 </svg>
