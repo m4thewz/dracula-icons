@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#44c367; } .ColorScheme-NegativeText { color:#ff5555; }
   </style>
  </defs>
  <path style="fill:currentColor" class="ColorScheme-NeutralText" d="M 11.447266,1 C 11.396726,1.0008187 11.345697,1.00282 11.294922,1.00586 11.062807,1.019797 10.827111,1.058567 10.59375,1.1210944 8.726854,1.6213479 7.618975,3.5393546 8.119141,5.406251 8.619342,7.273059 10.537401,8.381113 12.404297,7.88086 14.271193,7.380606 15.379072,5.4626 14.878906,3.5957037 14.454909,2.0132961 13.01417,0.9746195 11.447266,1 Z M 11.5,2 A 0.5,0.5 0 0 1 12,2.5 V 5 A 0.5,0.5 0 0 1 11.5,5.5 0.5,0.5 0 0 1 11,5 V 2.5 A 0.5,0.5 0 0 1 11.5,2 Z m 0,4 A 0.5,0.5 0 0 1 12,6.5 0.5,0.5 0 0 1 11.5,7 0.5,0.5 0 0 1 11,6.5 0.5,0.5 0 0 1 11.5,6 Z"/>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#44c367; } .ColorScheme-NegativeText { color:#ff5555; }
   </style>
  </defs>
  <path style="fill:currentColor;opacity:0.35" class="ColorScheme-Text" d="M 1.7324219 1 C 1.6906459 0.99901736 1.6501939 1.0002357 1.609375 1.0019531 C 0.38479384 1.0539211 -0.42754633 2.3208472 0.24023438 3.3710938 L 0.3046875 3.4355469 L 7.0117188 4.1738281 A 5 5 0 0 1 7 4 A 5 5 0 0 1 7.6113281 1.6308594 L 1.859375 1.0078125 C 1.81688 1.0039225 1.774198 1.00098 1.7324219 1 z M 0.88867188 4.5058594 L 5.5488281 12.638672 C 6.1329557 12.544282 6.2420176 12.39338 6.6035156 11.890625 L 9.1230469 8.0761719 A 5 5 0 0 1 7.15625 5.1953125 L 0.88867188 4.5058594 z M 9.9921875 8.5742188 L 7.4277344 12.458984 L 6.8457031 13.267578 C 6.5866851 13.578763 6.0673105 13.578503 5.8730469 13.205078 L 6.4570312 14.201172 C 6.58654 14.387882 6.7161943 14.512245 6.8457031 14.636719 C 7.5580027 15.19685 8.7238496 15.134988 9.3066406 14.263672 L 12.970703 8.8925781 A 5 5 0 0 1 12 9 A 5 5 0 0 1 9.9921875 8.5742188 z"/>

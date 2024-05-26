@@ -28,8 +28,8 @@
   <defs
      id="defs8" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#f8f8f2"
+     bordercolor="#717380"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -49,7 +49,7 @@
      inkscape:current-layer="svg2" />
   <path
      color-interpolation-filters="linearRGB"
-     color="#4d4d4d"
+     color="#44475a"
      image-rendering="auto"
      color-rendering="auto"
      fill-rule="evenodd"

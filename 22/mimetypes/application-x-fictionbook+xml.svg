@@ -1,7 +1,7 @@
 <svg height="22" width="22" xmlns="http://www.w3.org/2000/svg">
     <style type="text/css" id="current-color-scheme">
         .ColorScheme-Text {
-            color:#232629;
+            color:#282a36;
         }
     </style>
     <path d="M17 6l-5 5 5 5 5-5z" fill="#f90"/>

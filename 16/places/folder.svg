@@ -13,7 +13,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#ffffff"
+     pagecolor="#f8f8f2"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
@@ -24,7 +24,7 @@
      inkscape:cx="8"
      inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1040"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -33,7 +33,7 @@
      id="defs1">
     <style
        id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#8a8ea8; }</style>
+       type="text/css">.ColorScheme-Text { color:#f8f8f2; } .ColorScheme-Highlight { color:#515d85; }</style>
   </defs>
   <rect
      id="bottom_layer"
@@ -50,5 +50,6 @@
      id="top_layer"
      class="ColorScheme-Highlight"
      fill="currentColor"
-     d="m8 3-1 2h-6c-0.554 0-1 0.446-1 1v8c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-10c0-0.5-0.5-1-1-1z" />
+     d="m8 3-1 2h-6c-0.554 0-1 0.446-1 1v8c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-10c0-0.5-0.5-1-1-1z"
+     style="fill:#515d85" />
 </svg>
