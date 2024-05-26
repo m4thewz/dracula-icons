@@ -3,41 +3,43 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg8"
+   id="svg2"
    sodipodi:docname="applications-all.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs12" />
+     id="defs2" />
   <sodipodi:namedview
-     id="namedview10"
+     id="namedview2"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#ffffff"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="27.76055"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
-  <circle
-     cx="32"
-     cy="32"
-     r="28"
-     fill="#44475a"
-     id="circle2"
-     style="fill:#515d85" />
+     inkscape:current-layer="svg2" />
+  <rect
+     width="52"
+     height="52"
+     x="6"
+     y="6"
+     fill="#528fff"
+     rx="8"
+     ry="8"
+     id="rect1"
+     style="fill:#6272a4" />
   <rect
      width="14"
      height="14"
@@ -46,11 +48,9 @@
      fill="#f8f8f2"
      rx="2"
      ry="2"
-     id="rect4"
-     style="fill:#f8f8f2" />
+     id="rect2" />
   <path
      fill="#f8f8f2"
-     d="M36 16c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V18c0-1.108-.892-2-2-2zm0 2h10v10H36zm0 16c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V36c0-1.108-.892-2-2-2zm0 2h10v10H36zm-18-2c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V36c0-1.108-.892-2-2-2zm0 2h10v10H18z"
-     id="path6"
-     style="fill:#f8f8f2" />
+     d="M36 16c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V18c0-1.108-.892-2-2-2zm0 2h10v10H36zM36 34c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V36c0-1.108-.892-2-2-2zm0 2h10v10H36zM18 34c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V36c0-1.108-.892-2-2-2zm0 2h10v10H18z"
+     id="path2" />
 </svg>

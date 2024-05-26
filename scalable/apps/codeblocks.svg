@@ -3,82 +3,73 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg14"
+   id="svg4"
    sodipodi:docname="codeblocks.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs18" />
+     id="defs4" />
   <sodipodi:namedview
-     id="namedview16"
+     id="namedview4"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#f8f8f2"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
-  <circle
-     cx="32"
-     cy="32"
-     r="27"
-     fill="#f8f8f2"
-     stroke-width="3.7796"
-     style="paint-order:stroke fill markers"
-     id="circle2" />
+     inkscape:current-layer="g4" />
   <g
-     transform="matrix(.7 0 0 .7 15.2 4)"
      fill-rule="evenodd"
-     stroke-width=".76923"
-     id="g12">
+     stroke-width=".769"
+     transform="matrix(1.3 0 0 1.3 .8 -20)"
+     id="g4">
     <rect
+       width="20"
+       height="20"
        x="24"
        y="40"
+       fill="#4783b0"
+       ry="0"
+       id="rect1"
+       style="fill:#168daa" />
+    <rect
        width="20"
        height="20"
-       ry="0"
-       fill="#4783b0"
-       id="rect4"
-       style="fill:#6272a4" />
-    <rect
        x="4"
        y="40"
-       width="20"
-       height="20"
-       ry="0"
        fill="#da4339"
-       id="rect6"
+       ry="0"
+       id="rect2"
        style="fill:#c7484a" />
     <rect
+       width="20"
+       height="20"
        x="24"
        y="20"
-       width="20"
-       height="20"
-       ry="0"
        fill="#4ab871"
-       id="rect8"
+       ry="0"
+       id="rect3"
        style="fill:#44c367" />
     <rect
-       x="4"
-       y="20"
        width="20"
        height="20"
-       ry="0"
+       x="4"
+       y="20"
        fill="#ffb750"
-       id="rect10"
+       ry="0"
+       id="rect4"
        style="fill:#ffb86c" />
   </g>
 </svg>

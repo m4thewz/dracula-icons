@@ -3,89 +3,80 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg18"
+   id="svg5"
    sodipodi:docname="preferences-web-browser-adblock.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs22" />
+     id="defs5" />
   <sodipodi:namedview
-     id="namedview20"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview5"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.83317"
-     inkscape:cy="32.062807"
-     inkscape:window-width="1507"
-     inkscape:window-height="1226"
-     inkscape:window-x="521"
-     inkscape:window-y="24"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg18" />
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
   <path
-     fill="#f0f0f0"
-     d="M8.953 17.998A27 27 0 0 0 5 32a27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-3.943-14.002 27 27 0 0 0-.002 0z"
-     style="paint-order:stroke fill markers;fill:#f8f8f2"
-     id="path2" />
+     fill="#f8f8f2"
+     d="m62 17.998-59.996.004v31.154A5.985 5.985 0 0 0 8 55h48c3.324 0 6-2.676 6-6z"
+     id="path1" />
   <path
-     fill="#666"
-     d="M32.002 5A27.001 27.001 0 0 0 8.954 17.998h46.104A27.001 27.001 0 0 0 32.002 4.996z"
-     style="paint-order:stroke markers fill;fill:#717380"
+     fill="#717380"
+     d="M8 9c-3.324 0-6 2.676-6 6v2.998h60V15c0-3.324-2.676-6-6-6z"
+     id="path2"
+     style="fill:#717380" />
+  <rect
+     width="3.001"
+     height="3.001"
+     x="53.502"
+     y="12"
+     opacity=".35"
+     paint-order="stroke markers fill"
+     ry="1.5"
+     id="rect2"
+     style="fill:#1e1f29" />
+  <rect
+     width="3.001"
+     height="3.001"
+     x="47.5"
+     y="12"
+     opacity=".35"
+     paint-order="stroke markers fill"
+     ry="1.5"
+     id="rect3"
+     style="fill:#1e1f29" />
+  <rect
+     width="3.001"
+     height="3.001"
+     x="41.501"
+     y="12"
+     opacity=".35"
+     paint-order="stroke markers fill"
+     ry="1.5"
+     id="rect4"
+     style="fill:#1e1f29" />
+  <path
+     fill="#cbcccc"
+     d="M7 22v2h40v-2zm0 6v2h14v-2zm28 0v24h24V28zm2 2h20v20H37v-2zm0 18h4l4-4-2-2zm20 0-6-6-6 6zM42 32c-1.662 0-3 1.338-3 3s1.338 3 3 3 3-1.338 3-3-1.338-3-3-3zM7 34v2h24v-2zm0 6v2h18v-2zm0 6v2h24v-2z"
+     color="#282a36"
      id="path4" />
-  <rect
-     width="3.001"
-     height="3.001"
-     x="44.002"
-     y="12"
-     opacity=".35"
-     ry="1.5"
-     style="paint-order:stroke markers fill"
-     id="rect6" />
-  <rect
-     width="3.001"
-     height="3.001"
-     x="38"
-     y="12"
-     opacity=".35"
-     ry="1.5"
-     style="paint-order:stroke markers fill"
-     id="rect8" />
-  <rect
-     width="3.001"
-     height="3.001"
-     x="31.998"
-     y="12"
-     opacity=".35"
-     ry="1.5"
-     style="paint-order:stroke markers fill"
-     id="rect10" />
   <path
-     fill="#ccc"
-     d="M10 22v2h37v-2zm-2 6v2h13v-2zm-1 6v2h24v-2zm2 6v2h16v-2zm4 6v2h18v-2z"
-     color="#000"
-     id="path12"
-     style="fill:#cbcccc" />
-  <circle
-     cx="47"
-     cy="47"
-     r="14"
-     fill="#ff8080"
-     fill-rule="evenodd"
-     style="paint-order:stroke fill markers;fill:#fd7e7c"
-     id="circle14" />
-  <path
-     fill="#fff"
-     d="M47 35c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm0 2c5.523 0 10 4.477 10 10 0 2.41-.888 4.59-2.309 6.316L40.683 39.308C42.41 37.888 44.59 37 47 37zm-7.691 3.684 14.008 14.008C51.59 56.112 49.41 57 47 57c-5.523 0-10-4.477-10-10 0-2.41.889-4.59 2.309-6.316z"
-     color="#000"
-     id="path16"
-     style="fill:#f8f8f2" />
+     fill="#fd7e7c"
+     d="M47 28c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm0 2c5.523 0 10 4.477 10 10 0 2.41-.888 4.59-2.309 6.316L40.683 32.308C42.41 30.888 44.59 30 47 30zm-7.691 3.684 14.008 14.008C51.59 49.112 49.41 50 47 50c-5.523 0-10-4.477-10-10 0-2.41.889-4.59 2.309-6.316z"
+     color="#282a36"
+     id="path5" />
 </svg>

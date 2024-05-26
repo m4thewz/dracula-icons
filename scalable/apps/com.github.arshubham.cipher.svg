@@ -3,82 +3,78 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg20"
+   id="svg6"
    sodipodi:docname="com.github.arshubham.cipher.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs24" />
+     id="defs6" />
   <sodipodi:namedview
-     id="namedview22"
+     id="namedview6"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#f8f8f2"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20" />
+     inkscape:current-layer="svg6" />
   <rect
-     x="5"
-     y="5"
-     width="54"
-     height="54"
-     rx="27"
-     ry="27"
-     fill="#717380"
-     stroke-width="3.6445"
-     id="rect2" />
+     width="52"
+     height="52"
+     x="6"
+     y="6"
+     fill="gray"
+     rx="8"
+     ry="8"
+     id="rect1" />
   <path
-     d="m32 8c-6.094 0-11 4.906-11 11v6h-3c-1.108 0-2 0.892-2 2v22c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-22c0-1.108-0.892-2-2-2h-3v-6c0-6.094-4.906-11-11-11zm0 4c3.878 0 7 3.122 7 7v6h-14v-6c0-3.878 3.122-7 7-7z"
      fill="#cbcccc"
-     id="path4" />
+     d="M32 10c-6.094 0-11 4.906-11 11v6h-3c-1.108 0-2 .892-2 2v22c0 1.108.892 2 2 2h28c1.108 0 2-.892 2-2V29c0-1.108-.892-2-2-2h-3v-6c0-6.094-4.906-11-11-11zm0 4c3.878 0 7 3.122 7 7v6H25v-6c0-3.878 3.122-7 7-7z"
+     id="path1" />
   <path
-     d="m16 35v8h32v-8z"
      fill="#f4d984"
-     id="path6"
-     style="fill:#ffb86c" />
+     d="M16 35v8h32v-8z"
+     id="path2" />
   <path
-     d="m21.708 35-5.7077 8h4.018l5.7089-8zm7.2505 0-5.7077 8h4.0192l5.7077-8zm7.2517 0-5.7089 8h4.0192l5.7077-8zm7.2505 0-5.7077 8h4.018l5.7077-8z"
-     fill="#222222"
-     id="path8"
-     style="fill:#282a36" />
+     fill="#222"
+     d="M21.708 35 16 43h4.018l5.71-8zm7.25 0-5.707 8h4.019l5.708-8zm7.252 0-5.709 8h4.02l5.707-8zm7.25 0-5.707 8h4.018l5.708-8z"
+     id="path3" />
   <circle
      cx="46"
      cy="45"
      r="16"
      fill="#282a36"
-     stroke-width="3.7796"
-     id="circle10" />
+     id="circle3"
+     style="fill:#282a36" />
   <g
      fill="#f8f8f2"
-     id="g18">
+     id="g6">
     <circle
        cx="37"
        cy="45"
        r="3"
-       id="circle12" />
+       id="circle4" />
     <circle
        cx="46"
        cy="45"
        r="3"
-       id="circle14" />
+       id="circle5" />
     <circle
        cx="55"
        cy="45"
        r="3"
-       id="circle16" />
+       id="circle6" />
   </g>
 </svg>

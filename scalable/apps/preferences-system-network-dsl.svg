@@ -4,56 +4,59 @@
    height="64"
    viewBox="0 0 16.934 16.934"
    version="1.1"
-   id="svg12"
+   id="svg3"
    sodipodi:docname="preferences-system-network-dsl.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs16" />
+     id="defs3" />
   <sodipodi:namedview
-     id="namedview14"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview3"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg12" />
-  <circle
-     cx="8.467"
-     cy="8.467"
-     r="7.144"
+     inkscape:current-layer="svg3" />
+  <rect
+     width="13.759"
+     height="13.759"
+     x="1.588"
+     y="1.588"
      fill="#1c7cbf"
-     style="paint-order:markers stroke fill;fill:#168daa"
-     id="circle2" />
+     fill-rule="evenodd"
+     rx="2.117"
+     ry="2.117"
+     style="paint-order:stroke fill markers;fill:#515d85"
+     id="rect1" />
   <g
      fill="#f8f8f2"
      stroke-width=".265"
-     id="g10">
+     id="g3">
     <path
        d="M4.559 4.763a.33.33 0 0 0-.325.336v5.942a.33.33 0 0 0 .325.337h1.262l.692.793h3.908l.692-.793h1.262a.33.33 0 0 0 .325-.337V5.099a.33.33 0 0 0-.325-.336zm.733 1.058h6.35v4.498h-1.058l-.794.794H7.144l-.53-.794H5.293z"
        style="paint-order:markers stroke fill"
-       id="path4" />
+       id="path1" />
     <path
        d="m7.144 11.113-.53-.794H5.293V5.821h6.35v4.498h-1.058l-.794.794z"
        opacity=".35"
-       id="path6" />
+       id="path2" />
     <path
        d="M6.086 6.615h.793V5.82h-.793zm1.323 0h.793V5.82H7.41zm1.323 0h.793V5.82h-.793zm1.323 0h.793V5.82h-.793z"
        opacity=".5"
-       id="path8" />
+       id="path3" />
   </g>
 </svg>

@@ -1,12 +1,78 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#44475a" style="paint-order:stroke fill markers"/>
- <path d="m4.852 8.202-3e-3 -2.58 2.894-0.432v3.012zm3.374-3.089 3.857-0.615v3.704h-3.857zm3.858 3.618-1e-3 3.704-3.857-0.595v-3.11zm-4.34 3.041-2.892-0.435v-2.606h2.891v3.041z" fill="#f8f8f2"/>
- <g transform="translate(.982 -279.17)" paint-order="stroke markers fill">
-  <circle cx="11.718" cy="291.87" r="3.175" fill="#f55"/>
-  <circle cx="11.718" cy="291.87" r="1.588" opacity=".15"/>
-  <g fill="#f8f8f2">
-   <path d="M11.718 290.522a1.343 1.343 0 0 0-1.343 1.344 1.343 1.343 0 0 0 1.343 1.343 1.343 1.343 0 0 0 1.343-1.343 1.343 1.343 0 0 0-1.343-1.344zm0 .61a.733.733 0 0 1 .733.734.733.733 0 0 1-.733.732.733.733 0 0 1-.733-.732.733.733 0 0 1 .733-.733z"/>
-   <path d="M11.474 289.973h.488v.854h-.488zM11.474 292.903h.488v.855h-.488zM13.611 291.621v.489h-.855v-.489zM10.68 291.621v.489h-.855v-.489zM13.23 293.031l-.346.346-.604-.605.345-.345zM11.157 290.959l-.345.345-.605-.604.345-.345zM10.552 293.377l-.345-.346.605-.604.345.345zM12.625 291.304l-.345-.345.604-.604.345.345z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="wine-winecfg.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <rect
+     width="13.229"
+     height="13.229"
+     x="1.852"
+     y="281.92"
+     fill="#13b1d5"
+     stroke-width=".962"
+     paint-order="markers stroke fill"
+     rx="2.035"
+     ry="2.035"
+     transform="matrix(1.04 0 0 1.04 -.339 -291.61)"
+     id="rect1"
+     style="fill:#44475a" />
+  <path
+     fill="#f8f8f2"
+     d="m12.17 4.498-3.968.616v3.088h3.968zm-4.497.7-2.91.424.003 2.58h2.907zM4.766 8.73v2.608l2.907.427V8.73zm3.436.001v3.109l3.968.595V8.731z"
+     id="path1" />
+  <g
+     paint-order="stroke markers fill"
+     transform="translate(.982 -279.17)"
+     id="g4">
+    <circle
+       cx="11.718"
+       cy="291.87"
+       r="3.175"
+       fill="#f55"
+       id="circle1" />
+    <circle
+       cx="11.718"
+       cy="291.87"
+       r="1.588"
+       opacity=".15"
+       id="circle2" />
+    <g
+       fill="#f8f8f2"
+       id="g3">
+      <path
+         d="M11.718 290.522a1.343 1.343 0 0 0-1.343 1.344 1.343 1.343 0 0 0 1.343 1.343 1.343 1.343 0 0 0 1.343-1.343 1.343 1.343 0 0 0-1.343-1.344zm0 .61a.733.733 0 0 1 .733.734.733.733 0 0 1-.733.732.733.733 0 0 1-.733-.732.733.733 0 0 1 .733-.733z"
+         id="path2" />
+      <path
+         d="M11.474 289.973h.488v.854h-.488zm0 2.93h.488v.855h-.488zm2.137-1.282v.489h-.855v-.489zm-2.931 0v.489h-.855v-.489zm2.55 1.41-.346.346-.604-.605.345-.345zm-2.073-2.072-.345.345-.605-.604.345-.345zm-.605 2.418-.345-.346.605-.604.345.345zm2.073-2.073-.345-.345.604-.604.345.345z"
+         id="path3" />
+    </g>
   </g>
- </g>
 </svg>

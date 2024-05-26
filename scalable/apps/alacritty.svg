@@ -1,11 +1,78 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(1.1739 0 0 1.1739 3.8261 -14.957)">
-  <circle cx="24" cy="40" r="23" fill="#282a36"/>
-  <circle cx="24" cy="40.001" r="19.593" fill="#f8f8f2" opacity=".1" stroke-width=".85188"/>
-  <g clip-rule="evenodd" fill-rule="evenodd">
-   <path d="m21.932 41.828-0.93164 2.1719 3 9 3-9-0.93164-2.1719z" enable-background="new" fill="#13b1d5" style="paint-order:normal"/>
-   <path d="m22 27-9 23h4l7-17 7 17h4l-9-23z" enable-background="new" fill="#c7925b" style="paint-order:normal"/>
-   <path d="M 24,37 21.9316,41.8281 24,47 26.0684,41.8281 Z" enable-background="new" fill="#a6edfa" style="paint-order:normal"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="alacritty.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#f8f8f2"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <rect
+     width="52"
+     height="52"
+     x="6"
+     y="6"
+     fill="#282a36"
+     fill-rule="evenodd"
+     rx="8"
+     ry="8"
+     id="rect1"
+     style="fill:#282a36" />
+  <rect
+     width="44"
+     height="44"
+     x="10"
+     y="10"
+     fill="#f8f8f2"
+     fill-rule="evenodd"
+     opacity=".1"
+     rx="4"
+     ry="4"
+     id="rect2" />
+  <g
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     id="g4">
+    <path
+       fill="#13b1d5"
+       d="M21.932 41.828 21 44l3 9 3-9-.931-2.172z"
+       style="paint-order:normal;fill:#13b1d5"
+       transform="translate(3.826 -14.957) scale(1.1739)"
+       id="path2" />
+    <path
+       fill="#c7925b"
+       d="m22 27-9 23h4l7-17 7 17h4l-9-23z"
+       style="paint-order:normal;fill:#c7925b"
+       transform="translate(3.826 -14.957) scale(1.1739)"
+       id="path3" />
+    <path
+       fill="#a6edfa"
+       d="m24 37-2.068 4.828L24 47l2.068-5.172Z"
+       style="paint-order:normal;fill:#8be9fd"
+       transform="translate(3.826 -14.957) scale(1.1739)"
+       id="path4" />
   </g>
- </g>
 </svg>

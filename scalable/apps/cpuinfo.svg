@@ -1,128 +1,28 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="64"
-   height="64"
-   version="1.1"
-   id="svg272"
-   sodipodi:docname="cpuinfo.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs276" />
-  <sodipodi:namedview
-     id="namedview274"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.83317"
-     inkscape:cy="32.031403"
-     inkscape:window-width="1280"
-     inkscape:window-height="1361"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg272" />
-  <circle
-     cx="32"
-     cy="32"
-     r="27"
-     fill="#388e3c"
-     style="paint-order:stroke fill markers;fill:#44c367"
-     id="circle248" />
-  <path
-     d="m32 5a27 27 0 0 0-25.309 17.691l2.3086 2.3086h38l7-8h0.42383a27 27 0 0 0-2.2734-2.9199l-6.1504 6.9199h-3l7.5898-8.5371a27 27 0 0 0-18.59-7.4629zm-16 32-8.3262 6.6602a27 27 0 0 0 1.2852 2.3672l3.041-2.0273v2l-2.127 1.418a27 27 0 0 0 6.127 6.293v-6.7109l6-5h3l-6 5v8.6621a27 27 0 0 0 13 3.3379 27 27 0 0 0 23.686-14.037l-4.6855-5.9629h-2l-2-2z"
-     fill="#43a047"
-     fill-rule="evenodd"
-     id="path250"
-     style="fill:#50fa7b;opacity:0.7" />
-  <rect
-     x="18"
-     y="24"
-     width="28"
-     height="16"
-     ry="1"
-     fill="#263238"
-     id="rect252"
-     style="fill:#282a36" />
-  <rect
-     x="15"
-     y="13"
-     width="17"
-     height="6"
-     ry="1"
-     fill="#263238"
-     stroke-width="1.1019"
-     id="rect254"
-     style="fill:#282a36" />
-  <rect
-     x="33"
-     y="44"
-     width="17"
-     height="6"
-     ry="1"
-     fill="#eceff1"
-     id="rect256"
-     style="fill:#cbcccc" />
-  <rect
-     x="34"
-     y="45"
-     width="9"
-     height="1"
-     ry="0"
-     fill="#37474f"
-     id="rect258"
-     style="fill:#44475a" />
-  <path
-     d="m34 47h5v1h-5z"
-     fill="#37474f"
-     id="path260"
-     style="fill:#44475a" />
-  <path
-     d="m45 49 2-3 2 3z"
-     fill="#37474f"
-     fill-rule="evenodd"
-     id="path262"
-     style="fill:#44475a" />
-  <rect
-     x="16"
-     y="14"
-     width="4"
-     height="1"
-     fill="#f8f8f2"
-     opacity=".5"
-     style="paint-order:stroke fill markers"
-     id="rect264" />
-  <rect
-     x="16"
-     y="16"
-     width="8"
-     height="1"
-     fill="#f8f8f2"
-     opacity=".5"
-     style="paint-order:stroke fill markers"
-     id="rect266" />
-  <rect
-     x="27"
-     y="16"
-     width="3"
-     height="2"
-     fill="#f8f8f2"
-     opacity=".5"
-     style="paint-order:stroke fill markers"
-     id="rect268" />
-  <path
-     d="m21 27h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2z"
-     fill="#fbc02d"
-     fill-rule="evenodd"
-     style="paint-order:fill markers stroke;fill:#ffb86c"
-     id="path270" />
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#388e3c"/>
+ <path d="m14 6c-2.3977 0-4.5362 1.0506-6 2.7109v9.2891l-2 2v2l3 3h38l7-8h4v-1h-4v-4l-8 9h-3l8-9v-5.9316c-0.32811-0.040649-0.66054-0.068359-1-0.068359zm2 31-10 8v3l6-4v2l-6 4h4v6.9277c1.1762 0.67827 2.5394 1.0723 4 1.0723h2v-11l6-5h3l-6 5v11h31c4.432 0 8-3.568 8-8v-2.0918l-7-8.9082h-2l-2-2z" fill="#43a047"/>
+ <g transform="translate(-5 3)">
+  <circle cx="58.5" cy="50.5" r="1.5" fill="#fbc02d"/>
+  <circle cx="58.5" cy="50.5" r=".5" fill="#263238"/>
+ </g>
+ <g transform="translate(-5 -1)">
+  <circle cx="58.5" cy="11.5" r="1.5" fill="#fbc02d"/>
+  <circle cx="58.5" cy="11.5" r=".5" fill="#263238"/>
+ </g>
+ <g transform="translate(5 3)">
+  <circle cx="5.5" cy="50.5" r="1.5" fill="#fbc02d"/>
+  <circle cx="5.5" cy="50.5" r=".5" fill="#263238"/>
+ </g>
+ <rect x="18" y="24" width="28" height="16" rx="2" ry="2" fill="#263238"/>
+ <rect x="10" y="13" width="17" height="6" ry="1" fill="#263238"/>
+ <rect x="37" y="44" width="17" height="6" ry="1" fill="#eceff1"/>
+ <rect x="38" y="45" width="9" height="1" ry="0" fill="#37474f"/>
+ <path d="m38 47h5v1h-5z" fill="#37474f"/>
+ <path d="m49 49 2-3 2 3z" fill="#37474f" fill-rule="evenodd"/>
+ <path d="m21 27h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2zm4 0h2v10h-2z" fill="#fbc02d" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
+ <g transform="translate(.318 .049)">
+  <circle cx="10.182" cy="10.451" r="1.5" fill="#fbc02d"/>
+  <circle cx="10.182" cy="10.451" r=".5" fill="#263238"/>
+ </g>
+ <path d="m11 14h4v1h-4zm0 2h8v1h-8zm11 0h3v2h-3z" fill="#f8f8f2" opacity=".5" style="paint-order:stroke fill markers"/>
 </svg>

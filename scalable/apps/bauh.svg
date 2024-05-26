@@ -2,107 +2,80 @@
 <svg
    width="64"
    height="64"
-   version="1.1"
    viewBox="0 0 16.933 16.933"
-   id="svg28"
+   version="1.1"
+   id="svg6"
    sodipodi:docname="bauh.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs32" />
+     id="defs6" />
   <sodipodi:namedview
-     id="namedview30"
+     id="namedview6"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#f8f8f2"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg28" />
-  <metadata
-     id="metadata2">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <circle
-     cx="8.4665"
-     cy="8.4665"
-     r="7.1436"
-     fill="#f8f8f2"
-     style="paint-order:stroke fill markers"
-     id="circle4" />
+     inkscape:current-layer="svg6" />
   <g
-     transform="matrix(.68 0 0 .68 2.7093 2.7093)"
-     id="g14">
-    <g
-       fill-rule="evenodd"
-       stroke-width=".015243"
-       id="g12">
-      <path
-         d="m8.4658 15.671 6.6152-3.7386-0.04503-7.0332-6.5701 3.6002z"
-         fill="#d5833f"
-         id="path6"
-         style="fill:#c7925b" />
-      <path
-         d="m8.4672 15.686-6.6152-3.7386 0.045025-7.0332 6.5701 3.6002z"
-         fill="#c77838"
-         id="path8"
-         style="fill:#c7925b" />
-      <path
-         d="m1.878 4.9333 6.6205-3.6863 6.5618 3.6878-6.5973 3.6146z"
-         fill="#eaa463"
-         id="path10"
-         style="fill:#ffb86c" />
-    </g>
+     fill-rule="evenodd"
+     stroke-width=".015"
+     id="g3">
+    <path
+       fill="#d5833f"
+       d="m8.466 15.96 6.88-3.889-.047-7.314L8.466 8.5z"
+       id="path1"
+       style="fill:#ffb86c" />
+    <path
+       fill="#c77838"
+       d="m8.467 15.975-6.88-3.888.047-7.315 6.833 3.744z"
+       id="path2"
+       style="fill:#c7925b" />
+    <path
+       fill="#eaa463"
+       d="M1.614 4.792 8.5.958l6.824 3.836-6.861 3.759z"
+       id="path3"
+       style="fill:#fdc88e" />
   </g>
   <g
-     transform="matrix(.44445 0 0 .44445 8.9369 -115.54)"
      paint-order="stroke markers fill"
-     id="g26">
+     transform="translate(8.937 -115.54) scale(.44445)"
+     id="g6">
     <circle
-       cx="8.4665"
+       cx="8.466"
        cy="288.53"
-       r="7.1436"
+       r="7.144"
        fill="#cbcccc"
-       id="circle16" />
+       id="circle3" />
     <circle
        cx="8.467"
        cy="288.53"
        r="3.44"
        opacity=".15"
-       id="circle18" />
+       id="circle4" />
     <g
        fill="#f8f8f2"
-       id="g24">
+       id="g5">
       <path
-         d="m8.467 285.62a2.91 2.91 0 0 0-2.91 2.91 2.91 2.91 0 0 0 2.91 2.91 2.91 2.91 0 0 0 2.91-2.91 2.91 2.91 0 0 0-2.91-2.91zm0 1.323a1.587 1.587 0 0 1 1.587 1.587 1.587 1.587 0 0 1-1.587 1.588 1.587 1.587 0 0 1-1.588-1.588 1.587 1.587 0 0 1 1.588-1.587z"
-         id="path20" />
+         d="M8.467 285.62a2.91 2.91 0 0 0-2.91 2.91 2.91 2.91 0 0 0 2.91 2.91 2.91 2.91 0 0 0 2.91-2.91 2.91 2.91 0 0 0-2.91-2.91zm0 1.323a1.587 1.587 0 0 1 1.587 1.587 1.587 1.587 0 0 1-1.587 1.588 1.587 1.587 0 0 1-1.588-1.588 1.587 1.587 0 0 1 1.588-1.587z"
+         id="path4" />
       <path
-         d="m7.938 284.43h1.058v1.852h-1.058zm0 6.35h1.058v1.852h-1.058zm4.63-2.778v1.058h-1.852v-1.058zm-6.35 0v1.058h-1.852v-1.058zm5.522 3.056-0.747 0.747-1.31-1.31 0.748-0.747zm-4.49-4.49-0.747 0.747-1.31-1.31 0.748-0.747zm-1.309 5.237-0.748-0.748 1.31-1.31 0.748 0.749zm4.49-4.49-0.748-0.748 1.31-1.31 0.748 0.749z"
-         id="path22" />
+         d="M7.938 284.43h1.058v1.852H7.938zm0 6.35h1.058v1.852H7.938zm4.63-2.778v1.058h-1.852v-1.058zm-6.35 0v1.058H4.366v-1.058zm5.522 3.056-.747.747-1.31-1.31.748-.747zm-4.49-4.49-.747.747-1.31-1.31.748-.747zm-1.309 5.237-.748-.748 1.31-1.31.748.749zm4.49-4.49-.748-.748 1.31-1.31.748.749z"
+         id="path5" />
     </g>
   </g>
 </svg>

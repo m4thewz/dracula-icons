@@ -2,60 +2,62 @@
 <svg
    width="64"
    height="64"
-   version="1.1"
    viewBox="0 0 16.933 16.933"
-   id="svg10"
+   version="1.1"
+   id="svg3"
    sodipodi:docname="gnome-software.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs14" />
+     id="defs3" />
   <sodipodi:namedview
-     id="namedview12"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview3"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.83317"
-     inkscape:cy="32.031403"
-     inkscape:window-width="1280"
-     inkscape:window-height="1361"
-     inkscape:window-x="1280"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="31.961165"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg10" />
-  <circle
-     cx="8.4665"
-     cy="8.4665"
-     r="7.1436"
-     fill="#4c8cff"
-     style="paint-order:stroke fill markers;fill:#6272a4"
-     id="circle2" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <rect
+     width="12.7"
+     height="13.758"
+     x="2.117"
+     y="1.587"
+     fill="#549bff"
+     rx="1.587"
+     ry="1.587"
+     id="rect1"
+     style="fill:#6272a4" />
   <path
-     transform="scale(.26458)"
-     d="m32 5a27 27 0 0 0-27 27 27 27 0 0 0 18.699 25.678 38.322 38.322 0 0 0 35.086-28.803 27 27 0 0 0-26.785-23.875z"
-     fill="#457eff"
-     stroke-width="5.3645"
-     style="paint-order:stroke fill markers;fill:#515d85;opacity:0.6"
-     id="path4" />
-  <path
-     d="m8.4666 1.3229a7.1437 7.1437 0 0 0-6.4962 4.1888 8.7671 8.7671 0 0 0 8.6938 7.7255 8.7671 8.7671 0 0 0 3.7758-0.86401 7.1437 7.1437 0 0 0 1.1699-3.9068 7.1437 7.1437 0 0 0-7.1437-7.1437z"
      fill="#00f"
+     d="m32 6-18.064.002A5.985 5.985 0 0 0 8 12v15.916A34.999 36.399 0 0 0 40 49.68a34.999 36.399 0 0 0 16-4.037V12c0-3.324-2.675-6-6-6H32z"
      opacity=".1"
-     stroke-width="1.2273"
-     style="paint-order:stroke fill markers;fill:#282a36"
-     id="path6" />
-  <path
-     d="m5.292 3.969a3.175 3.175 0 0 0 3.175 3.175 3.175 3.175 0 0 0 3.175-3.175h-0.794a2.381 2.381 0 0 1-2.381 2.381 2.381 2.381 0 0 1-2.382-2.381z"
-     fill="#f8f8f2"
      style="paint-order:stroke markers fill;fill:#f8f8f2"
-     id="path8" />
+     transform="scale(.26458)"
+     id="path1" />
+  <path
+     fill="#00f"
+     d="m32 6-18.064.002A5.985 5.985 0 0 0 8 12v40c0 3.324 2.676 6 6 6h18.34A40 41.6 0 0 0 56 36.496V12c0-3.324-2.675-6-6-6H32z"
+     opacity=".1"
+     style="paint-order:stroke markers fill;fill:#515d85"
+     transform="scale(.26458)"
+     id="path2" />
+  <path
+     fill="#f8f8f2"
+     d="M5.292 3.969a3.175 3.175 0 0 0 3.175 3.175 3.175 3.175 0 0 0 3.175-3.175h-.794A2.381 2.381 0 0 1 8.467 6.35a2.381 2.381 0 0 1-2.382-2.381z"
+     style="paint-order:stroke markers fill"
+     id="path3" />
 </svg>

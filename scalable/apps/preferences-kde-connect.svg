@@ -3,94 +3,89 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg24"
+   id="svg4"
    sodipodi:docname="preferences-kde-connect.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs28" />
   <sodipodi:namedview
-     id="namedview26"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview4"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg24" />
+     inkscape:current-layer="svg4" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="a"
+       x1="-22.977"
+       x2="-15.685"
+       y1="280.96"
+       y2="296.25"
+       gradientTransform="matrix(4.0495 0 0 3.7796 110.26 -1058.8)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#66bcff"
+         id="stop1"
+         style="stop-color:#a6edfa;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#b29aff"
+         id="stop2"
+         style="stop-color:#515d85;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <rect
+     width="36"
+     height="64"
+     x="14"
+     fill="#35373a"
+     rx="6"
+     ry="6"
+     id="rect2" />
+  <rect
+     width="32"
+     height="60"
+     x="16"
+     y="2"
+     fill="url(#a)"
+     opacity=".5"
+     rx="4"
+     ry="4"
+     id="rect3" />
+  <rect
+     width="12"
+     height="1"
+     x="26"
+     y="60"
+     fill="#282a36"
+     rx=".5"
+     ry=".5"
+     id="rect4" />
+  <path
+     fill="#f8f8f2"
+     d="M29 24a1 1 0 1 0 0 2 1 1 0 0 0 0-2zm7 0-2 2 4 4-4 4 2 2 6-6-6-6zm-10 6a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm5 6a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"
+     opacity=".5"
+     id="path4" />
   <circle
      cx="32"
-     cy="32"
-     r="27"
-     fill="#f8f8f2"
-     stroke-width="3.7796"
-     style="paint-order:stroke fill markers"
-     id="circle2" />
-  <g
-     transform="matrix(.67857 0 0 .67857 -250.67 -318.01)"
-     id="g22">
-    <g
-       transform="translate(8,-1.9999)"
-       id="g20">
-      <rect
-         x="392.57"
-         y="489.8"
-         width="32"
-         height="56"
-         rx="2"
-         ry="2.0001"
-         fill="#35373a"
-         id="rect4"
-         style="fill:#44475a" />
-      <rect
-         x="394.57"
-         y="495.8"
-         width="28"
-         height="44"
-         rx="1"
-         ry=".99991"
-         fill="#f8f8f2"
-         opacity=".2"
-         id="rect6" />
-      <rect
-         x="402.57"
-         y="491.8"
-         width="12"
-         height="2"
-         rx="1"
-         ry=".99991"
-         fill="#212324"
-         id="rect8"
-         style="fill:#282a36" />
-      <g
-         fill="#f8f8f2"
-         id="g18">
-        <path
-           d="m405.57 509.8c-0.55228 0-1 0.44772-1 1s0.44772 1 1 1 1-0.44772 1-1-0.44772-1-1-1z"
-           id="path10" />
-        <path
-           d="m412.57 509.8-2 2 4 4-4 4 2 2 6-6-2-2z"
-           id="path12" />
-        <path
-           d="m402.57 515.8c-1.1046 0-2 0.89544-2 2 0 1.1046 0.89544 2 2 2s2-0.89544 2-2c0-1.1046-0.89544-2-2-2z"
-           id="path14" />
-        <path
-           d="m407.57 521.8c-1.6569 0-3 1.3431-3 3s1.3431 3 3 3 3-1.3431 3-3-1.3431-3-3-3z"
-           id="path16" />
-      </g>
-    </g>
-  </g>
+     cy="4"
+     r="1"
+     fill="#282a36"
+     id="circle4" />
 </svg>

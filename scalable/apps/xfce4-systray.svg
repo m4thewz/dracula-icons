@@ -1,44 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="64"
    height="64"
-   version="1.1">
-  <path
-     d="M 8.9531636,46.002327 A 27.000192,-27.000192 0 0 1 5.0000355,32.000228 27.000192,-27.000192 0 0 1 32.000227,5.000036 a 27.000192,-27.000192 0 0 1 27.000192,27.000192 27.000192,-27.000192 0 0 1 -3.943428,14.002099 27.000192,-27.000192 0 0 1 -0.002,0 z"
-     fill="#f8f8f2"
-     id="path2" />
-  <path
-     d="M 32.000378,59.000419 A 27.000343,-27.000343 0 0 1 8.9531212,46.002368 H 55.056706 A 27.000343,-27.000343 0 0 1 32.001512,59.000419 Z"
-     fill="#717380"
-     id="path4" />
-  <path
-     d="m 22,48 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 0,1 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z"
-     opacity="0.35"
-     id="path10" />
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="xfce4-systray.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#505050"
+     bordercolor="#f8f8f2"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
   <rect
+     width="60"
+     height="48"
+     x="2"
+     y="8"
+     fill="#f8f8f2"
+     fill-rule="evenodd"
+     rx="7"
+     ry="7"
+     id="rect1" />
+  <path
+     fill="#717380"
+     stroke-width="3.78"
+     d="M2 46.002V50c0 3.324 2.676 6 6 6h48c3.324 0 6-2.676 6-6v-3.998z"
+     style="paint-order:stroke markers fill;fill:#717380"
+     id="path1" />
+  <path
+     d="M10 48a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm0 1a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z"
+     opacity=".35"
+     style="paint-order:fill markers stroke"
+     id="path2" />
+  <rect
+     width="16"
+     height="4"
+     x="40"
+     y="49"
+     opacity=".35"
+     rx="1"
+     ry="1"
+     style="paint-order:fill markers stroke"
+     id="rect2" />
+  <rect
+     width="4"
+     height="4"
+     x="18"
+     y="49"
+     opacity=".35"
+     rx="1"
+     ry="1"
+     style="paint-order:fill markers stroke"
+     id="rect3" />
+  <rect
+     width="4"
+     height="4"
+     x="24"
+     y="49"
+     opacity=".35"
+     rx="1"
+     ry="1"
+     style="paint-order:fill markers stroke"
+     id="rect4" />
+  <rect
+     width="4"
+     height="4"
      x="30"
      y="49"
-     width="4"
-     height="4"
+     opacity=".35"
      rx="1"
      ry="1"
-     opacity="0.35"
-     id="rect14" />
-  <rect
-     x="36"
-     y="49"
-     width="4"
-     height="4"
-     rx="1"
-     ry="1"
-     opacity="0.35"
-     id="rect16" />
-  <rect
-     x="42"
-     y="49"
-     width="4"
-     height="4"
-     rx="1"
-     ry="1"
-     opacity="0.35"
-     id="rect18" />
+     style="paint-order:fill markers stroke"
+     id="rect5" />
 </svg>

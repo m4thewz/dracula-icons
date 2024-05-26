@@ -2,60 +2,59 @@
 <svg
    width="64"
    height="64"
-   version="1.1"
    viewBox="0 0 16.933 16.933"
-   id="svg27724"
+   version="1.1"
+   id="svg3"
    sodipodi:docname="preferences-system-parental-controls.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs27728" />
+     id="defs3" />
   <sodipodi:namedview
-     id="namedview27726"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview3"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg27724" />
+     inkscape:current-layer="g3" />
   <g
      transform="translate(0 -280.07)"
-     id="g27722">
+     id="g3">
     <rect
-       transform="matrix(0,-1,-1,0,0,0)"
-       x="-295.68"
-       y="-15.61"
        width="14.287"
        height="14.287"
-       rx="7.1436"
-       ry="7.1436"
+       x="-295.68"
+       y="-15.61"
        fill="#f0bb24"
-       id="rect27714"
-       style="fill:#ffb86c" />
+       rx="7.144"
+       ry="7.144"
+       transform="matrix(0 -1 -1 0 0 0)"
+       id="rect1"
+       style="fill:#c7925b" />
     <g
        fill="#f8f8f2"
        stroke-width=".875"
-       id="g27720">
+       id="g2">
       <path
-         d="M6.947 284.3a1.058 1.058 0 1 0 0 2.117 1.058 1.058 0 0 0 0-2.117zM6.11 286.719c-.17 0-.264.103-.33.26l-1.059 2.178c-.234.527.571.863.782.326.122-.32.25-.639.394-.95v3.81c0 .235.189.424.423.424h.002c.235 0 .488-.19.484-.424l-.002-1.995h.293l.002 1.995c0 .235.259.424.493.424a.422.422 0 0 0 .423-.424l-.001-3.81h-.016l.473.95c.094.24.38.34.605.212l.768.449c-.005.028-.016.053-.016.083v2.328c0 .117.177.212.294.212.117 0 .321-.096.302-.212v-.998h.303v.998c0 .117.185.212.302.212.117 0 .313-.095.313-.212v-2.117l.544.452c.2.208.507-.1.3-.299l-.906-.786a.212.212 0 0 0-.15-.062h-1.032l-.81-.415a.424.424 0 0 0-.036-.172l-1.059-2.176a.424.424 0 0 0-.39-.26z"
-         id="path27716" />
+         d="M6.947 284.3a1.058 1.058 0 1 0 0 2.117 1.058 1.058 0 0 0 0-2.117zm-.837 2.419c-.17 0-.264.103-.33.26l-1.059 2.178c-.234.527.571.863.782.326.122-.32.25-.639.394-.95v3.81c0 .235.189.424.423.424h.002c.235 0 .488-.19.484-.424l-.002-1.995h.293l.002 1.995c0 .235.259.424.493.424a.422.422 0 0 0 .423-.424l-.001-3.81h-.016l.473.95c.094.24.38.34.605.212l.768.449c-.005.028-.016.053-.016.083v2.328c0 .117.177.212.294.212.117 0 .321-.096.302-.212v-.998h.303v.998c0 .117.185.212.302.212.117 0 .313-.095.313-.212v-2.117l.544.452c.2.208.507-.1.3-.299l-.906-.786a.212.212 0 0 0-.15-.062h-1.032l-.81-.415a.424.424 0 0 0-.036-.172l-1.059-2.176a.424.424 0 0 0-.39-.26z"
+         id="path1" />
       <path
-         d="M10.575 287.929a.758.758 0 0 0-.756.756c0 .416.34.755.756.755s.756-.34.756-.755a.758.758 0 0 0-.756-.756z"
-         id="path27718" />
+         d="M10.575 287.929a.758.758 0 0 0-.756.756.757.757 0 0 0 1.512 0 .758.758 0 0 0-.756-.756z"
+         id="path2" />
     </g>
   </g>
 </svg>

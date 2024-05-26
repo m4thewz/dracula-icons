@@ -1,1 +1,119 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="54" height="54" x="5" y="5" fill="#44475a" rx="27" ry="27" style="paint-order:stroke markers fill"/><path fill="#f8f8f2" d="M16 15h19v2H16z"/><circle cx="40" cy="16" r="2" fill="#44c367"/><circle cx="47" cy="16" r="2" fill="#44c367"/><path fill="#f8f8f2" d="M11 31h24v2H11z"/><circle cx="40" cy="32" r="2" fill="#44c367"/><circle cx="47" cy="32" r="2" fill="#44c367"/><path fill="#f8f8f2" d="M16 47h19v2H16z"/><path d="M6.906 22c-.386.974-.72 1.974-.992 3h52.172a26.803 26.803 0 0 0-.992-3zM5.672 38c.23 1.023.517 2.025.86 3h50.937c.343-.975.629-1.977.86-3z" opacity=".25" style="paint-order:fill markers stroke"/><circle cx="40" cy="48" r="2" fill="#44c367"/><circle cx="47" cy="48" r="2" fill="#44c367"/><circle cx="46" cy="46" r="18" fill="#168daa" fill-rule="evenodd" style="paint-order:fill markers stroke"/><path fill="#f8f8f2" fill-rule="evenodd" d="M48 32.156V38h6v2h-6v4h11.842A14 14 0 0 0 58 38.828v-.01a14 14 0 0 0-.03-.043 14 14 0 0 0-.005-.012 14 14 0 0 0-.156-.23 14 14 0 0 0-.616-.914 14 14 0 0 0-.322-.389 14 14 0 0 0-.564-.68 14 14 0 0 0-.457-.453 14 14 0 0 0-.541-.53 14 14 0 0 0-.436-.352 14 14 0 0 0-.66-.532 14 14 0 0 0-.2-.13A14 14 0 0 0 53.18 34h-.016A14 14 0 0 0 48 32.156zm-4 .008A14 14 0 0 0 38.844 34h-.026A14 14 0 0 0 34 38.82v.027A14 14 0 0 0 32.162 44h5.968a4 4 0 0 1-.13-1v-1a4 4 0 0 1 4-4h2zM42 40a2.014 2.014 0 0 0-.59.09 1.994 1.994 0 0 0-.7.38 2 2 0 0 0-.491.623A1.994 1.994 0 0 0 40 42v1a2 2 0 0 0 .273 1H44v-4zm-9.842 8A14 14 0 0 0 34 53.172v.01a14 14 0 0 0 .03.042 14 14 0 0 0 .161.243 14 14 0 0 0 .616.914 14 14 0 0 0 .322.388 14 14 0 0 0 .564.68 14 14 0 0 0 .457.453 14 14 0 0 0 .541.531 14 14 0 0 0 .436.352 14 14 0 0 0 .66.531 14 14 0 0 0 .2.131 14 14 0 0 0 .833.553h.016A14 14 0 0 0 44 59.844V54h-6v-2h6v-4zM48 48v4h2a2.014 2.014 0 0 0 .59-.09 1.994 1.994 0 0 0 .7-.381 2 2 0 0 0 .491-.623 1.994 1.994 0 0 0 .22-.906v-1a2 2 0 0 0-.274-1zm5.871 0a4 4 0 0 1 .13 1v1a4 4 0 0 1-4 4h-2v5.836A14 14 0 0 0 53.155 58h.026A14 14 0 0 0 58 53.18v-.028A14 14 0 0 0 59.838 48z" style="paint-order:fill markers stroke"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="preferences-system-network-server-share-windows.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <rect
+     width="52"
+     height="52"
+     x="6"
+     y="6"
+     fill="#44475a"
+     rx="2"
+     ry="2"
+     style="paint-order:stroke markers fill;fill:#44475a"
+     id="rect1" />
+  <path
+     fill="#f8f8f2"
+     d="M12 15h24v2H12z"
+     id="path1" />
+  <circle
+     cx="43"
+     cy="16"
+     r="2"
+     fill="#44c367"
+     id="circle1"
+     style="fill:#50fa7b" />
+  <circle
+     cx="51"
+     cy="16"
+     r="2"
+     fill="#44c367"
+     id="circle2"
+     style="fill:#50fa7b" />
+  <g
+     fill="#f8f8f2"
+     id="g4">
+    <path
+       d="M12 31h24v2H12z"
+       id="path2" />
+    <circle
+       cx="43"
+       cy="32"
+       r="2"
+       id="circle3" />
+    <circle
+       cx="51"
+       cy="32"
+       r="2"
+       id="circle4" />
+    <path
+       d="M12 47h24v2H12z"
+       id="path4" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     id="g5">
+    <rect
+       width="52"
+       height="3"
+       x="6"
+       y="22"
+       fill="#282a3600f"
+       opacity=".5"
+       rx="0"
+       ry="0"
+       style="paint-order:fill markers stroke"
+       id="rect4" />
+    <rect
+       width="52"
+       height="3"
+       x="6"
+       y="38"
+       fill="#282a3600f"
+       opacity=".5"
+       rx="0"
+       ry="0"
+       style="paint-order:fill markers stroke"
+       id="rect5" />
+    <circle
+       cx="46"
+       cy="46"
+       r="18"
+       fill="#168daa"
+       style="paint-order:fill markers stroke;fill:#6272a4"
+       id="circle5" />
+    <path
+       fill="#f8f8f2"
+       d="M48 32.156V38h6v2h-6v4h11.842A14 14 0 0 0 58 38.828v-.01a14 14 0 0 0-.03-.043 14 14 0 0 0-.005-.012 14 14 0 0 0-.156-.23 14 14 0 0 0-.616-.914 14 14 0 0 0-.322-.389 14 14 0 0 0-.564-.68 14 14 0 0 0-.457-.453 14 14 0 0 0-.541-.53 14 14 0 0 0-.436-.352 14 14 0 0 0-.66-.532 14 14 0 0 0-.2-.13A14 14 0 0 0 53.18 34h-.016A14 14 0 0 0 48 32.156zm-4 .008A14 14 0 0 0 38.844 34h-.026A14 14 0 0 0 34 38.82v.027A14 14 0 0 0 32.162 44H38.13A4 4 0 0 1 38 43v-1a4 4 0 0 1 4-4h2v-5.836zM42 40a2.014 2.014 0 0 0-.59.09 1.994 1.994 0 0 0-.7.38 2 2 0 0 0-.491.623A1.994 1.994 0 0 0 40 42v1a2 2 0 0 0 .273 1H44v-4h-2zm-9.842 8A14 14 0 0 0 34 53.172v.01a14 14 0 0 0 .03.042 14 14 0 0 0 .161.243 14 14 0 0 0 .616.914 14 14 0 0 0 .322.388 14 14 0 0 0 .564.68 14 14 0 0 0 .457.453 14 14 0 0 0 .541.531 14 14 0 0 0 .436.352 14 14 0 0 0 .66.531 14 14 0 0 0 .2.131 14 14 0 0 0 .833.553h.016A14 14 0 0 0 44 59.844V54h-6v-2h6v-4H32.158zM48 48v4h2a2.014 2.014 0 0 0 .59-.09 1.994 1.994 0 0 0 .7-.381 2 2 0 0 0 .491-.623 1.994 1.994 0 0 0 .22-.906v-1a2 2 0 0 0-.274-1H48zm5.871 0a4 4 0 0 1 .13 1v1a4 4 0 0 1-4 4h-2v5.836A14 14 0 0 0 53.155 58h.026A14 14 0 0 0 58 53.18v-.028A14 14 0 0 0 59.838 48H53.871z"
+       style="paint-order:fill markers stroke"
+       id="path5" />
+  </g>
+</svg>

@@ -3,61 +3,54 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg12"
+   id="svg3"
    sodipodi:docname="visual-studio-code-insiders.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs16" />
+     id="defs3" />
   <sodipodi:namedview
-     id="namedview14"
+     id="namedview3"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#ffffff"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.83317"
-     inkscape:cy="32.031403"
-     inkscape:window-width="1280"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg12" />
-  <circle
-     cx="32"
-     cy="32"
-     r="27"
-     fill="#f8f8f2"
-     stroke-width="3.7796"
-     style="paint-order:stroke fill markers"
-     id="circle2" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
   <g
-     transform="matrix(4.4807 0 0 4.4807 -53.838 1.4319)"
      fill-rule="evenodd"
-     stroke-width=".26458"
-     id="g10">
+     stroke-width=".265"
+     id="g3">
     <path
-       d="m21.068 2.6024c-0.09052 0.010102-0.17861 0.04111-0.26664 0.099217 0.13772 0.17144-0.1403 1.7855 0.20785 2.004l0.2717 0.17053v3.8922l-0.42679 0.31977c-0.32895 0.24647 0.02978 1.6662-0.05651 1.8488 0.09533 0.05818 0.23775 0.12029 0.36237 0.10514 0.03992-0.0049 0.08033-0.01602 0.1204-0.03566l1.7368-0.85162c0.18929-0.09277 0.38033-0.16953 0.38033-0.38033v-5.9043c0-0.2108-0.19104-0.28757-0.38033-0.38033l-1.7368-0.85162c-0.04007-0.01964-0.08048-0.030802-0.1204-0.035657-0.03116-0.00379-0.06181-0.00337-0.09198 0z"
        fill="#32ca70"
-       style="paint-order:stroke fill markers;fill:#7afa99"
-       id="path4" />
-    <path
-       d="m15.041 8.0035 5.6511-5.2228c0.25656-0.23712 0.58887-0.15304 0.58887 0.33742v1.7579l-5.2244 3.9957c-0.09136 0.07175-0.32943 0.24313-0.53715 0.04563l-0.52855-0.50252c-0.1387-0.13186-0.05988-0.30961 0.0501-0.41126z"
-       fill="#137c42"
+       d="M21.068 2.602a.596.596 0 0 0-.267.1c.138.171-.14 1.785.208 2.004l.272.17v3.892l-.427.32c-.329.247.03 1.666-.056 1.849.095.058.237.12.362.105a.375.375 0 0 0 .12-.036l1.737-.851c.19-.093.38-.17.38-.38V3.87c0-.21-.19-.287-.38-.38l-1.737-.852a.374.374 0 0 0-.212-.035z"
        style="paint-order:stroke fill markers;fill:#44c367"
-       id="path6" />
+       transform="translate(-86.042 -10.009) scale(6.1578)"
+       id="path1" />
     <path
-       d="m15.041 5.6381 5.6511 5.2228c0.25656 0.23712 0.58887 0.15304 0.58887-0.33742v-1.7579l-5.2244-3.9957c-0.09136-0.071751-0.32943-0.24313-0.53715-0.045627l-0.52855 0.50251c-0.1387 0.13187-0.05988 0.30961 0.0501 0.41126z"
+       fill="#137c42"
+       d="m15.041 8.004 5.651-5.223c.257-.237.589-.153.589.337v1.758l-5.224 3.996c-.092.071-.33.243-.538.045l-.528-.502c-.139-.132-.06-.31.05-.411z"
+       style="paint-order:stroke fill markers;fill:#2e9149;fill-opacity:1"
+       transform="translate(-86.042 -10.009) scale(6.1578)"
+       id="path2" />
+    <path
        fill="#259f58"
-       style="paint-order:stroke fill markers;fill:#50fa7b"
-       id="path8" />
+       d="m15.041 5.638 5.651 5.223c.257.237.589.153.589-.338V8.766L16.057 4.77c-.092-.072-.33-.243-.538-.046l-.528.503c-.139.132-.06.31.05.411z"
+       style="paint-order:stroke fill markers;fill:#36a455;fill-opacity:1"
+       transform="translate(-86.042 -10.009) scale(6.1578)"
+       id="path3" />
   </g>
 </svg>

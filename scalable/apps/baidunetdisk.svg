@@ -3,100 +3,120 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg27"
+   id="svg6"
    sodipodi:docname="baidunetdisk.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview29"
+     id="namedview6"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#f8f8f2"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg27" />
+     inkscape:current-layer="svg6" />
   <defs
-     id="defs11">
+     id="defs2">
     <filter
        id="a"
-       color-interpolation-filters="sRGB"
+       width="3.9884199"
+       height="3.445486"
        x="-1.4942099"
        y="-1.222743"
-       width="3.9884199"
-       height="3.445486">
+       color-interpolation-filters="sRGB">
       <feColorMatrix
          result="result7"
          values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0"
-         id="feColorMatrix2" />
+         id="feColorMatrix1" />
       <feGaussianBlur
          result="result6"
          stdDeviation="5"
-         id="feGaussianBlur4" />
+         id="feGaussianBlur1" />
       <feComposite
          in="result6"
          in2="result7"
          operator="atop"
          result="result91"
-         id="feComposite6" />
+         id="feComposite1" />
       <feComposite
          in2="result91"
          operator="in"
-         id="feComposite8" />
+         id="feComposite2" />
     </filter>
   </defs>
-  <circle
-     cx="32"
-     cy="32"
-     r="27"
-     fill="#f8f8f2"
-     style="paint-order:stroke fill markers"
-     id="circle13" />
+  <rect
+     width="52"
+     height="52"
+     x="6"
+     y="6"
+     fill="#ededed"
+     paint-order="markers stroke fill"
+     rx="8"
+     ry="8"
+     id="rect2"
+     style="fill:#f8f8f2" />
   <g
-     transform="matrix(5.8901 0 0 5.8901 -17.848 -18.631)"
-     stroke-width=".64169"
-     id="g25">
+     stroke-width=".642"
+     transform="translate(-17.848 -18.631) scale(5.8901)"
+     id="g5">
     <path
-       d="m8.475 6.407a1.426 1.426 0 1 0 0 2.852 1.426 1.426 0 0 0 0-2.852zm6e-3 0.626a0.805 0.805 0 0 1 0.805 0.805 0.805 0.805 0 0 1-0.805 0.805 0.805 0.805 0 0 1-0.805-0.805 0.805 0.805 0 0 1 0.805-0.805z"
        fill="#1793e6"
-       id="path15"
-       style="fill:#13b1d5" />
+       d="M8.475 6.407a1.426 1.426 0 1 0 0 2.852 1.426 1.426 0 0 0 0-2.852zm.006.626a.805.805 0 0 1 .805.805.805.805 0 0 1-.805.805.805.805 0 0 1-.805-.805.805.805 0 0 1 .805-.805z"
+       id="path2" />
     <path
-       d="m10.088 7.937c-0.374 0-0.708 0.148-0.962 0.382l0.408 0.472a0.851 0.851 0 0 1 0.108-0.09 0.716 0.716 0 0 1 0.356-0.127c0.044-4e-3 0.09-2e-3 0.14 0a0.751 0.751 0 0 1 0.663 0.433 0.829 0.829 0 0 1 0.085 0.402v2e-3a0.313 0.313 0 0 0 0.625 0v-0.051a0.893 0.893 0 0 0-4e-3 -0.073l-1e-3 -0.01-1e-3 -0.025h-1e-3a1.421 1.421 0 0 0-1.417-1.315m-3.254-4e-3a1.426 1.426 0 1 0 0 2.852 1.426 1.426 0 0 0 0-2.852zm6e-3 0.626a0.805 0.805 0 0 1 0.804 0.805 0.805 0.805 0 0 1-0.804 0.805 0.805 0.805 0 0 1-0.805-0.805 0.805 0.805 0 0 1 0.805-0.805z"
        fill="#1793e6"
-       id="path17"
-       style="fill:#13b1d5" />
+       d="M10.088 7.937c-.374 0-.708.148-.962.382l.408.472a.851.851 0 0 1 .108-.09.716.716 0 0 1 .356-.127c.044-.004.09-.002.14 0a.751.751 0 0 1 .663.433.829.829 0 0 1 .085.402v.002a.313.313 0 0 0 .625 0V9.36a.893.893 0 0 0-.004-.073l-.001-.01-.001-.025h-.001a1.421 1.421 0 0 0-1.417-1.315m-3.254-.004a1.426 1.426 0 1 0 0 2.852 1.426 1.426 0 0 0 0-2.852zm.006.626a.805.805 0 0 1 .804.805.805.805 0 0 1-.804.805.805.805 0 0 1-.805-.805.805.805 0 0 1 .805-.805z"
+       id="path3" />
     <path
-       transform="matrix(.20374 0 0 .20374 5.407 6.407)"
-       d="m6.973 7.471c-0.365 0-0.744 0.04-1.094 0.094a2.842 2.842 0 0 1 1.719 2.594c0 0.16-0.036 0.316-0.063 0.469a3.839 3.839 0 0 1 2.938 2.063c0.791 1.577 0.522 3.357-0.719 4.594 0.962-0.959 2.934-2.702 4.156-3.844-0.512-3.375-3.409-5.969-6.938-5.969z"
        fill="#f44"
+       d="M6.973 7.471c-.365 0-.744.04-1.094.094a2.842 2.842 0 0 1 1.719 2.594c0 .16-.036.316-.063.469a3.839 3.839 0 0 1 2.938 2.063c.791 1.577.522 3.357-.719 4.594.962-.959 2.934-2.702 4.156-3.844-.512-3.375-3.409-5.969-6.938-5.969z"
        filter="url(#a)"
-       id="path19"
-       style="fill:#ff5555" />
+       transform="translate(5.407 6.407) scale(.20374)"
+       id="path4" />
     <path
-       d="m7.452 10.463-0.652 0.026 2.295-2.13 0.41 0.46-1.78 1.653z"
        fill="#1793e6"
-       id="path21"
-       style="fill:#13b1d5" />
+       d="m7.452 10.463-.652.026 2.295-2.13.41.46-1.78 1.653z"
+       id="path5" />
     <circle
        cx="11.213"
        cy="10.239"
        r=".306"
        fill="#1793e6"
-       id="circle23"
-       style="fill:#13b1d5" />
+       id="circle5" />
   </g>
+  <rect
+     width="10"
+     height="3"
+     x="22"
+     y="55"
+     fill="#f44"
+     fill-rule="evenodd"
+     rx="0"
+     ry="0"
+     style="paint-order:stroke fill markers"
+     id="rect5" />
+  <rect
+     width="10"
+     height="3"
+     x="32"
+     y="55"
+     fill="#1793e6"
+     fill-rule="evenodd"
+     rx="0"
+     ry="0"
+     style="paint-order:stroke fill markers"
+     id="rect6" />
 </svg>

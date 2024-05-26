@@ -3,46 +3,43 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg6"
+   id="svg1"
    sodipodi:docname="preferences-desktop-thunderbolt.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs10" />
+     id="defs1" />
   <sodipodi:namedview
-     id="namedview8"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview1"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.83317"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="svg1" />
   <circle
      cx="32"
      cy="32"
      r="27"
      fill="#0c97df"
-     stroke-width="1.8"
-     id="circle2"
-     style="fill:#13b1d5" />
+     id="circle1"
+     style="fill:#515d85" />
   <path
-     d="m36.004 9.996h6l-10.406 17.178h8.7118l-11.271 17.91 3.6312 1.5171-10.666 7.3949 2.3565-12.719 2.5709 2.5123 6.811-12.442h-8.8459z"
      fill="#f8f8f2"
      fill-rule="evenodd"
-     stroke-width="1.6"
-     id="path4" />
+     d="M36.004 9.996h6L31.598 27.174h8.712l-11.271 17.91 3.631 1.517-10.666 7.395 2.356-12.719 2.571 2.512 6.811-12.442h-8.846z"
+     id="path1" />
 </svg>

@@ -1,9 +1,80 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#44475a" style="paint-order:stroke fill markers"/>
- <g transform="translate(0 -280.07)">
-  <path d="M4.852 288.269l-.003-2.58 2.894-.432v3.012zm3.374-3.089l3.857-.615v3.704H8.226zm3.858 3.618l-.001 3.704-3.857-.595v-3.11zm-4.34 3.041l-2.892-.435v-2.606h2.891v3.041z" fill="#f8f8f2"/>
-  <circle cx="12.7" cy="292.77" r="3.175" fill="#f55" paint-order="stroke markers fill"/>
-  <rect transform="rotate(45)" x="213.88" y="197.77" width="4.233" height=".529" rx="0" ry="0" fill="#f8f8f2" paint-order="markers stroke fill"/>
-  <rect transform="scale(-1 1) rotate(45)" x="195.92" y="215.73" width="4.233" height=".529" rx="0" ry="0" fill="#f8f8f2" paint-order="markers stroke fill"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="wine-uninstaller.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <rect
+     width="13.229"
+     height="13.229"
+     x="1.852"
+     y="281.92"
+     fill="#13b1d5"
+     stroke-width=".962"
+     paint-order="markers stroke fill"
+     rx="2.035"
+     ry="2.035"
+     transform="matrix(1.04 0 0 1.04 -.339 -291.61)"
+     id="rect1"
+     style="fill:#44475a" />
+  <path
+     fill="#f8f8f2"
+     d="m12.17 4.498-3.968.616v3.088h3.968zm-4.497.7-2.91.424.003 2.58h2.907zM4.766 8.73v2.608l2.907.427V8.73zm3.436.001v3.109l3.968.595V8.731z"
+     id="path1" />
+  <circle
+     cx="12.7"
+     cy="12.7"
+     r="3.175"
+     fill="#f55"
+     paint-order="stroke markers fill"
+     id="circle1" />
+  <rect
+     width="4.233"
+     height=".529"
+     x="15.844"
+     y="-.265"
+     fill="#f8f8f2"
+     paint-order="markers stroke fill"
+     rx="0"
+     ry="0"
+     transform="rotate(45)"
+     id="rect2" />
+  <rect
+     width="4.233"
+     height=".529"
+     x="-2.117"
+     y="17.696"
+     fill="#f8f8f2"
+     paint-order="markers stroke fill"
+     rx="0"
+     ry="0"
+     transform="scale(-1 1) rotate(45)"
+     id="rect3" />
 </svg>

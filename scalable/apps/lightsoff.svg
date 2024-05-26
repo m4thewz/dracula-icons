@@ -1,6 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <g transform="matrix(1.1857 0 0 1.1857 -1.5729 -333.66)" stroke-width="4.3113" style="paint-order:markers stroke fill">
-  <path transform="matrix(.22313 0 0 .22313 1.3265 281.39)" d="m32 5a27 27 0 0 0-27 27 27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-27-27z" fill="#44475a"/>
-  <path transform="matrix(.22313 0 0 .22313 1.3265 281.39)" d="m32 5v27h27a27 27 0 0 0-27-27zm-27 27.004a27 27 0 0 0 27 26.996v-26.996h-27z" fill="#13b1d5"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><rect width="13.758" height="13.758" x="1.587" y="1.587" fill="#44475a" rx="2.117" ry="2.117"/><path fill="#13b1d5" d="M8.466 1.587v6.877h6.879V3.682a2.112 2.112 0 0 0-2.116-2.094H8.466zM1.588 8.466v4.764c0 1.15.909 2.08 2.05 2.115h4.829V8.466h-6.88z" style="paint-order:markers stroke fill"/></svg>

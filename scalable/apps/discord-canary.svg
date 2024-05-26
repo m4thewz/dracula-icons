@@ -2,44 +2,50 @@
 <svg
    width="64"
    height="64"
+   viewBox="0 0 16.933 16.933"
    version="1.1"
-   id="svg6"
+   id="svg1"
    sodipodi:docname="discord-canary.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs10" />
+     id="defs1" />
   <sodipodi:namedview
-     id="namedview8"
+     id="namedview1"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#ffffff"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:zoom="13.5"
+     inkscape:cx="31.962963"
+     inkscape:cy="32.037037"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
-  <circle
-     cx="32"
-     cy="32"
-     r="27"
+     inkscape:current-layer="svg1" />
+  <rect
+     width="13.229"
+     height="13.229"
+     x="1.852"
+     y="281.92"
      fill="#ffb030"
-     id="circle2"
+     stroke-width=".962"
+     paint-order="markers stroke fill"
+     rx="2.289"
+     ry="2.289"
+     transform="matrix(1.04 0 0 1.04 -.339 -291.61)"
+     id="rect1"
      style="fill:#ffb86c" />
   <path
      fill="#f8f8f2"
-     d="M45.189 19.756a30.947 30.947 0 0 0-7.84-2.463c-.337.61-.732 1.431-1.004 2.085a28.756 28.756 0 0 0-8.688 0 22.271 22.271 0 0 0-1.017-2.085 30.847 30.847 0 0 0-7.845 2.47c-4.962 7.497-6.307 14.807-5.634 22.015 3.29 2.458 6.48 3.95 9.615 4.927a23.917 23.917 0 0 0 2.059-3.391 20.254 20.254 0 0 1-3.243-1.578c.272-.202.538-.413.795-.63 6.253 2.925 13.046 2.925 19.224 0 .26.217.526.428.795.63a20.2 20.2 0 0 1-3.249 1.58 23.804 23.804 0 0 0 2.06 3.392c3.138-.977 6.33-2.47 9.62-4.93.79-8.355-1.347-15.599-5.648-22.022zm-19.502 17.59c-1.877 0-3.416-1.752-3.416-3.886 0-2.134 1.506-3.89 3.416-3.89s3.45 1.753 3.416 3.89c.003 2.134-1.506 3.886-3.416 3.886zm12.625 0c-1.877 0-3.416-1.752-3.416-3.886 0-2.134 1.506-3.89 3.416-3.89s3.45 1.753 3.416 3.89c0 2.134-1.506 3.886-3.416 3.886z"
-     id="path4" />
+     d="M11.956 5.227a8.188 8.188 0 0 0-2.074-.652c-.09.162-.194.379-.266.552a7.616 7.616 0 0 0-2.299 0 5.896 5.896 0 0 0-.269-.552 8.161 8.161 0 0 0-2.075.654C3.66 7.212 3.304 9.147 3.482 11.053a8.294 8.294 0 0 0 2.544 1.304c.205-.282.387-.582.545-.897a5.358 5.358 0 0 1-.858-.418c.072-.053.142-.109.21-.166 1.654.773 3.452.773 5.086 0 .07.057.14.113.21.166-.271.164-.56.305-.859.418.158.315.34.616.545.898a8.275 8.275 0 0 0 2.546-1.305c.208-2.21-.357-4.127-1.495-5.826zM6.796 9.88c-.496 0-.904-.464-.904-1.028 0-.565.399-1.03.904-1.03.506 0 .913.464.904 1.03 0 .564-.398 1.028-.904 1.028zm3.34 0c-.496 0-.903-.464-.903-1.028 0-.565.398-1.03.903-1.03.506 0 .913.464.904 1.03 0 .564-.398 1.028-.904 1.028z"
+     id="path1" />
 </svg>

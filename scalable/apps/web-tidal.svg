@@ -3,47 +3,46 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg3060"
+   id="svg1"
    sodipodi:docname="web-tidal.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs3064" />
+     id="defs1" />
   <sodipodi:namedview
-     id="namedview3062"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview1"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3060" />
+     inkscape:current-layer="g1" />
   <g
      transform="translate(3.826 3.826) scale(1.1739)"
-     id="g3058">
+     id="g1">
     <circle
        cx="24"
        cy="24"
        r="23"
        fill="#404040"
-       id="circle3054"
+       id="circle1"
        style="fill:#44475a" />
     <path
        fill="#f8f8f2"
        d="m14 17-5 5 5 5 5-5zm5 5 5 5 5-5-5-5zm10 0 5 5 5-5-5-5zm-5 5-5 5 5 5 5-5z"
-       id="path3056" />
+       id="path1" />
   </g>
 </svg>

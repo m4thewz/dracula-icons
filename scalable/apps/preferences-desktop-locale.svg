@@ -2,70 +2,91 @@
 <svg
    width="64"
    height="64"
-   version="1.1"
    viewBox="0 0 16.933 16.933"
-   id="svg2378"
+   version="1.1"
+   id="svg3"
    sodipodi:docname="preferences-desktop-locale.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs2382" />
+     id="defs3" />
   <sodipodi:namedview
-     id="namedview2380"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview3"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2378" />
-  <circle
-     cx="8.4665"
-     cy="8.4665"
-     r="7.1436"
-     fill="#f8f8f2"
-     style="paint-order:stroke fill markers;fill:#f8f8f2"
-     id="circle2370" />
-  <path
-     d="m5.9859 4.7624q0.54816 0.64414 0.90203 1.353l-0.61292 0.35387q-0.32149-0.70774-0.86849-1.353zm-1.2235 2.3834h1.7393v3.7365l0.67652-0.74012 0.41863 0.38625q-0.45101 0.61176-1.2247 1.2235l-0.48224-0.41863v-3.6081h-1.1275zm2.9952-0.61176h1.0304l0.19313-0.86965h-1.5138v-0.57938h4.5414v0.57938h-2.3823l-0.19428 0.86965h1.966v1.6745h0.77251v0.58054h-4.8316v-0.58054h1.0628l0.22551-1.094h-0.86965zm1.2883 1.6745h1.7069v-1.094h-1.4814zm2.7373 1.1599v2.8021h-0.64414v-0.41863h-2.6725v0.41863h-0.64414v-2.8021zm-3.3167 1.8041h2.6725v-1.2247h-2.6725z"
-     fill="#cbcccc"
-     font-size="7.13"
-     font-weight="400"
-     letter-spacing="0"
-     stroke-width=".20585"
-     word-spacing="0"
-     aria-label="语"
-     id="path2372"
-     style="fill:#9ea0a6" />
-  <circle
-     cx="11.641"
-     cy="11.906"
-     r="4.2333"
-     fill="#498cd8"
-     style="paint-order:stroke fill markers;fill:#6272a4"
-     id="circle2374" />
-  <path
-     d="m11.641 10.16-0.87406 2.3702h1.7509zm-0.36373-0.63493h0.73021l1.815 4.7624h-0.66883l-0.43428-1.2213h-2.1467l-0.43428 1.2213h-0.6789z"
-     fill="#f8f8f2"
-     font-size="7.13"
-     font-weight="400"
-     letter-spacing="0"
-     stroke-width=".16308"
-     word-spacing="0"
-     aria-label="A"
-     id="path2376"
-     style="fill:#f8f8f2" />
+     inkscape:current-layer="g3" />
+  <g
+     transform="translate(0 -280.067)"
+     id="g3">
+    <rect
+       width="9.525"
+       height="9.525"
+       x="1.852"
+       y="285.094"
+       fill="#f8f8f2"
+       stroke="#282a36"
+       stroke-opacity=".059"
+       stroke-width=".265"
+       paint-order="stroke markers fill"
+       rx=".529"
+       ry=".529"
+       id="rect1" />
+    <rect
+       width="9.525"
+       height="9.525"
+       x="1.852"
+       y="285.094"
+       fill="#f8f8f2"
+       paint-order="stroke markers fill"
+       rx=".529"
+       ry=".529"
+       id="rect2" />
+    <path
+       fill="#cbcccc"
+       d="M4.47 286.653q.474.557.78 1.17l-.53.306q-.278-.612-.751-1.17zm-1.058 2.061h1.504v3.231l.585-.64.362.334q-.39.529-1.059 1.058l-.417-.362v-3.12h-.975zm2.59-.529h.891l.167-.752H5.751v-.501h3.927v.501h-2.06l-.168.752h1.7v1.448h.668v.502H5.64v-.502h.919l.195-.946h-.752zm1.114 1.448h1.476v-.946H7.311zm2.367 1.003v2.423h-.557v-.362H6.615v.362h-.557v-2.423zm-2.868 1.56h2.311v-1.059H6.615z"
+       aria-label="语"
+       font-family="sans-serif"
+       font-size="7.13"
+       font-weight="400"
+       letter-spacing="0"
+       word-spacing="0"
+       id="path2" />
+    <rect
+       width="9.525"
+       height="9.525"
+       x="6.085"
+       y="281.919"
+       fill="#6272a4"
+       paint-order="stroke markers fill"
+       rx=".529"
+       ry=".529"
+       id="rect3"
+       style="fill:#515d85" />
+    <path
+       fill="#f8f8f2"
+       d="m10.848 284.775-.954 2.587h1.911zm-.397-.693h.797l1.981 5.198h-.73l-.474-1.333H9.682l-.474 1.333h-.741z"
+       aria-label="A"
+       font-family="sans-serif"
+       font-size="7.13"
+       font-weight="400"
+       letter-spacing="0"
+       word-spacing="0"
+       id="path3" />
+  </g>
 </svg>

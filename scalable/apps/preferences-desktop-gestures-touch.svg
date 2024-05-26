@@ -3,89 +3,192 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg17"
+   id="svg16"
    sodipodi:docname="preferences-desktop-gestures-touch.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs21" />
   <sodipodi:namedview
-     id="namedview19"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview16"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.83317"
-     inkscape:cy="32.031403"
-     inkscape:window-width="1280"
-     inkscape:window-height="1361"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg17" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="a"
+       x1="14.679"
+       x2="2.293"
+       y1="293.79"
+       y2="282.98"
+       gradientTransform="matrix(3.7795 0 0 3.9436 0 -1105.9)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#66bcff"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#b29aff"
+         id="stop2" />
+    </linearGradient>
+  </defs>
   <linearGradient
-     id="k"
+     id="b"
      x1="15"
      x2="9"
      y1="9"
      y2="9"
-     gradientTransform="matrix(3.5556 0 0 8 -19.55 -44)"
+     gradientTransform="matrix(2.6667 0 0 6 -6.694 -25)"
      gradientUnits="userSpaceOnUse">
     <stop
-       stop-color="#a1daff"
        offset="0"
-       id="stop2"
-       style="stop-color:#8be9fd;stop-opacity:1;" />
+       stop-color="#a1daff"
+       id="stop3" />
     <stop
+       offset="1"
        stop-color="#abebf9"
        stop-opacity="0"
-       offset="1"
-       id="stop4"
-       style="stop-color:#a6edfa;stop-opacity:0;" />
+       id="stop4" />
   </linearGradient>
   <rect
-     x="4"
-     y="4"
      width="55.999"
-     height="55.999"
-     ry="28"
-     fill="#4cc3dc"
-     stroke-width="3.9198"
-     style="paint-order:stroke markers fill;fill:#4cc3dc"
-     id="rect7" />
-  <path
-     d="m32 4c-5.9602 0-11.47 1.8495-16 5h32c-4.5305-3.1505-10.04-5-16-5z"
-     opacity=".35"
-     stroke-width="6.8086"
-     style="paint-order:stroke markers fill"
-     id="path9" />
+     height="48.001"
+     x="4"
+     y="8"
+     fill="url(#a)"
+     rx="5"
+     ry="5"
+     id="rect4"
+     style="fill:#44475a" />
   <rect
-     x="27"
-     y="5.9718"
-     width="10"
-     height="2"
-     ry="1.0019"
+     width="50"
+     height="4"
+     x="6.999"
+     y="10"
      opacity=".35"
-     stroke-width="3.7796"
+     rx="2"
+     ry="2"
+     id="rect5" />
+  <rect
+     width="3.999"
+     height="1.999"
+     x="8"
+     y="11"
+     opacity=".35"
+     ry="1.002"
      style="paint-order:stroke markers fill"
-     id="rect11" />
-  <path
-     d="m12.45 20h21.333v8h-21.333z"
-     fill="url(#k)"
-     fill-rule="evenodd"
-     stroke-width="1.3333"
-     id="path13" />
-  <path
-     d="m35.018 44 10.982-0.07029 1.2429-12.431c0.26059-2.5201-2.8631-3.5693-3.7288-1.2429 0.01027-2.7944-2.8631-3.1441-3.7305-1.2446 0.10972-2.3076-2.8236-3.2008-3.7288-1.2429v-4.9717c0-3.7288-3.7288-3.7288-3.7288 0v11.188c-6.2163-6.2163-7.7404-1.7487-7.7404-1.7487 4.2243 2.8511 6.806 11.788 10.432 11.764z"
+     id="rect6" />
+  <rect
+     width="10.001"
+     height="1.999"
+     x="27.001"
+     y="11"
+     opacity=".35"
+     ry="1.002"
+     style="paint-order:stroke markers fill"
+     id="rect7" />
+  <rect
+     width="1.999"
+     height="1.999"
+     x="53.999"
+     y="11"
+     opacity=".35"
+     ry="1.002"
+     style="paint-order:stroke markers fill"
+     id="rect8" />
+  <rect
+     width="3.001"
+     height="1.999"
+     x="50"
+     y="11"
+     opacity=".35"
+     ry="1.002"
+     style="paint-order:stroke markers fill"
+     id="rect9" />
+  <rect
+     width="1.999"
+     height="1.999"
+     x="46.999"
+     y="11"
+     opacity=".35"
+     ry="1.002"
+     style="paint-order:stroke markers fill"
+     id="rect10" />
+  <rect
+     width="37.996"
+     height="5"
+     x="13.002"
+     y="48.001"
      fill="#f8f8f2"
-     stroke-width="1.3333"
+     opacity=".35"
+     paint-order="markers stroke fill"
+     rx="1"
+     ry="1"
+     id="rect11" />
+  <g
+     fill="#ccdfff"
+     transform="translate(0 6.51) scale(3.7796)"
+     id="g15">
+    <rect
+       width="1.323"
+       height="1.323"
+       x="4.233"
+       y="10.448"
+       rx=".264"
+       ry=".264"
+       style="paint-order:stroke markers fill"
+       id="rect12" />
+    <rect
+       width="1.323"
+       height="1.323"
+       x="6.614"
+       y="10.448"
+       rx=".264"
+       ry=".264"
+       style="paint-order:stroke markers fill"
+       id="rect13" />
+    <rect
+       width="1.323"
+       height="1.323"
+       x="8.996"
+       y="10.448"
+       rx=".264"
+       ry=".264"
+       style="paint-order:stroke markers fill"
+       id="rect14" />
+    <rect
+       width="1.323"
+       height="1.323"
+       x="11.376"
+       y="10.448"
+       rx=".264"
+       ry=".264"
+       style="paint-order:stroke markers fill"
+       id="rect15" />
+  </g>
+  <path
+     fill="url(#b)"
+     fill-rule="evenodd"
+     d="M17.306 23h16v6h-16z"
      id="path15" />
+  <path
+     fill="#f8f8f2"
+     d="m33.628 41 8.237-.053.932-9.323c.195-1.89-2.147-2.677-2.797-.932.008-2.096-2.147-2.358-2.798-.934.083-1.73-2.117-2.4-2.796-.932v-3.729c0-2.796-2.797-2.796-2.797 0v8.391c-4.662-4.662-5.805-1.311-5.805-1.311 3.168 2.138 5.104 8.84 7.824 8.823z"
+     id="path16" />
 </svg>

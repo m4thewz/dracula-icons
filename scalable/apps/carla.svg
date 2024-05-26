@@ -1,148 +1,121 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   id="Flamingo"
    width="64"
    height="64"
-   enable-background="new 0 0 1024 1024"
    image-rendering="optimizeSpeed"
    version="1.1"
-   viewBox="0 0 64 64"
+   id="svg6"
    sodipodi:docname="carla.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs291" />
+     id="defs6" />
   <sodipodi:namedview
-     id="namedview289"
+     id="namedview6"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#f8f8f2"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.83317"
-     inkscape:cy="32.031403"
-     inkscape:window-width="1280"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="Flamingo" />
-  <circle
-     cx="32"
-     cy="32"
-     r="27"
-     fill="#ff4b68"
-     stroke-width=".9"
-     style="paint-order:stroke markers fill;fill:#c7639f"
-     id="circle262" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
   <rect
-     x="16"
-     y="16"
+     width="52"
+     height="52"
+     x="6"
+     y="6"
+     fill="#ff4b68"
+     rx="8"
+     ry="8"
+     id="rect1"
+     style="fill:#ff5555" />
+  <rect
      width="32"
      height="32"
-     rx="2.6667"
+     x="16"
+     y="16"
      fill="#3d3d3d"
-     stroke-width="1.3333"
-     style="paint-order:normal;fill:#44475a"
-     id="rect264" />
+     rx="2.667"
+     style="paint-order:normal"
+     id="rect2" />
   <circle
-     transform="rotate(-90)"
      cx="-42"
      cy="32"
      r="3"
-     fill="#717380"
-     stroke-width="1.5"
+     fill="gray"
      style="paint-order:normal"
-     id="circle266" />
-  <path
-     d="m35 42a3 3 0 0 0-0.40722-1.5h-2.5927a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5h2.5957a3 3 0 0 0 0.40429-1.5z"
-     fill="#f8f8f2"
-     opacity=".25"
-     stroke-width="1.5"
-     style="paint-order:normal"
-     id="path268" />
-  <circle
      transform="rotate(-90)"
+     id="circle2" />
+  <path
+     fill="#f8f8f2"
+     d="M35 42a3 3 0 0 0-.407-1.5H32a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5h2.596A3 3 0 0 0 35 42z"
+     opacity=".25"
+     style="paint-order:normal"
+     id="path2" />
+  <circle
      cx="-42"
      cy="22.407"
      r="3"
-     fill="#717380"
-     stroke-width="1.5"
+     fill="gray"
      style="paint-order:normal"
-     id="circle270" />
-  <path
-     d="m22.407 39a3 3 0 0 0-1.5 0.40722v2.5927a1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5v-2.5957a3 3 0 0 0-1.5-0.40429z"
-     fill="#f8f8f2"
-     opacity=".25"
-     stroke-width="1.5"
-     style="paint-order:normal"
-     id="path272" />
-  <circle
      transform="rotate(-90)"
+     id="circle3" />
+  <path
+     fill="#f8f8f2"
+     d="M22.407 39a3 3 0 0 0-1.5.407V42a1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5v-2.596a3 3 0 0 0-1.5-.404z"
+     opacity=".25"
+     style="paint-order:normal"
+     id="path3" />
+  <circle
      cx="-42"
      cy="41"
      r="3"
-     fill="#717380"
-     stroke-width="1.5"
+     fill="gray"
      style="paint-order:normal"
-     id="circle274" />
+     transform="rotate(-90)"
+     id="circle4" />
   <path
-     d="m41 45a3 3 0 0 0 1.5-0.40722v-2.5927a1.5 1.5 0 0 0-1.5-1.5 1.5 1.5 0 0 0-1.5 1.5v2.5957a3 3 0 0 0 1.5 0.40429z"
      fill="#f8f8f2"
+     d="M41 45a3 3 0 0 0 1.5-.407V42a1.5 1.5 0 0 0-1.5-1.5 1.5 1.5 0 0 0-1.5 1.5v2.596A3 3 0 0 0 41 45z"
      opacity=".25"
-     stroke-width="1.5"
      style="paint-order:normal"
-     id="path276" />
+     id="path4" />
   <rect
-     x="19"
-     y="19"
      width="26"
      height="18"
-     ry="1"
+     x="19"
+     y="19"
      fill="#202020"
-     stroke-width="1.2928"
-     style="paint-order:normal;fill:#1e1f29"
-     id="rect278" />
-  <ellipse
+     ry="1"
+     style="paint-order:normal"
+     id="rect4" />
+  <circle
      cx="22.667"
      cy="42.667"
-     r="2.6667"
+     r="0"
      fill="#b0b0b0"
-     stroke-width="1.3333"
      style="paint-order:normal"
-     id="ellipse280" />
-  <rect
-     x="21"
-     y="20"
-     width="5"
-     height="16"
+     id="circle5" />
+  <path
      fill="#3af684"
-     stroke-width="1.291"
-     style="paint-order:normal;fill:#7afa99"
-     id="rect282" />
-  <rect
-     x="29"
-     y="30"
-     width="6"
-     height="6"
-     fill="#3af684"
-     stroke-width="1.5"
-     style="paint-order:normal;fill:#7afa99"
-     id="rect284" />
-  <rect
-     x="38"
-     y="26"
-     width="5"
-     height="10"
+     d="M21 20h5v16h-5zM29 30h6v6h-6z"
+     style="paint-order:normal;fill:#50fa7b"
+     id="path5" />
+  <path
      fill="#0eabe7"
-     stroke-width="1.3363"
+     d="M38 26h5v10h-5z"
      style="paint-order:normal;fill:#13b1d5"
-     id="rect286" />
+     id="path6" />
 </svg>

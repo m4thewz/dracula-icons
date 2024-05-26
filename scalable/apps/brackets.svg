@@ -2,87 +2,60 @@
 <svg
    width="64"
    height="64"
-   version="1.1"
    viewBox="0 0 16.933 16.933"
-   id="svg19"
+   version="1.1"
+   id="svg2"
    sodipodi:docname="brackets.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
   <sodipodi:namedview
-     id="namedview21"
+     id="namedview2"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#f8f8f2"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg19" />
-  <defs
-     id="defs5">
-    <filter
-       id="f"
-       x="-0.060000002"
-       y="-0.060000002"
-       width="1.12"
-       height="1.12"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.2"
-         id="feGaussianBlur2" />
-    </filter>
-  </defs>
+     inkscape:current-layer="g2" />
   <g
-     id="g15">
-    <circle
-       cx="8.4665"
-       cy="8.4665"
-       r="7.1436"
+     transform="translate(0 -280.07)"
+     id="g2">
+    <rect
+       width="13.758"
+       height="13.758"
+       x="1.587"
+       y="281.65"
        fill="#29aae2"
-       stroke-width=".37419"
-       id="circle7"
+       rx="2.116"
+       ry="2.116"
+       id="rect1"
        style="fill:#13b1d5" />
-    <circle
-       transform="matrix(.26458 0 0 .26458 4.6919e-6 1.9752e-5)"
-       cx="32"
-       cy="32"
-       r="24"
-       fill="#29aae2"
-       filter="url(#f)"
-       opacity=".15"
-       stroke-width="1.5715"
-       id="circle9"
-       style="fill:#13b1d5" />
-    <circle
-       cx="8.4665"
-       cy="8.4665"
-       r="6.0853"
+    <rect
+       width="10.583"
+       height="10.583"
+       x="3.175"
+       y="283.24"
        fill="#f8f8f2"
-       stroke-width=".39846"
-       id="circle11" />
-    <circle
-       cx="8.4718"
-       cy="8.4782"
-       r="0"
-       fill="#29aae2"
-       stroke-width=".41578"
-       id="circle13" />
+       rx=".529"
+       ry=".529"
+       id="rect2" />
+    <path
+       fill="#424242"
+       d="M4.233 284.3v8.467h3.704v-1.852H6.085v-4.763h1.852V284.3zm4.763 0v1.852h1.852v4.763H8.996v1.852H12.7V284.3z"
+       id="path2" />
   </g>
-  <path
-     d="m4.7624 4.7624v7.4082h3.3673v-1.6837h-1.6837v-4.0409h1.6837v-1.6837h-1.7211zm4.0409 0v1.6837h1.6837v4.0409h-1.6837v1.6837h3.3673v-7.4082h-3.3673z"
-     fill="#44475a"
-     stroke-width=".26458"
-     id="path17" />
 </svg>

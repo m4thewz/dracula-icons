@@ -1,1 +1,119 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="54" height="54" x="5" y="5" fill="#44475a" rx="27" ry="27" style="paint-order:stroke markers fill"/><path fill="#f8f8f2" d="M16 15h19v2H16z"/><circle cx="40" cy="16" r="2" fill="#44c367"/><circle cx="47" cy="16" r="2" fill="#44c367"/><path fill="#f8f8f2" d="M11 31h24v2H11z"/><circle cx="40" cy="32" r="2" fill="#44c367"/><circle cx="47" cy="32" r="2" fill="#44c367"/><path fill="#f8f8f2" d="M16 47h19v2H16z"/><path d="M6.906 22c-.386.974-.72 1.974-.992 3h52.172a26.803 26.803 0 0 0-.992-3zM5.672 38c.23 1.023.517 2.025.86 3h50.937c.343-.975.629-1.977.86-3z" opacity=".25" style="paint-order:fill markers stroke"/><circle cx="40" cy="48" r="2" fill="#44c367"/><circle cx="47" cy="48" r="2" fill="#44c367"/><circle cx="46" cy="46" r="18" fill="#168daa" fill-rule="evenodd" style="paint-order:fill markers stroke"/><path fill="#f8f8f2" fill-rule="evenodd" d="M33.975 34A17 17 0 0 0 32 36.36v19.25A17 17 0 0 0 33.973 58h24.053a17 17 0 0 0 1.975-2.36V36.389A17 17 0 0 0 58.028 34zm1.44 2h21.172L46 46.586 35.416 36zM34 37.414l7.868 7.867L34 54.461zm24 0v17.051l-7.867-9.184zM43.285 46.7 46 49.414l2.715-2.715L56.684 56H35.313l7.973-9.3z" style="paint-order:fill markers stroke"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="preferences-system-network-server-mail.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <rect
+     width="52"
+     height="52"
+     x="6"
+     y="6"
+     fill="#44475a"
+     rx="2"
+     ry="2"
+     style="paint-order:stroke markers fill;fill:#44475a"
+     id="rect1" />
+  <path
+     fill="#f8f8f2"
+     d="M12 15h24v2H12z"
+     id="path1" />
+  <circle
+     cx="43"
+     cy="16"
+     r="2"
+     fill="#44c367"
+     id="circle1"
+     style="fill:#50fa7b" />
+  <circle
+     cx="51"
+     cy="16"
+     r="2"
+     fill="#44c367"
+     id="circle2"
+     style="fill:#50fa7b" />
+  <g
+     fill="#f8f8f2"
+     id="g4">
+    <path
+       d="M12 31h24v2H12z"
+       id="path2" />
+    <circle
+       cx="43"
+       cy="32"
+       r="2"
+       id="circle3" />
+    <circle
+       cx="51"
+       cy="32"
+       r="2"
+       id="circle4" />
+    <path
+       d="M12 47h24v2H12z"
+       id="path4" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     id="g5">
+    <rect
+       width="52"
+       height="3"
+       x="6"
+       y="22"
+       fill="#282a3600f"
+       opacity=".5"
+       rx="0"
+       ry="0"
+       style="paint-order:fill markers stroke"
+       id="rect4" />
+    <rect
+       width="52"
+       height="3"
+       x="6"
+       y="38"
+       fill="#282a3600f"
+       opacity=".5"
+       rx="0"
+       ry="0"
+       style="paint-order:fill markers stroke"
+       id="rect5" />
+    <circle
+       cx="46"
+       cy="46"
+       r="18"
+       fill="#168daa"
+       style="paint-order:fill markers stroke;fill:#6272a4"
+       id="circle5" />
+    <path
+       fill="#f8f8f2"
+       d="M33.975 34A17 17 0 0 0 32 36.36V55.61a17 17 0 0 0 1.973 2.39h24.053a17 17 0 0 0 1.975-2.36V36.389A17 17 0 0 0 58.028 34H33.975zm1.44 2h21.172L46 46.586 35.416 36zM34 37.414l7.868 7.867L34 54.461V37.414zm24 0v17.051l-7.867-9.184L58 37.414zM43.285 46.7 46 49.414l2.715-2.715L56.684 56H35.313l7.973-9.3z"
+       style="paint-order:fill markers stroke"
+       id="path5" />
+  </g>
+</svg>

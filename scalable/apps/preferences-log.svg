@@ -3,65 +3,118 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg10"
+   id="svg8"
    sodipodi:docname="preferences-log.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs14" />
   <sodipodi:namedview
-     id="namedview12"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview8"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg10" />
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="a"
+       x1="14.679"
+       x2="2.293"
+       y1="293.79"
+       y2="282.98"
+       gradientTransform="matrix(3.7795 0 0 3.9436 0 -1105.9)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#66bcff"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#b29aff"
+         id="stop2" />
+    </linearGradient>
+  </defs>
   <rect
-     x="4"
-     y="4"
      width="55.999"
-     height="55.999"
-     ry="28"
-     fill="#86aeff"
-     stroke-width="3.9198"
-     style="paint-order:stroke markers fill;fill:#6272a4"
-     id="rect2" />
-  <path
-     d="m32 4c-5.9602 0-11.47 1.8495-16 5h32c-4.5305-3.1505-10.04-5-16-5z"
-     opacity=".35"
-     stroke-width="6.8086"
-     style="paint-order:stroke markers fill"
-     id="path4" />
+     height="48.001"
+     x="4"
+     y="8"
+     fill="url(#a)"
+     rx="5"
+     ry="5"
+     id="rect2"
+     style="fill:#44475a" />
   <rect
-     x="27"
-     y="5.9718"
-     width="10"
-     height="2"
-     ry="1.0019"
+     width="50"
+     height="4"
+     x="6.999"
+     y="10"
      opacity=".35"
-     stroke-width="3.7796"
+     rx="2"
+     ry="2"
+     id="rect3" />
+  <rect
+     width="3.999"
+     height="1.999"
+     x="8"
+     y="11"
+     opacity=".35"
+     ry="1.002"
+     style="paint-order:stroke markers fill"
+     id="rect4" />
+  <rect
+     width="10.001"
+     height="1.999"
+     x="27.001"
+     y="11"
+     opacity=".35"
+     ry="1.002"
+     style="paint-order:stroke markers fill"
+     id="rect5" />
+  <rect
+     width="1.999"
+     height="1.999"
+     x="53.999"
+     y="11"
+     opacity=".35"
+     ry="1.002"
      style="paint-order:stroke markers fill"
      id="rect6" />
-  <path
-     d="m13.643 15c-0.59007 0.63721-1.1503 1.3035-1.6719 2h12.029v-2h-10.357zm-4.1133 6c-0.31777 0.65064-0.60569 1.3188-0.86719 2h5.3379v-2h-4.4707zm8.4707 0v2h24v-2h-24zm-10.008 4c-0.18983 0.65637-0.36152 1.3223-0.49805 2h6.5059v-2h-6.0078zm10.008 0v2h36v-2h-36zm-10.818 4c-0.078164 0.65902-0.13192 1.3259-0.1582 2h6.9766v-2h-6.8184zm10.818 0v2h32v-2h-32zm-10.977 4c0.026332 0.6742 0.079971 1.3408 0.1582 2h6.8184v-2h-6.9766zm10.977 0v2h20v-2h-20zm-10.506 4c0.13665 0.67834 0.308 1.3431 0.49805 2h6.0078v-2h-6.5059zm10.506 0v2h28v-2h-28zm-9.3379 4c0.26147 0.68107 0.54947 1.3495 0.86719 2h4.4707v-2h-5.3379zm9.3379 0v2h24v-2h-24zm-7.3809 4c0.41871 0.68921 0.87011 1.357 1.3516 2h2.0293v-2h-3.3809zm7.3809 0v2h28v-2h-28zm-4.3555 4c0.11678 0.12609 0.23612 0.24941 0.35547 0.37305v-0.37305h-0.35547zm4.3555 0v2h24v-2h-24z"
-     fill="#f8f8f2"
-     opacity=".5"
-     stroke-width="3.5"
+  <rect
+     width="3.001"
+     height="1.999"
+     x="50"
+     y="11"
+     opacity=".35"
+     ry="1.002"
      style="paint-order:stroke markers fill"
+     id="rect7" />
+  <rect
+     width="1.999"
+     height="1.999"
+     x="46.999"
+     y="11"
+     opacity=".35"
+     ry="1.002"
+     style="paint-order:stroke markers fill"
+     id="rect8" />
+  <path
+     fill="#f8f8f2"
+     d="M8 17h18v2H8zm0 33h8v2H8zm12 0h24v2H20zM8 46h8v2H8zm12 0h28v2H20zM8 42h8v2H8zm12 0h24v2H20zM8 38h8v2H8zm12 0h28v2H20zM8 34h8v2H8zm12 0h20v2H20zM8 30h8v2H8zm12 0h32v2H20zM8 26h8v2H8zm12 0h36v2H20zM8 22h8v2H8zm12 0h24v2H20z"
+     opacity=".5"
      id="path8" />
 </svg>

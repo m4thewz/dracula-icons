@@ -3,63 +3,64 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg42500"
+   id="svg4"
    sodipodi:docname="yast-autoyast.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs42504" />
+     id="defs4" />
   <sodipodi:namedview
-     id="namedview42502"
+     id="namedview4"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#f8f8f2"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg42500" />
-  <circle
-     cx="32"
-     cy="32"
-     r="27"
+     inkscape:current-layer="svg4" />
+  <rect
+     x="8.0014"
+     y="5.9982"
+     width="48.001"
+     height="52"
+     rx="5.9982"
+     ry="5.9982"
      fill="#44c367"
      stroke-width="3.7796"
-     style="paint-order:stroke fill markers"
-     id="circle42490" />
+     id="rect1"
+     style="fill:#44c367" />
   <path
-     d="M 32,5 A 27,27 0 0 0 5,32 27,27 0 0 0 23.699,57.678 38.322,38.322 0 0 0 58.785,28.875 27,27 0 0 0 32,5 Z"
-     fill="#50fa7b"
-     stroke-width="5.3645"
-     style="paint-order:stroke fill markers;fill:#f8f8f2;opacity:0.2"
-     id="path42492" />
-  <path
-     d="m32 5a27 27 0 0 0-24.553 15.832 33.136 33.136 0 0 0 32.859 29.199 33.136 33.136 0 0 0 14.271-3.2656 27 27 0 0 0 4.4218-14.766 27 27 0 0 0-27-27z"
+     d="m32 6-18.064 2e-3a5.985 5.985 0 0 0-5.936 5.998v15.916a34.999 36.399 0 0 0 32 21.764 34.999 36.399 0 0 0 16-4.037v-33.643c0-3.324-2.675-6-6-6z"
      fill="#44c367"
      opacity=".1"
-     stroke-width="4.6387"
-     style="paint-order:stroke fill markers;opacity:0.8"
-     id="path42494" />
+     style="paint-order:stroke markers fill"
+     id="path1" />
+  <path
+     d="m32 6-18.064 2e-3a5.985 5.985 0 0 0-5.936 5.998v40c0 3.324 2.676 6 6 6h18.34a40 41.6 0 0 0 23.66-21.504v-24.496c0-3.324-2.675-6-6-6z"
+     fill="#f8f8f2"
+     opacity=".1"
+     style="paint-order:stroke markers fill"
+     id="path2" />
   <path
      d="m20.002 15.001a12 12 0 0 0 12 12 12 12 0 0 0 12-12h-3.001a8.9992 8.9992 0 0 1-8.9992 8.9992 8.9992 8.9992 0 0 1-9.003-8.9992z"
      fill="#f8f8f2"
      stroke-width="3.7796"
      style="paint-order:stroke markers fill"
-     id="path42496" />
+     id="path3" />
   <path
-     d="m30 31v2.204a10 10 0 0 0-3.508 1.46l-1.562-1.562-2.828 2.828 1.562 1.562a10 10 0 0 0-1.454 3.508h-2.21v4h2.204a10 10 0 0 0 1.46 3.508l-1.562 1.562 2.828 2.828 1.562-1.562a10 10 0 0 0 3.508 1.454v2.21h4v-2.204a10 10 0 0 0 3.508-1.46l1.562 1.562 2.828-2.828-1.562-1.562a10 10 0 0 0 1.454-3.508h2.21v-4h-2.204a10 10 0 0 0-1.46-3.508l1.562-1.562-2.828-2.828-1.562 1.562a10 10 0 0 0-3.508-1.454v-2.21zm2 4a8 8 0 0 1 5.74 2.426 8 8 0 0 1 2.26 5.574 8 8 0 0 1-2.426 5.74 8 8 0 0 1-5.574 2.26 8 8 0 0 1-5.74-2.426 8 8 0 0 1-2.26-5.574 8 8 0 0 1 2.426-5.74 8 8 0 0 1 5.574-2.26zm-2 4v8l6-4z"
+     d="M30 31v2.204a10 10 0 0 0-3.508 1.46l-1.562-1.562-2.828 2.828 1.562 1.562A10 10 0 0 0 22.21 41H20v4h2.204a10 10 0 0 0 1.46 3.508l-1.562 1.562 2.828 2.828 1.562-1.562A10 10 0 0 0 30 52.79V55h4v-2.204a10 10 0 0 0 3.508-1.46l1.562 1.562 2.828-2.828-1.562-1.562A10 10 0 0 0 41.79 45H44v-4h-2.204a10 10 0 0 0-1.46-3.508l1.562-1.562-2.828-2.828-1.562 1.562A10 10 0 0 0 34 33.21V31zm2 4a8 8 0 0 1 5.74 2.426A8 8 0 0 1 40 43a8 8 0 0 1-2.426 5.74A8 8 0 0 1 32 51a8 8 0 0 1-5.74-2.426A8 8 0 0 1 24 43a8 8 0 0 1 2.426-5.74A8 8 0 0 1 32 35zm-2 4v8l6-4z"
      fill="#f8f8f2"
-     id="path42498" />
+     id="path4" />
 </svg>

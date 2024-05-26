@@ -3,73 +3,71 @@
    width="64"
    height="64"
    version="1"
-   id="svg18"
+   id="svg6"
    sodipodi:docname="around.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs22" />
+     id="defs6" />
   <sodipodi:namedview
-     id="namedview20"
+     id="namedview6"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#f8f8f2"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg18" />
-  <g
-     transform="translate(5 5) scale(3.375)"
-     id="g16">
-    <rect
-       width="16"
-       height="16"
-       fill="#44475a"
-       rx="8"
-       ry="8"
-       id="rect2" />
-    <path
-       fill="#248afd"
-       d="M9 8a3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3z"
-       id="path4"
-       style="fill:#168daa" />
-    <path
-       fill="#e97e10"
-       d="M7 8a3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3z"
-       id="path6"
-       style="fill:#c7925b" />
-    <path
-       fill="#e3424a"
-       d="M11 8a3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3z"
-       id="path8"
-       style="fill:#c7484a" />
-    <path
-       fill="#50beee"
-       d="M7 5.18A3 3 0 0 0 5 8a3 3 0 0 0 2.01 2.824A3 3 0 0 0 9 8a3 3 0 0 0-2-2.82z"
-       id="path10"
-       style="fill:#13b1d5" />
-    <path
-       fill="#fecd38"
-       d="M9 5.18A3 3 0 0 0 7 8a3 3 0 0 0 2 2.82A3 3 0 0 0 11 8a3 3 0 0 0-2-2.82z"
-       id="path12"
-       style="fill:#fdc88e" />
-    <path
-       fill="#ff90b8"
-       d="M8 5.768A3 3 0 0 0 7 8a3 3 0 0 0 1.002 2.234A3 3 0 0 0 9 8a3 3 0 0 0-1-2.232z"
-       id="path14"
-       style="fill:#fd7e7c" />
-  </g>
+     inkscape:current-layer="svg6" />
+  <rect
+     width="52"
+     height="52"
+     x="6"
+     y="6"
+     fill="#44475a"
+     fill-rule="evenodd"
+     rx="8"
+     ry="8"
+     style="paint-order:stroke fill markers"
+     id="rect1" />
+  <path
+     fill="#248afd"
+     d="M35.375 32A10.125 10.125 0 0 1 25.25 42.125 10.125 10.125 0 0 1 15.125 32 10.125 10.125 0 0 1 25.25 21.875 10.125 10.125 0 0 1 35.375 32Z"
+     id="path1"
+     style="fill:#13b1d5" />
+  <path
+     fill="#e97e10"
+     d="M28.625 32A10.125 10.125 0 0 0 38.75 42.125 10.125 10.125 0 0 0 48.875 32 10.125 10.125 0 0 0 38.75 21.875 10.125 10.125 0 0 0 28.625 32Z"
+     id="path2"
+     style="fill:#c7925b" />
+  <path
+     fill="#e3424a"
+     d="M42.125 32A10.125 10.125 0 0 1 32 42.125 10.125 10.125 0 0 1 21.875 32 10.125 10.125 0 0 1 32 21.875 10.125 10.125 0 0 1 42.125 32Z"
+     id="path3"
+     style="fill:#ff5555" />
+  <path
+     fill="#50beee"
+     d="M28.625 22.481a10.125 10.125 0 0 0-6.75 9.518 10.125 10.125 0 0 0 6.783 9.532A10.125 10.125 0 0 0 35.375 32a10.125 10.125 0 0 0-6.75-9.518z"
+     id="path4" />
+  <path
+     fill="#fecd38"
+     d="M35.375 22.481a10.125 10.125 0 0 0-6.75 9.518 10.125 10.125 0 0 0 6.75 9.519A10.125 10.125 0 0 0 42.125 32a10.125 10.125 0 0 0-6.75-9.519z"
+     id="path5"
+     style="fill:#fdc88e" />
+  <path
+     fill="#ff90b8"
+     d="M32 24.466A10.125 10.125 0 0 0 28.625 32a10.125 10.125 0 0 0 3.382 7.541 10.125 10.125 0 0 0 3.368-7.54A10.125 10.125 0 0 0 32 24.465z"
+     id="path6"
+     style="fill:#fd7e7c" />
 </svg>

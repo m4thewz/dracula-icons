@@ -3,34 +3,33 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg36"
+   id="svg12"
    sodipodi:docname="calligrakrita.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview38"
+     id="namedview12"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#f8f8f2"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg36" />
+     inkscape:current-layer="svg12" />
   <defs
-     id="defs22">
+     id="defs8">
     <linearGradient
        id="d"
        x1="1326.1"
@@ -42,14 +41,12 @@
       <stop
          offset="0"
          stop-color="#5596ea"
-         id="stop2"
-         style="stop-color:#13b1d5;stop-opacity:1;" />
+         id="stop1" />
       <stop
          offset="1"
          stop-color="#5596ea"
          stop-opacity=".15"
-         id="stop4"
-         style="stop-color:#13b1d5;stop-opacity:0.14901961;" />
+         id="stop2" />
     </linearGradient>
     <linearGradient
        id="c"
@@ -62,11 +59,11 @@
       <stop
          offset="0"
          stop-color="#343434"
-         id="stop7" />
+         id="stop3" />
       <stop
          offset="1"
          stop-color="#44475a"
-         id="stop9" />
+         id="stop4" />
     </linearGradient>
     <linearGradient
        id="a"
@@ -78,12 +75,12 @@
       <stop
          offset="0"
          stop-color="#fe44ff"
-         id="stop12"
-         style="stop-color:#c7639f;stop-opacity:1;" />
+         id="stop5"
+         style="stop-color:#fd99d1;stop-opacity:1;" />
       <stop
          offset="1"
          stop-color="#ffe680"
-         id="stop14"
+         id="stop6"
          style="stop-color:#f1fa8c;stop-opacity:1;" />
     </linearGradient>
     <radialGradient
@@ -96,14 +93,14 @@
       <stop
          offset="0"
          stop-color="#4afefc"
-         id="stop17"
+         id="stop7"
          style="stop-color:#8be9fd;stop-opacity:1;" />
       <stop
          offset="1"
          stop-color="#4abdfe"
          stop-opacity="0"
-         id="stop19"
-         style="stop-color:#168daa;stop-opacity:0;" />
+         id="stop8"
+         style="stop-color:#43dafd;stop-opacity:0.05236153;" />
     </radialGradient>
   </defs>
   <circle
@@ -111,32 +108,29 @@
      cy="32"
      r="27"
      fill="url(#a)"
-     id="circle24" />
+     id="circle8" />
   <circle
      cx="32"
      cy="32"
      r="27"
      fill="url(#b)"
-     id="circle26" />
+     id="circle9" />
   <path
      fill="url(#c)"
      d="M36.93 36.294c-3.635 3.392-10.629-1.988-13.58-5.367C20.314 27.45 8.977 15.73 8.149 14.97c-.829-.76-1.488-1.7-.756-2.633.763-.91 1.818-.458 2.733.196.914.654 14.724 9.327 18.75 11.58 3.916 2.192 10.623 7.925 8.055 12.18z"
      transform="translate(1.086 -.494)"
-     id="path28"
-     style="fill:#44475a" />
+     id="path9" />
   <path
      fill="url(#d)"
      d="M42.406 39.938c-16.413 12.656-30.168.492-32.248-3.71 1.23 7.293 6.915 13.82 15.504 16.331 6.487 1.897 16.453 2.097 21.093-5.13z"
      transform="translate(1.086 -.494)"
-     id="path30" />
+     id="path10" />
   <path
      fill="#bfbfbf"
      d="M43.79 40.338c-1.16.53-1.034.915-2.063.75-.71-.115-6.858-4.776-6.858-4.776-.312-.747.062-1.776.764-2.59.652-.854 1.58-1.432 2.376-1.282 0 0 5.83 5.055 6.087 5.725.375.973-.026.93-.307 2.173z"
-     id="path32"
-     style="fill:#cbcccc" />
+     id="path11" />
   <path
      fill="#282828"
      d="M44.107 50.648c4.58-2.59 5.913-7.103 4.105-10.405-1.405-2.566-3.713-3.05-5.307-1.81-1.58 1.23-1.72 2.697-1.248 4.154.961 2.97 4.83 4.997 2.45 8.061z"
-     id="path34"
-     style="fill:#282a36" />
+     id="path12" />
 </svg>

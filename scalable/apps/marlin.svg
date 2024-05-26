@@ -4,85 +4,101 @@
    height="64"
    viewBox="0 0 16.933 16.933"
    version="1.1"
-   id="svg21"
+   id="svg6"
    sodipodi:docname="marlin.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview23"
+     id="namedview6"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#ffffff"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="27.76055"
-     inkscape:cy="32.09421"
-     inkscape:window-width="1280"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg21" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
   <defs
-     id="defs7">
+     id="defs2">
     <linearGradient
        id="a"
-       x1="42"
-       x2="44"
-       y1="51"
-       y2="55"
-       gradientTransform="scale(.26458)"
+       x1="-197.72"
+       x2="-197.72"
+       y1="263.86"
+       y2="273.76"
+       gradientTransform="matrix(.18709 -.18709 .18709 .18709 1.12 -74.45)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
-         id="stop2" />
+         id="stop1" />
       <stop
          offset="1"
          stop-opacity="0"
-         id="stop4" />
+         id="stop2" />
     </linearGradient>
   </defs>
-  <circle
-     cx="8.466"
-     cy="8.466"
-     r="7.408"
-     fill="#44475a"
-     style="paint-order:stroke fill markers;fill:#13b1d5"
-     id="circle9" />
+  <path
+     fill="#0abfeb"
+     d="m7.144 2.377-3.704.001c-.294 0-.395.268-.53.529v.003h-.264c-.586 0-1.058.472-1.058 1.059v7.408c0 .586.472 1.058 1.058 1.058h11.642c.586 0 1.058-.472 1.058-1.058V3.969c0-.587-.472-1.059-1.058-1.059h-4.46c-.013 0-.025-.003-.038-.003H7.674c-.155-.25-.235-.53-.53-.53z"
+     style="paint-order:stroke fill markers"
+     id="path2" />
+  <path
+     d="m7.144 2.377-3.704.001c-.294 0-.395.268-.53.529v.003h-.264c-.586 0-1.058.472-1.058 1.059v7.408c0 .586.472 1.058 1.058 1.058h11.642c.586 0 1.058-.472 1.058-1.058V3.969c0-.587-.472-1.059-1.058-1.059l-6.614-.003c-.155-.25-.235-.53-.53-.53z"
+     opacity=".18"
+     style="paint-order:stroke fill markers"
+     id="path3" />
+  <rect
+     width="12.171"
+     height="5.027"
+     x="2.381"
+     y="3.7"
+     fill="#f8f8f2"
+     paint-order="markers stroke fill"
+     ry=".533"
+     id="rect3" />
+  <rect
+     width="3.175"
+     height=".529"
+     x="3.704"
+     y="2.64"
+     opacity=".25"
+     paint-order="stroke markers fill"
+     ry=".265"
+     id="rect4" />
+  <path
+     fill="#0abfeb"
+     d="m8.996 4.233-.794 1.059H1.587C1.001 5.292.53 5.764.53 6.35v7.408c0 .586.472 1.058 1.058 1.058h13.758c.587 0 1.059-.472 1.059-1.058V5.292c0-.587-.472-1.059-1.059-1.059z"
+     style="paint-order:stroke fill markers"
+     id="path4" />
   <path
      fill="url(#a)"
-     d="m15.164 11.613-7.327 4.23a7.408 7.408 0 0 0 .63.032 7.408 7.408 0 0 0 6.697-4.262z"
-     opacity=".1"
-     style="paint-order:stroke fill markers"
-     id="path11" />
-  <path
-     d="M8.466 1.058a7.408 7.408 0 0 0-6.692 4.234h5.052l.318-.53c.15-.251.443-.529.793-.529h6.608a7.408 7.408 0 0 0-6.079-3.175z"
+     d="m16.404 10.583-4.233 4.233h3.175c.586 0 1.058-.472 1.058-1.058z"
      opacity=".2"
-     id="path13" />
-  <path
-     fill="#fff"
-     d="M4.278 3.704a6.35 6.35 0 0 0-1.29 1.588h3.838l.318-.53c.15-.251.443-.529.793-.529h5.244a6.35 6.35 0 0 0-.523-.529z"
-     style="paint-order:stroke fill markers;fill:#f8f8f2"
-     id="path15" />
-  <path
-     d="M8.467 1.058A7.408 7.408 0 0 0 3.58 2.91h9.776a7.408 7.408 0 0 0-4.89-1.852z"
-     opacity=".15"
      style="paint-order:stroke fill markers"
-     id="path17" />
+     id="path5" />
   <rect
-     width="3.969"
+     width="4.233"
      height=".529"
-     x="9.26"
+     x="10.318"
      y="4.762"
      opacity=".25"
      ry=".265"
      style="paint-order:stroke markers fill"
-     id="rect19" />
+     id="rect5" />
+  <path
+     d="M8.467 7.782a.263.263 0 0 0-.187.078l-2.433 2.432a.265.265 0 1 0 .375.374l.128-.128V12.7h.53v-2.69L8.466 8.42l1.587 1.588v2.69h.53v-2.16l.127.127a.265.265 0 1 0 .375-.374L8.654 7.86a.263.263 0 0 0-.187-.078zm0 3.066a.528.528 0 0 0-.53.529V12.7h1.059v-1.323a.528.528 0 0 0-.53-.53z"
+     opacity=".15"
+     style="paint-order:stroke fill markers;fill:#1e1f29;opacity:0.45"
+     id="path6" />
 </svg>

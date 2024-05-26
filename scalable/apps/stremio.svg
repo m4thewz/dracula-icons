@@ -1,5 +1,47 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <path transform="scale(.26458)" d="m32 5a27 27 0 0 0-27 27h54a27 27 0 0 0-27-27z" fill="#9576c5" stroke-width="1.2525"/>
- <path transform="scale(.26458)" d="m5 32a27 27 0 0 0 27 27 27 27 0 0 0 27-27h-54z" fill="#515d85" stroke-width="1.2525"/>
- <path d="m11.112 8.4665-3.9687 2.9104v-5.8207z" fill="#f8f8f2" stroke-width=".32726"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="stremio.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     fill="#9576c5"
+     d="M8.467.794c-.402 0-.805.15-1.105.45L1.244 7.363c-.3.3-.45.702-.45 1.104H16.14c0-.402-.15-.804-.451-1.104L9.572 1.244c-.3-.3-.703-.45-1.105-.45zm7.672 7.673zm-.112.59z"
+     id="path1"
+     style="fill:#6272a4" />
+  <path
+     fill="#515d85"
+     d="M.794 8.466c0 .402.15.803.45 1.104l6.119 6.118c.6.601 1.607.602 2.208 0l6.117-6.118c.3-.3.451-.702.451-1.104z"
+     id="path2" />
+  <path
+     fill="#f8f8f2"
+     d="m11.112 8.466-3.968 2.91v-5.82z"
+     id="path3" />
 </svg>

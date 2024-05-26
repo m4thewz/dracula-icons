@@ -2,69 +2,67 @@
 <svg
    width="64"
    height="64"
-   version="1.1"
    viewBox="0 0 16.933 16.933"
-   id="svg16"
+   version="1.1"
+   id="svg4"
    sodipodi:docname="google-music.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs20" />
+     id="defs4" />
   <sodipodi:namedview
-     id="namedview18"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview4"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="12.96875"
-     inkscape:cx="28.260241"
-     inkscape:cy="32.038554"
-     inkscape:window-width="2560"
-     inkscape:window-height="1373"
-     inkscape:window-x="1911"
-     inkscape:window-y="-9"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg16" />
+     inkscape:current-layer="g4" />
   <g
-     transform="translate(0 -280.07)"
      paint-order="stroke markers fill"
-     id="g14">
-    <ellipse
-       cx="8.4665"
+     transform="translate(0 -280.07)"
+     id="g4">
+    <circle
+       cx="8.466"
        cy="288.53"
-       rx="7.1436"
-       ry="7.1436"
+       r="7.144"
        fill="#ff8242"
-       id="ellipse2"
+       id="circle1"
        style="fill:#fd7e7c" />
     <circle
        cx="8.467"
        cy="288.53"
        r="3.704"
        opacity=".15"
-       id="circle4" />
+       id="circle2" />
     <g
        fill="#f8f8f2"
-       id="g12">
+       id="g3">
       <ellipse
          cx="8.467"
          cy="288.53"
          rx="2.117"
          ry="1.587"
-         id="ellipse6" />
+         id="ellipse2" />
       <path
          d="M10.054 283.771h.529v4.762h-.529z"
-         id="path8" />
+         id="path2" />
       <path
-         d="M10.054 283.77l1.852-.528v1.058l-1.852.53z"
-         id="path10" />
+         d="m10.054 283.77 1.852-.528v1.058l-1.852.53z"
+         id="path3" />
     </g>
   </g>
 </svg>

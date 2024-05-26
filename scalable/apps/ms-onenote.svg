@@ -2,190 +2,222 @@
 <svg
    width="64"
    height="64"
-   version="1.1"
    viewBox="0 0 16.933 16.933"
-   id="svg38"
+   version="1.1"
+   id="svg18"
    sodipodi:docname="ms-onenote.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs42" />
   <sodipodi:namedview
-     id="namedview40"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview18"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg38" />
-  <circle
-     cx="8.4665"
-     cy="8.4665"
-     r="7.1436"
-     fill="#673773"
-     style="paint-order:stroke fill markers;fill:#bd93f9"
-     id="circle2" />
+     inkscape:current-layer="g18" />
+  <defs
+     id="defs2">
+    <linearGradient
+       xlink:href="#a"
+       id="b"
+       x1="41.088"
+       x2="41.088"
+       y1="56.971"
+       y2="26.486"
+       gradientTransform="translate(-17.024 328.332) scale(.26458)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="a">
+      <stop
+         offset="0"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop2" />
+    </linearGradient>
+  </defs>
   <g
-     transform="matrix(.73384 0 0 .73384 3.0856 2.1924)"
-     stroke-width=".91689"
-     id="g32">
-    <rect
-       transform="rotate(4.371)"
-       x="12.141"
-       y="2.3958"
-       width="2.9111"
-       height="6.3073"
-       rx=".13662"
-       ry=".12653"
-       fill="#592c64"
-       style="paint-order:markers stroke fill;fill:#7b7bbd"
-       id="rect4" />
-    <rect
-       transform="rotate(4.371)"
-       x="7.7737"
-       y="1.4257"
-       width="6.3073"
-       height="11.16"
-       rx=".48504"
-       ry=".48504"
-       fill="#592c64"
-       style="paint-order:markers stroke fill;fill:#7b7bbd"
-       id="rect6" />
-    <rect
-       transform="rotate(4.371)"
-       x="8.2588"
-       y="1.9108"
-       width="5.3372"
-       height="10.189"
-       rx="0"
-       ry="0"
-       fill="#f8f8f2"
-       style="paint-order:markers stroke fill"
-       id="rect8" />
+     paint-order="markers stroke fill"
+     id="g18">
     <g
-       fill="#673773"
-       id="g22"
-       style="fill:#7b7bbd">
+       transform="rotate(4.371 3694.454 -1081.184)"
+       id="g13">
       <rect
-         transform="rotate(4.371)"
-         x="8.9868"
-         y="3.1238"
-         width="3.8812"
-         height=".48504"
+         width="3.175"
+         height="6.879"
+         x="105.569"
+         y="280.331"
+         fill="#673773"
+         rx=".149"
+         ry=".138"
+         id="rect2"
+         style="fill:#9576c5" />
+      <rect
+         width="6.879"
+         height="12.171"
+         x="100.806"
+         y="279.273"
+         fill="#673773"
+         rx=".529"
+         ry=".529"
+         id="rect3"
+         style="fill:#9576c5" />
+      <rect
+         width="5.821"
+         height="11.112"
+         x="101.335"
+         y="279.802"
+         fill="#f8f8f2"
          rx="0"
          ry="0"
-         style="paint-order:markers stroke fill;fill:#7b7bbd"
-         id="rect10" />
+         id="rect4" />
       <rect
-         transform="rotate(4.371)"
-         x="8.9868"
-         y="10.401"
-         width="3.8812"
-         height=".48504"
+         width="4.233"
+         height=".529"
+         x="102.129"
+         y="281.125"
+         fill="#673773"
          rx="0"
          ry="0"
-         style="paint-order:markers stroke fill;fill:#7b7bbd"
+         id="rect5"
+         style="fill:#9576c5" />
+      <rect
+         width="4.233"
+         height=".529"
+         x="102.129"
+         y="289.062"
+         fill="#673773"
+         rx="0"
+         ry="0"
+         id="rect6"
+         style="fill:#9576c5" />
+      <rect
+         width="4.233"
+         height=".529"
+         x="102.129"
+         y="287.475"
+         fill="#673773"
+         rx="0"
+         ry="0"
+         id="rect7"
+         style="fill:#9576c5" />
+      <rect
+         width="4.233"
+         height=".529"
+         x="102.129"
+         y="285.887"
+         fill="#673773"
+         rx="0"
+         ry="0"
+         id="rect8"
+         style="fill:#9576c5" />
+      <rect
+         width="4.233"
+         height=".529"
+         x="102.129"
+         y="284.3"
+         fill="#673773"
+         rx="0"
+         ry="0"
+         id="rect9"
+         style="fill:#9576c5" />
+      <rect
+         width="4.233"
+         height=".529"
+         x="102.129"
+         y="282.712"
+         fill="#673773"
+         rx="0"
+         ry="0"
+         id="rect10"
+         style="fill:#9576c5" />
+      <rect
+         width="1.587"
+         height="1.587"
+         x="106.627"
+         y="280.86"
+         fill="#f8f8f2"
+         rx="0"
+         ry="0"
+         id="rect11" />
+      <rect
+         width=".529"
+         height="1.588"
+         x="107.685"
+         y="282.977"
+         fill="#f8f8f2"
+         rx="0"
+         ry="0"
          id="rect12" />
       <rect
-         transform="rotate(4.371)"
-         x="8.9868"
-         y="8.9461"
-         width="3.8812"
-         height=".48504"
+         width=".529"
+         height="1.588"
+         x="107.685"
+         y="285.094"
+         fill="#f8f8f2"
          rx="0"
          ry="0"
-         style="paint-order:markers stroke fill;fill:#7b7bbd"
-         id="rect14" />
-      <rect
-         transform="rotate(4.371)"
-         x="8.9868"
-         y="7.49"
-         width="3.8812"
-         height=".48504"
-         rx="0"
-         ry="0"
-         style="paint-order:markers stroke fill;fill:#7b7bbd"
-         id="rect16" />
-      <rect
-         transform="rotate(4.371)"
-         x="8.9868"
-         y="6.0349"
-         width="3.8812"
-         height=".48504"
-         rx="0"
-         ry="0"
-         style="paint-order:markers stroke fill;fill:#7b7bbd"
-         id="rect18" />
-      <rect
-         transform="rotate(4.371)"
-         x="8.9868"
-         y="4.5789"
-         width="3.8812"
-         height=".48504"
-         rx="0"
-         ry="0"
-         style="paint-order:markers stroke fill;fill:#7b7bbd"
-         id="rect20" />
+         id="rect13" />
     </g>
     <g
-       fill="#f8f8f2"
-       id="g30">
+       transform="translate(17.059 -328.332)"
+       id="g17">
       <rect
-         transform="rotate(4.371)"
-         x="13.111"
-         y="2.8808"
-         width="1.4551"
-         height="1.4551"
+         width="8.996"
+         height="13.758"
+         x="-64.002"
+         y="324.773"
+         fill="#885195"
          rx="0"
          ry="0"
-         style="paint-order:markers stroke fill"
-         id="rect24" />
-      <rect
-         transform="rotate(4.371)"
-         x="14.081"
-         y="4.8219"
-         width=".48504"
-         height="1.456"
-         rx="0"
-         ry="0"
-         style="paint-order:markers stroke fill"
-         id="rect26" />
-      <rect
-         transform="rotate(4.371)"
-         x="14.081"
-         y="6.7629"
-         width=".48504"
-         height="1.456"
-         rx="0"
-         ry="0"
-         style="paint-order:markers stroke fill"
-         id="rect28" />
+         transform="rotate(-8.462)"
+         id="rect14"
+         style="fill:#9576c5" />
+      <path
+         fill="url(#b)"
+         d="M-5.721 335.34a11.132 17.633 6.416 0 1-.06.665 11.132 17.633 6.416 0 1-1.933 7.4l3.123-.464z"
+         opacity=".25"
+         id="path14" />
+      <g
+         fill="#f8f8f2"
+         transform="matrix(.92652 -.14304 .15257 .9883 -134.56 84.683)"
+         id="g16">
+        <rect
+           width="1.058"
+           height="4.762"
+           x="88.106"
+           y="265.779"
+           rx="0"
+           ry="0"
+           id="rect15" />
+        <rect
+           width="1.058"
+           height="4.762"
+           x="91.281"
+           y="265.779"
+           rx="0"
+           ry="0"
+           id="rect16" />
+        <path
+           d="M88.106 265.78h1.059l3.175 4.762h-1.06z"
+           id="path16" />
+      </g>
     </g>
   </g>
-  <path
-     d="m8.4665 1.3229a7.1436 7.1436 0 0 0-7.1436 7.1436 7.1436 7.1436 0 0 0 7.1436 7.1436 7.1436 7.1436 0 0 0 3.4049-0.87176l-2.5269-13.355a7.1436 7.1436 0 0 0-0.87797-0.06046z"
-     fill="#885195"
-     stroke-width=".72129"
-     style="paint-order:markers stroke fill;fill:#9576c5"
-     id="path34" />
-  <path
-     d="m8.4272 6.0853-0.87918 0.13542 0.43405 2.813-2.1915-2.5406h-0.00101v-5.052e-4l-0.87874 0.13542v0.00101l0.65132 4.2187 0.87874-0.13592-0.43405-2.812 2.192 2.5416 0.88076-0.13592-9.63e-4 -1e-3z"
-     fill="#f8f8f2"
-     stroke-width=".86809"
-     style="paint-order:markers stroke fill"
-     id="path36" />
 </svg>

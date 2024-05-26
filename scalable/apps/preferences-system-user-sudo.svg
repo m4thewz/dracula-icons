@@ -3,77 +3,58 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg17508"
+   id="svg4"
    sodipodi:docname="preferences-system-user-sudo.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs17512" />
+     id="defs4" />
   <sodipodi:namedview
-     id="namedview17510"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview4"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg17508" />
-  <linearGradient
-     id="e"
-     x1="-21"
-     x2="-21"
-     y1="23"
-     y2="9"
-     gradientTransform="matrix(.5 0 0 1 395.07 515.8)"
-     gradientUnits="userSpaceOnUse">
-    <stop
-       stop-color="#7cbaf8"
-       offset="0"
-       id="stop17491" />
-    <stop
-       stop-color="#f4fcff"
-       offset="1"
-       id="stop17493" />
-  </linearGradient>
+     inkscape:current-layer="svg4" />
   <rect
-     x="5"
-     y="5"
      width="54"
      height="54"
-     rx="27"
+     x="5"
+     y="5"
      fill="#1ea8f7"
-     id="rect17496"
-     style="fill:#13b1d5" />
+     rx="27"
+     id="rect1"
+     style="fill:#515d85" />
   <path
-     d="m32 18c-3.878 0-7 3.122-7 7s3.122 7 7 7 7-3.122 7-7-3.122-7-7-7zm0 14c-7.756 0-14 6.244-14 14h16v-2h-13.82a11.96 11.96 0 0 1 11.82-10c0.718 0 1.414 0.076 2.09 0.208l0.52-1.946a13.308 13.308 0 0 0-2.61-0.262zm0-12c2.77 0 5 2.23 5 5 0 2.77-2.23 5-5 5-2.77 0-5-2.23-5-5 0-2.77 2.23-5 5-5z"
      fill="#f8f8f2"
-     id="path17498" />
+     d="M32 18c-3.878 0-7 3.122-7 7s3.122 7 7 7 7-3.122 7-7-3.122-7-7-7zm0 14c-7.756 0-14 6.244-14 14h16v-2H20.18A11.96 11.96 0 0 1 32 34c.718 0 1.414.076 2.09.208l.52-1.946A13.308 13.308 0 0 0 32 32zm0-12c2.77 0 5 2.23 5 5s-2.23 5-5 5-5-2.23-5-5 2.23-5 5-5z"
+     id="path1" />
   <g
-     transform="matrix(2 0 0 2 -769.14 -1031.6)"
      fill="#f8f8f2"
-     stroke-width=".3535"
-     id="g17506">
+     stroke-width=".353"
+     id="g4">
     <path
-       d="m406.57 532.8v6h1v-6z"
-       id="path17500" />
+       d="M44 34v12h2V34z"
+       id="path2" />
     <path
-       d="m402.57 537.8h6v-1h-6zm0-3h6v-1h-6z"
-       id="path17502" />
+       d="M36 44h12v-2H36zm0-6h12v-2H36z"
+       id="path3" />
     <path
-       d="m403.57 532.8v6h1v-6z"
-       id="path17504" />
+       d="M38 34v12h2V34z"
+       id="path4" />
   </g>
 </svg>

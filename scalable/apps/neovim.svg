@@ -3,75 +3,63 @@
    width="64"
    height="64"
    version="1.1"
-   viewBox="0 0 64 64"
-   id="svg20"
+   id="svg7"
    sodipodi:docname="neovim.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs24" />
+     id="defs7" />
   <sodipodi:namedview
-     id="namedview22"
+     id="namedview7"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#ffffff"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20" />
+     inkscape:current-layer="g7" />
   <g
-     transform="matrix(1.1739 0 0 1.1739 3.8261 -14.957)"
-     stroke-width=".85185"
-     id="g18">
-    <g
-       transform="translate(0,16)"
-       id="g6">
-      <path
-         d="m24 1c12.703 0 23 10.297 23 23s-10.297 23-23 23-23-10.297-23-23 10.297-23 23-23z"
-         fill="#cbcccc"
-         id="path2" />
-      <path
-         d="m24 4.4074c10.821 0 19.593 8.7715 19.593 19.593 0 10.821-8.7715 19.593-19.593 19.593-10.821 0-19.593-8.7715-19.593-19.593 0-10.821 8.7715-19.593 19.593-19.593z"
-         fill="#f8f8f2"
-         id="path4" />
-    </g>
+     stroke-width=".852"
+     id="g7">
     <path
-       d="m35 32-6-5v26l6-5z"
+       fill="#cbcccc"
+       d="M32 5c14.912 0 27 12.087 27 26.999s-12.088 27-27 27-27-12.088-27-27 12.088-27 27-27z"
+       id="path1" />
+    <path
+       fill="#f8f8f2"
+       d="M32 9c12.702 0 23 10.296 23 23 0 12.702-10.297 23-23 23S9 44.703 9 32 19.295 9 32 9z"
+       id="path2" />
+    <path
        fill="#6ba63f"
-       id="path8"
-       style="fill:#44c367" />
+       d="m44.913 22.608-7.044-5.87V47.26l7.044-5.87z"
+       id="path3" />
     <path
-       d="m13 32 6-5v26l-6-5z"
        fill="#42afe6"
-       id="path10"
-       style="fill:#13b1d5" />
+       d="m19.087 22.608 7.043-5.87V47.26l-7.043-5.87z"
+       id="path4" />
     <path
-       d="m19 27c-1.218 3.484-0.987 7.05 0 10.666l10 15.334c0.641-3.499 1.379-6.997 0-10.496z"
        fill="#96ca6b"
-       id="path12"
-       style="fill:#50fa7b" />
+       d="M26.13 16.738c-1.43 4.09-1.158 8.276 0 12.521l11.74 18c.752-4.107 1.618-8.213 0-12.32z"
+       id="path5" />
     <path
-       d="m29 42.504v10.496l4.5-3.75z"
        fill="#569e41"
-       id="path14"
-       style="fill:#44c367" />
+       d="M37.87 34.938V47.26l5.282-4.402z"
+       id="path6" />
     <path
-       d="m19 27-4.508 3.756 4.508 6.91z"
        fill="#70be63"
-       id="path16"
-       style="fill:#50fa7b" />
+       d="m26.13 16.738-5.292 4.41 5.292 8.111z"
+       id="path7" />
   </g>
 </svg>

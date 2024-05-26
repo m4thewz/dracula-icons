@@ -3,50 +3,46 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg1467"
+   id="svg1"
    sodipodi:docname="preferences-desktop-text-to-speech.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1471" />
+     id="defs1" />
   <sodipodi:namedview
-     id="namedview1469"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview1"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1467" />
+     inkscape:current-layer="g1" />
   <g
      transform="translate(-384.57 -483.8)"
-     id="g1465">
-    <ellipse
+     id="g1">
+    <circle
        cx="416.57"
        cy="515.8"
-       rx="27"
-       ry="27"
+       r="27"
        fill="#6ed105"
-       id="ellipse1461"
+       id="circle1"
        style="fill:#44c367" />
     <path
-       d="m412.57 501.8v12h12v6l6-6v-12zm2 2h14v8h-14zm-5 10-1 0.80079-4 3.332v-0.13281h-2v8h2v-0.13282l4 3.332 1 0.80078h1v-16z"
        fill="#f8f8f2"
-       stroke-opacity=".55027"
-       stroke-width="2.8"
-       id="path1463" />
+       d="M412.57 501.8v12h12v6l6-6v-12zm2 2h14v8h-14zm-5 10-1 .8-4 3.333v-.133h-2v8h2v-.133l4 3.332 1 .8h1v-16z"
+       id="path1" />
   </g>
 </svg>

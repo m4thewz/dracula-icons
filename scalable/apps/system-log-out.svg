@@ -4,49 +4,44 @@
    height="64"
    version="1.1"
    viewBox="0 0 16.933 16.933"
-   id="svg10"
+   id="svg3"
    sodipodi:docname="system-log-out.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs14" />
+     id="defs3" />
   <sodipodi:namedview
-     id="namedview12"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview3"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg10" />
+     inkscape:current-layer="svg3" />
   <path
-     d="m8.4665 1.3229c3.9454 0 7.1436 3.1982 7.1436 7.1436 0 3.9454-3.1982 7.1436-7.1436 7.1436-3.9454 0-7.1436-3.1982-7.1436-7.1436 0-3.9454 3.1982-7.1436 7.1436-7.1436z"
+     d="m8.466 1.323a7.143 7.143 0 1 1 0 14.287 7.143 7.143 0 0 1 0-14.287z"
      fill="#63a437"
-     stroke-width=".2991"
-     id="path2"
+     id="path1"
      style="fill:#44c367" />
-  <g
+  <path
+     d="m8.4665 4.2333a4.2332 4.2332 0 0 0-4.2333 4.2332 4.2332 4.2332 0 0 0 4.2333 4.2333 4.2332 4.2332 0 0 0 4.2332-4.2333 4.2332 4.2332 0 0 0-4.2332-4.2332zm0 1.0583a3.1749 3.1749 0 0 1 3.1749 3.1749 3.1749 3.1749 0 0 1-3.1749 3.1749 3.1749 3.1749 0 0 1-3.1749-3.1749 3.1749 3.1749 0 0 1 3.1749-3.1749z"
      fill="#f8f8f2"
-     stroke-width=".938"
-     id="g8">
-    <path
-       d="m4.233 7.902v1.13h4.234v-1.13"
-       id="path4" />
-    <path
-       d="m4.375 9.596a4.248 4.248 0 0 0 4.083 3.104c2.323 0 4.242-1.895 4.242-4.233 0-2.339-1.92-4.234-4.242-4.234a4.248 4.248 0 0 0-4.083 3.105h1.093a3.225 3.225 0 0 1 2.99-2.046c1.782 0 3.21 1.422 3.21 3.175 0 1.75-1.429 3.175-3.21 3.175a3.2 3.2 0 0 1-3.007-2.046"
-       id="path6" />
-  </g>
+     id="path2" />
+  <path
+     d="m8.0228 6.2217-0.74828 0.74828 1.4965 1.4965-1.4965 1.4965 0.74828 0.74828 2.2448-2.2448-0.74828-0.74828z"
+     fill="#f8f8f2"
+     id="path3" />
 </svg>

@@ -2,88 +2,80 @@
 <svg
    width="64"
    height="64"
-   version="1.1"
    viewBox="0 0 16.933 16.933"
-   id="svg16"
+   version="1.1"
+   id="svg4"
    sodipodi:docname="cheese.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs20" />
+     id="defs4" />
   <sodipodi:namedview
-     id="namedview18"
+     id="namedview4"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#f8f8f2"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="27.76055"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg16" />
+     inkscape:current-layer="svg4" />
   <rect
-     transform="matrix(0,-1,-1,0,0,0)"
-     x="-15.61"
-     y="-15.61"
      width="14.287"
      height="14.287"
-     rx="7.1441"
-     ry="7.1441"
+     x="-15.61"
+     y="-15.61"
      fill="#f8f8f2"
      stroke="#282a36"
      stroke-linecap="round"
-     stroke-opacity=".13725"
-     stroke-width=".26438"
-     style="paint-order:markers stroke fill;fill:#f8f8f2;stroke:#282a36"
-     id="rect2" />
+     stroke-opacity=".137"
+     stroke-width=".264"
+     rx="7.144"
+     ry="7.144"
+     style="paint-order:markers stroke fill;fill:#f8f8f2"
+     transform="matrix(0 -1 -1 0 0 0)"
+     id="rect1" />
   <circle
      cx="8.532"
-     cy="8.4665"
-     r="4.2332"
+     cy="8.466"
+     r="4.233"
      fill="#282a36"
-     stroke-width=".51435"
-     id="circle4"
-     style="fill:#282a36" />
+     id="circle1"
+     style="fill:#1e1f29" />
   <circle
-     transform="scale(1,-1)"
-     cx="8.4665"
-     cy="-8.4665"
-     r="2.9104"
+     cx="8.466"
+     cy="-8.466"
+     r="2.91"
      fill="#e91e63"
-     stroke-width=".51435"
-     id="circle6"
-     style="fill:#c7639f" />
+     transform="scale(1 -1)"
+     id="circle2"
+     style="fill:#ff5555" />
   <g
-     transform="matrix(.88887 0 0 .88887 .94133 .94044)"
      fill="#f8f8f2"
-     stroke-width=".57866"
-     id="g14"
-     style="fill:#f8f8f2">
+     stroke-width=".579"
+     id="g4">
     <path
-       d="m9.7288 7.2042a1.7855 1.7855 0 0 0-2.5255 0l1.2628 1.2628z"
+       d="M9.589 7.344a1.587 1.587 0 0 0-2.245 0l1.123 1.123z"
        opacity=".2"
-       id="path8"
-       style="fill:#f8f8f2" />
+       id="path2" />
     <path
-       d="m9.7288 7.2042a1.7855 1.7855 0 0 1 0 2.5255l-1.2628-1.2628zm-2.5255 2.5255a1.7855 1.7855 0 0 1 0-2.5255l1.2628 1.2628z"
+       d="M9.589 7.344a1.587 1.587 0 0 1 0 2.245L8.467 8.466zM7.344 9.589a1.587 1.587 0 0 1 0-2.245l1.123 1.123z"
        opacity=".4"
-       id="path10"
-       style="fill:#f8f8f2" />
+       id="path3" />
     <path
-       d="m7.2032 9.7298a1.7855 1.7855 0 0 0 2.5255 0l-1.2628-1.2628z"
+       d="M7.344 9.589a1.587 1.587 0 0 0 2.245 0L8.466 8.467z"
        opacity=".6"
-       id="path12"
-       style="fill:#f8f8f2" />
+       id="path4" />
   </g>
 </svg>

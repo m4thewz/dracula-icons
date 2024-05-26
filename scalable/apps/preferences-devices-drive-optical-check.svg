@@ -3,61 +3,57 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg43874"
+   id="svg5"
    sodipodi:docname="preferences-devices-drive-optical-check.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs43878" />
+     id="defs5" />
   <sodipodi:namedview
-     id="namedview43876"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview5"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.83317"
-     inkscape:cy="32.031403"
-     inkscape:window-width="1280"
-     inkscape:window-height="1361"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg43874" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5" />
   <path
-     d="m32 5a27 27 0 0 0-27 27 27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-27-27zm0 15.428a11.572 11.572 0 0 1 11.572 11.572 11.572 11.572 0 0 1-11.572 11.572 11.572 11.572 0 0 1-11.572-11.572 11.572 11.572 0 0 1 11.572-11.572z"
      fill="#c2c8cc"
-     id="path43862"
-     style="fill:#cbcccc" />
+     d="M32 5A27 27 0 0 0 5 32a27 27 0 0 0 27 27 27 27 0 0 0 27-27A27 27 0 0 0 32 5zm0 15.428A11.572 11.572 0 0 1 43.572 32 11.572 11.572 0 0 1 32 43.572 11.572 11.572 0 0 1 20.428 32 11.572 11.572 0 0 1 32 20.428z"
+     id="path1" />
   <path
-     d="M 32,9 A 23,23 0 0 0 9,32 23,23 0 0 0 32,55 23,23 0 0 0 55,32 23,23 0 0 0 32,9 Z m 0,13.143 A 9.857,9.857 0 0 1 41.857,32 9.857,9.857 0 0 1 32,41.857 9.857,9.857 0 0 1 22.143,32 9.857,9.857 0 0 1 32,22.143 Z"
      fill="#f8f8f2"
+     d="M32 9A23 23 0 0 0 9 32a23 23 0 0 0 23 23 23 23 0 0 0 23-23A23 23 0 0 0 32 9Zm0 13.143A9.857 9.857 0 0 1 41.857 32 9.857 9.857 0 0 1 32 41.857 9.857 9.857 0 0 1 22.143 32 9.857 9.857 0 0 1 32 22.143Z"
      opacity=".15"
-     id="path43864"
-     style="opacity:0.5" />
+     id="path2" />
   <path
-     d="m32 17a15 15 0 0 0-15 15 15 15 0 0 0 15 15 15 15 0 0 0 15-15 15 15 0 0 0-15-15zm0 9a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z"
+     d="M32 17a15 15 0 0 0-15 15 15 15 0 0 0 15 15 15 15 0 0 0 15-15 15 15 0 0 0-15-15zm0 9a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z"
      opacity=".35"
-     id="path43866" />
+     id="path3" />
   <g
-     transform="matrix(2 0 0 2 -43.625 -48.33)"
      stroke-width=".5"
-     id="g43872">
+     id="g5">
     <path
-       d="m46.813 44.165c-2.77 0-5 2.23-5 5s2.23 5 5 5 5-2.23 5-5-2.23-5-5-5z"
        fill="#2cc36c"
-       id="path43868"
+       d="M50.001 40c-5.54 0-10 4.46-10 10s4.46 10 10 10 10-4.46 10-10-4.46-10-10-10z"
+       id="path4"
        style="fill:#44c367" />
     <path
-       d="m49.312 46.665 1 1-4.5 4.5-2.5-2.5 1-1 1.5 1.5z"
        fill="#f8f8f2"
-       id="path43870" />
+       d="m54.999 45 2 2-9 9-5-5 2-2 3 3z"
+       id="path5" />
   </g>
 </svg>

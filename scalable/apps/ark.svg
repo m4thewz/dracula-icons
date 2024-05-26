@@ -3,97 +3,99 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg30"
+   id="svg11"
    sodipodi:docname="ark.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs34" />
+     id="defs11" />
   <sodipodi:namedview
-     id="namedview32"
+     id="namedview11"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#f8f8f2"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg30" />
+     inkscape:current-layer="g3" />
   <g
-     id="g10">
-    <path
-       d="m32 5a27 27 0 0 0-23.662 14h47.293a27 27 0 0 0-23.631-14z"
-       fill="#7bd57d"
-       style="paint-order:stroke fill markers;fill:#7afa99"
-       id="path2" />
-    <circle
-       cx="32"
-       cy="32"
-       r="23"
+     transform="translate(0 -3)"
+     id="g3">
+    <rect
+       width="28"
+       height="32"
+       x="28"
+       y="11"
        fill="#ffd351"
-       style="paint-order:stroke fill markers;fill:#f1fa8c"
-       id="circle4" />
-    <circle
-       cx="32"
-       cy="32"
-       r="19"
+       ry="2"
+       id="rect1"
+       style="fill:#f1fa8c" />
+    <rect
+       width="28"
+       height="32"
+       x="8"
+       y="9"
+       fill="#7bd57d"
+       ry="2"
+       id="rect2"
+       style="fill:#50fa7b" />
+    <rect
+       width="28"
+       height="32"
+       x="19"
+       y="15"
        fill="#707ed0"
-       style="paint-order:stroke fill markers;fill:#168daa"
-       id="circle6" />
+       ry="2"
+       id="rect3"
+       style="fill:#4cc3dc" />
     <path
-       d="m8.3379 19a27 27 0 0 0-3.3379 13 27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-3.3691-13h-47.293z"
        fill="#c49a6c"
-       style="paint-order:stroke fill markers;fill:#c7925b"
-       id="path8" />
+       d="M7.16 23C5.963 23 5 23.917 5 25.057v30.857C5 57.624 6.445 59 8.24 59h47.52c1.795 0 3.24-1.376 3.24-3.086V25.057c0-1.14-.963-2.057-2.16-2.057z"
+       id="path3"
+       style="fill:#c7925b" />
   </g>
   <path
-     d="m32 33a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2 2 2 0 0 0 2-2v-6a2 2 0 0 0-2-2zm0 7a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"
      fill="#f8f8f2"
-     id="path12" />
+     d="M32 33a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2 2 2 0 0 0 2-2v-6a2 2 0 0 0-2-2zm0 7a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"
+     id="path4" />
   <path
-     d="m32 21h2v2h-2z"
      fill="#f8f8f2"
-     id="path14" />
+     d="M32 21h2v2h-2z"
+     id="path5" />
   <path
-     d="m30 23h2v2h-2z"
      fill="#cbcccc"
-     id="path16" />
+     d="M30 23h2v2h-2z"
+     id="path6" />
   <path
-     d="m32 25h2v2h-2z"
      fill="#f8f8f2"
-     id="path18" />
+     d="M32 25h2v2h-2z"
+     id="path7" />
   <path
-     d="m30 27h2v2h-2z"
      fill="#cbcccc"
-     id="path20" />
+     d="M30 27h2v2h-2z"
+     id="path8" />
   <path
-     d="m32 29h2v2h-2z"
      fill="#f8f8f2"
-     id="path22" />
+     d="M32 29h2v2h-2z"
+     id="path9" />
   <path
-     d="m30 31h2v2h-2z"
      fill="#cbcccc"
-     id="path24" />
+     d="M30 31h2v2h-2z"
+     id="path10" />
   <path
-     d="m42 40c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h11c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm0 0.99805h2v4h-2zm3 2e-3h1v4h-1zm2 0h1v4h-1zm2 0h2v4h-2zm3 0h1v4h-1z"
      fill="#a97b50"
-     id="path26"
-     style="fill:#1e1f29;opacity:0.4" />
-  <path
-     d="m15 37-2 3h1v4h2v-4h1zm2 3h1v4h2v-4h1l-2-3zm-5 5v1h10v-1z"
-     fill="#a97b50"
-     id="path28"
-     style="fill:#1e1f29;opacity:0.4" />
+     d="M42 47c-.554 0-1 .446-1 1v4c0 .554.446 1 1 1h11c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1H42zm0 .998h2v4h-2v-4zM45 48h1v4h-1v-4zm2 0h1v4h-1v-4zm2 0h2v4h-2v-4zm3 0h1v4h-1v-4zM15 44l-2 3h1v4h2v-4h1zm2 3h1v4h2v-4h1l-2-3zm-5 5v1h10v-1z"
+     id="path11" />
 </svg>

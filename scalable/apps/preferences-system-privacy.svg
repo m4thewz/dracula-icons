@@ -2,70 +2,68 @@
 <svg
    width="64"
    height="64"
-   version="1.1"
    viewBox="0 0 16.933 16.933"
-   id="svg16"
+   version="1.1"
+   id="svg5"
    sodipodi:docname="preferences-system-privacy.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs20" />
+     id="defs5" />
   <sodipodi:namedview
-     id="namedview18"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview5"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg16" />
-  <circle
-     cx="8.4665"
-     cy="8.4665"
-     r="7.1436"
-     fill="#8a61b8"
-     style="paint-order:stroke fill markers;fill:#9576c5"
-     id="circle2" />
+     inkscape:current-layer="g5" />
   <g
      transform="translate(0 -280.07)"
-     id="g14">
+     id="g5">
+    <rect
+       width="13.758"
+       height="12.7"
+       x="1.587"
+       y="282.18"
+       fill="#8a61b8"
+       paint-order="stroke markers fill"
+       rx="2.116"
+       ry="2.116"
+       id="rect1"
+       style="fill:#6272a4" />
     <path
-       d="M13.131 288.238c-.1-.14-.209-.27-.32-.4-.593-.695-1.274-1.314-2.02-1.763-.476-.288-.987-.52-1.515-.63a3.997 3.997 0 0 0-.81-.087c-.268 0-.537.03-.806.086-.529.112-1.037.343-1.514.63-.746.45-1.428 1.07-2.024 1.764-.11.129-.216.26-.316.4a.48.48 0 0 0 0 .59c.303.426.665.803 1.03 1.15.792.742 1.699 1.364 2.698 1.616a3.808 3.808 0 0 0 1.863 0c.999-.252 1.907-.874 2.7-1.617a7.883 7.883 0 0 0 1.032-1.148.487.487 0 0 0 0-.591m0 0"
        fill="#ececeb"
-       id="path4"
-       style="fill:#cbcccc" />
+       d="M13.131 288.238c-.1-.14-.209-.27-.32-.4-.593-.695-1.274-1.314-2.02-1.763-.476-.288-.987-.52-1.515-.63a3.997 3.997 0 0 0-.81-.087c-.268 0-.537.03-.806.086-.529.112-1.037.343-1.514.63-.746.45-1.428 1.07-2.024 1.764-.11.129-.216.26-.316.4a.48.48 0 0 0 0 .59c.303.426.665.803 1.03 1.15.792.742 1.699 1.364 2.698 1.616a3.808 3.808 0 0 0 1.863 0c.999-.252 1.907-.874 2.7-1.617a7.883 7.883 0 0 0 1.032-1.148.487.487 0 0 0 0-.591m0 0"
+       id="path1" />
     <path
-       d="m10.85 288.53a2.382 2.382 0 1 1-4.763 0 2.382 2.382 0 0 1 4.763 0"
        fill="#4586f9"
-       id="path6"
-       style="fill:#70b7c8" />
+       d="M10.85 288.53a2.382 2.382 0 1 1-4.763 0 2.382 2.382 0 0 1 4.763 0"
+       id="path2" />
     <path
-       d="m9.792 288.53a1.322 1.322 0 1 1-2.645 0 1.322 1.322 0 0 1 2.645 0"
        fill="#141414"
-       id="path8"
-       style="fill:#282a36" />
+       d="M9.792 288.53a1.322 1.322 0 1 1-2.645 0 1.322 1.322 0 0 1 2.645 0"
+       id="path3" />
     <path
-       d="m9.527 288a0.529 0.529 0 1 1-1.058 0 0.529 0.529 0 0 1 1.058 0"
        fill="#f8f8f2"
-       id="path10"
-       style="fill:#f8f8f2" />
+       d="M9.527 288a.529.529 0 1 1-1.058 0 .529.529 0 0 1 1.058 0"
+       id="path4" />
     <path
-       d="M10.317 285.813l-4.3 5.099c.196.127.396.24.602.342l4.297-5.1c-.191-.134-.414-.246-.6-.34m0 0"
        fill="#d5122d"
-       id="path12"
-       style="fill:#c7484a" />
+       d="m10.317 285.813-4.3 5.099c.196.127.396.24.602.342l4.297-5.1c-.191-.134-.414-.246-.6-.34m0 0"
+       id="path5" />
   </g>
 </svg>

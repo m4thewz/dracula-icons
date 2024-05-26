@@ -2,72 +2,68 @@
 <svg
    width="64"
    height="64"
-   version="1.1"
    viewBox="0 0 16.933 16.933"
-   id="svg14"
+   version="1.1"
+   id="svg3"
    sodipodi:docname="AppImageLauncher.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs18" />
+     id="defs3" />
   <sodipodi:namedview
-     id="namedview16"
+     id="namedview3"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#f8f8f2"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
+     inkscape:current-layer="g2" />
   <g
      transform="translate(0 -280.07)"
-     id="g6">
+     id="g2">
     <circle
-       cx="8.4665"
+       cx="8.466"
        cy="288.54"
-       r="7.1436"
+       r="7.144"
        fill="#00415a"
-       stroke-width=".99995"
-       style="paint-order:stroke markers fill;fill:#515d85"
-       id="circle2" />
+       style="paint-order:stroke markers fill;fill:#44475a"
+       id="circle1" />
     <circle
-       cx="8.4665"
+       cx="8.466"
        cy="288.54"
-       r="5.8207"
+       r="5.821"
        fill="#f8f8f2"
        opacity=".1"
-       stroke-width=".99995"
        style="paint-order:stroke markers fill"
-       id="circle4" />
+       id="circle2" />
   </g>
   <g
-     transform="matrix(.095363 0 0 .095363 20.133 9.4373)"
      fill="#f8f8f2"
-     id="g12">
+     id="g3">
     <path
-       transform="matrix(2.7744 0 0 2.7744 -211.12 -98.961)"
-       d="m32 16.021a15.982 15.978 0 0 0-15.982 15.979 15.982 15.978 0 0 0 15.982 15.979 15.982 15.978 0 0 0 15.982-15.979 15.982 15.978 0 0 0-15.982-15.979zm0 1.9941a13.988 13.984 0 0 1 13.988 13.984 13.988 13.984 0 0 1-13.988 13.984 13.988 13.984 0 0 1-13.988-13.984 13.988 13.984 0 0 1 13.988-13.984z"
+       d="M32 16.021A15.982 15.978 0 0 0 16.018 32 15.982 15.978 0 0 0 32 47.979 15.982 15.978 0 0 0 47.982 32 15.982 15.978 0 0 0 32 16.021zm0 1.994A13.988 13.984 0 0 1 45.988 32 13.988 13.984 0 0 1 32 45.983 13.988 13.984 0 0 1 18.012 32 13.988 13.984 0 0 1 32 18.015z"
        opacity=".988"
        style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;paint-order:stroke fill markers"
-       id="path8" />
+       transform="matrix(.26458 0 0 .26458 0 0)"
+       id="path2" />
     <path
-       transform="matrix(.62646 0 0 .85194 5468.9 6903.1)"
-       d="m-8925.2-8160.4-54.587 67.21 47.756-19.744 6.8309-2.8217zm0 0 54.587 67.21-47.756-19.744-6.8309-2.8217z"
+       d="m-8925.2-8160.4-54.587 67.21 47.756-19.744 6.83-2.822zm0 0 54.587 67.21-47.756-19.744-6.83-2.822z"
        opacity=".988"
        style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;paint-order:stroke fill markers"
-       id="path10" />
+       transform="matrix(.05974 0 0 .08124 541.664 667.738)"
+       id="path3" />
   </g>
 </svg>

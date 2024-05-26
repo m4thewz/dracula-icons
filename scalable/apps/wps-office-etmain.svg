@@ -1,6 +1,55 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <circle cx="8.4665" cy="8.4665" r="7.1436" fill="#44c367" style="paint-order:stroke fill markers"/>
- <g fill="none" stroke="#f8f8f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-  <path d="M8.463 8.467h-2.35s-1.41 0-1.41-1.41 1.41-1.41 1.41-1.41h5.64M8.47 8.467h2.35s1.41 0 1.41 1.41-1.41 1.41-1.41 1.41H5.18" stroke-width=".9399"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="wps-office-etmain.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#f8f8f2"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.453125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <rect
+     width="13.229"
+     height="13.229"
+     x="1.852"
+     y="281.92"
+     fill="#44c367"
+     stroke-width=".962"
+     paint-order="markers stroke fill"
+     rx="2.035"
+     ry="2.035"
+     transform="matrix(1.04 0 0 1.04 -.339 -291.61)"
+     id="rect1"
+     style="fill:#44c367" />
+  <path
+     fill="none"
+     stroke="#f8f8f2"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width=".94"
+     d="M8.463 8.467h-2.35s-1.41 0-1.41-1.41 1.41-1.41 1.41-1.41h5.64M8.47 8.467h2.35s1.41 0 1.41 1.41-1.41 1.41-1.41 1.41H5.18"
+     id="path1" />
 </svg>

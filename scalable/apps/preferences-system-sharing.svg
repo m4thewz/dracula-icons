@@ -2,86 +2,82 @@
 <svg
    width="64"
    height="64"
-   version="1.1"
    viewBox="0 0 16.933 16.933"
-   id="svg20126"
+   version="1.1"
+   id="svg6"
    sodipodi:docname="preferences-system-sharing.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs20130" />
+     id="defs6" />
   <sodipodi:namedview
-     id="namedview20128"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview6"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20126" />
+     inkscape:current-layer="g6" />
   <g
      transform="translate(0 -280.07)"
-     id="g20124">
+     id="g6">
     <path
-       d="M1.911 285.094a7.408 7.408 0 0 0-.853 3.44 7.408 7.408 0 0 0 .852 3.439h13.112a7.408 7.408 0 0 0 .853-3.44 7.408 7.408 0 0 0-.852-3.44H1.911z"
        fill="#557cae"
+       d="M1.911 285.094a7.408 7.408 0 0 0-.853 3.44 7.408 7.408 0 0 0 .852 3.439h13.112a7.408 7.408 0 0 0 .853-3.44 7.408 7.408 0 0 0-.852-3.44H1.911z"
        paint-order="stroke markers fill"
-       id="path20108"
-       style="fill:#515d85" />
+       id="path1"
+       style="fill:#6272a4" />
     <circle
-       cx="8.4665"
+       cx="8.466"
        cy="288.53"
-       r="7.1436"
+       r="7.144"
        fill="#71a5e8"
-       style="paint-order:stroke markers fill;fill:#6272a4"
-       id="circle20110" />
+       style="paint-order:stroke markers fill;fill:#515d85"
+       id="circle1" />
     <path
        d="M8.467 282.713a5.82 5.82 0 0 0-4.498 2.131v1.458a5.027 5.027 0 0 0-.53 2.231 5.027 5.027 0 0 0 .53 2.242v1.446a5.82 5.82 0 0 0 4.498 2.133 5.82 5.82 0 0 0 4.498-2.131v-1.458a5.027 5.027 0 0 0 .529-2.232 5.027 5.027 0 0 0-.53-2.24v-1.448a5.82 5.82 0 0 0-4.497-2.132z"
        opacity=".25"
        paint-order="stroke markers fill"
-       id="path20112" />
+       id="path2" />
     <path
-       d="m10.583 285.89-4.233 2.645 4.233 2.646"
        fill="none"
-       opacity=".35"
        stroke="#282a36"
        stroke-width=".529"
-       id="path20114"
-       style="stroke:#282a36" />
+       d="m10.583 285.89-4.233 2.645 4.233 2.646"
+       opacity=".35"
+       id="path3" />
     <g
        fill="#f8f8f2"
-       id="g20122">
+       paint-order="markers stroke fill"
+       id="g5">
       <circle
          cx="5.821"
          cy="288.53"
          r="1.058"
-         paint-order="markers stroke fill"
-         id="circle20116" />
+         id="circle3" />
       <circle
          cx="10.583"
          cy="285.89"
          r="1.058"
-         paint-order="markers stroke fill"
-         id="circle20118" />
+         id="circle4" />
       <circle
          cx="10.583"
          cy="291.18"
          r="1.058"
-         paint-order="markers stroke fill"
-         id="circle20120" />
+         id="circle5" />
     </g>
   </g>
 </svg>

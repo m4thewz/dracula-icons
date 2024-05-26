@@ -4,191 +4,171 @@
    height="64"
    version="1.1"
    viewBox="0 0 16.933 16.933"
-   id="svg2939"
+   id="svg12"
    sodipodi:docname="preferences-desktop-keyboard-shortcuts.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs2943" />
+     id="defs12" />
   <sodipodi:namedview
-     id="namedview2941"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview12"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="15.921875"
-     inkscape:cx="29.393523"
-     inkscape:cy="32.031403"
-     inkscape:window-width="1280"
-     inkscape:window-height="1361"
-     inkscape:window-x="1280"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.875"
+     inkscape:cx="31.961165"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2939" />
-  <circle
-     cx="8.4665"
-     cy="8.4665"
-     r="7.1436"
-     fill="#44475a"
-     stroke-width=".26458"
-     style="paint-order:stroke fill markers;fill:#44475a"
-     id="circle2889" />
-  <g
-     transform="matrix(.26458 0 0 .26458 -4.2711e-8 .53577)"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <rect
+     x="1.3229"
+     y="3.1749"
+     width="14.287"
+     height="10.583"
+     rx="1.5875"
+     ry="1.5875"
+     fill="#717380"
+     stroke-width=".30144"
+     paint-order="markers stroke fill"
+     id="rect1"
+     style="fill:#282a36" />
+  <rect
+     x="2.91"
+     y="5.29"
+     width="1.587"
+     height="1.323"
+     ry=".265"
      fill="#f8f8f2"
-     id="g2933"
-     style="fill:#f8f8f2">
-    <rect
-       x="20"
-       y="37.975"
-       width="24"
-       height="5"
-       ry="1.025"
-       paint-order="markers stroke fill"
-       id="rect2891"
-       style="fill:#f8f8f2" />
-    <circle
-       cx="16"
-       cy="20"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2893" />
-    <circle
-       cx="22"
-       cy="20"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2895" />
-    <circle
-       cx="28"
-       cy="20"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2897" />
-    <circle
-       cx="34"
-       cy="20"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2899" />
-    <circle
-       cx="40"
-       cy="20"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2901" />
-    <circle
-       cx="46"
-       cy="20"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2903" />
-    <circle
-       cx="13"
-       cy="26"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2905" />
-    <circle
-       cx="19"
-       cy="26"
-       r="2"
-       fill="#fd7e7c"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2907" />
-    <circle
-       cx="25"
-       cy="26"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2909" />
-    <circle
-       cx="31"
-       cy="26"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2911" />
-    <circle
-       cx="37"
-       cy="26"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2913" />
-    <circle
-       cx="43"
-       cy="26"
-       r="2"
-       fill="#fd7e7c"
-       style="paint-order:stroke fill markers;fill:#ff5555"
-       id="circle2915" />
-    <circle
-       cx="49"
-       cy="26"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2917" />
-    <circle
-       cx="15"
-       cy="32"
-       r="2"
-       fill="#fd7e7c"
-       style="paint-order:stroke fill markers;fill:#ff5555"
-       id="circle2919" />
-    <circle
-       cx="21"
-       cy="32"
-       r="2"
-       fill="#fd7e7c"
-       style="paint-order:stroke fill markers;fill:#ff5555"
-       id="circle2921" />
-    <circle
-       cx="27"
-       cy="32"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2923" />
-    <circle
-       cx="33"
-       cy="32"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2925" />
-    <circle
-       cx="39"
-       cy="32"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2927" />
-    <circle
-       cx="45"
-       cy="32"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2929" />
-    <circle
-       cx="51"
-       cy="32"
-       r="2"
-       style="paint-order:stroke fill markers;fill:#f8f8f2"
-       id="circle2931" />
-  </g>
+     paint-order="markers stroke fill"
+     id="rect2" />
+  <path
+     d="m5.556 5.02a0.537 0.537 0 0 0-0.531 0.531v0.793c0 0.289 0.242 0.53 0.531 0.53h1.057c0.289 0 0.529-0.241 0.529-0.53v-0.793a0.536 0.536 0 0 0-0.53-0.531zm0 0.53h1.057v0.794h-1.059v-0.793l2e-3 -2e-3z"
+     color="#282a36"
+     fill="#fd7e7c"
+     style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill;shape-padding:0;text-decoration-color:#282a36;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#ff5555"
+     id="path2" />
+  <rect
+     x="5.292"
+     y="5.29"
+     width="1.587"
+     height="1.323"
+     ry=".265"
+     fill="#f8f8f2"
+     paint-order="markers stroke fill"
+     id="rect3" />
+  <rect
+     x="7.673"
+     y="5.29"
+     width="1.587"
+     height="1.323"
+     ry=".265"
+     fill="#f8f8f2"
+     paint-order="markers stroke fill"
+     id="rect4" />
+  <rect
+     x="10.054"
+     y="5.29"
+     width="1.587"
+     height="1.323"
+     ry=".265"
+     fill="#f8f8f2"
+     paint-order="markers stroke fill"
+     id="rect5" />
+  <rect
+     x="12.435"
+     y="5.29"
+     width="1.587"
+     height="1.323"
+     ry=".265"
+     fill="#f8f8f2"
+     paint-order="markers stroke fill"
+     id="rect6" />
+  <path
+     d="m3.176 7.4a0.537 0.537 0 0 0-0.531 0.531v0.793c0 0.289 0.242 0.53 0.53 0.53h1.057c0.29 0 0.53-0.241 0.53-0.53v-0.793a0.536 0.536 0 0 0-0.53-0.531zm0 0.53h1.056v0.794h-1.058v-0.793l2e-3 -2e-3z"
+     color="#282a36"
+     fill="#fd7e7c"
+     style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill;shape-padding:0;text-decoration-color:#282a36;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#ff5555"
+     id="path6" />
+  <rect
+     x="2.91"
+     y="7.67"
+     width="1.587"
+     height="1.323"
+     ry=".265"
+     fill="#f8f8f2"
+     paint-order="markers stroke fill"
+     id="rect7" />
+  <path
+     d="m5.556 7.4a0.537 0.537 0 0 0-0.531 0.531v0.793c0 0.289 0.242 0.53 0.531 0.53h1.057c0.289 0 0.529-0.241 0.529-0.53v-0.793a0.536 0.536 0 0 0-0.53-0.531zm0 0.53h1.057v0.794h-1.059v-0.793l2e-3 -2e-3z"
+     color="#282a36"
+     fill="#fd7e7c"
+     style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill;shape-padding:0;text-decoration-color:#282a36;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#ff5555"
+     id="path7" />
+  <rect
+     x="5.292"
+     y="7.67"
+     width="1.587"
+     height="1.323"
+     ry=".265"
+     fill="#f8f8f2"
+     paint-order="markers stroke fill"
+     id="rect8" />
+  <rect
+     x="7.673"
+     y="7.67"
+     width="1.587"
+     height="1.323"
+     ry=".265"
+     fill="#f8f8f2"
+     paint-order="markers stroke fill"
+     id="rect9" />
+  <rect
+     x="10.054"
+     y="7.67"
+     width="1.587"
+     height="1.323"
+     ry=".265"
+     fill="#f8f8f2"
+     paint-order="markers stroke fill"
+     id="rect10" />
+  <rect
+     x="5.292"
+     y="10.04"
+     width="6.35"
+     height="1.323"
+     ry=".271"
+     fill="#f8f8f2"
+     paint-order="markers stroke fill"
+     id="rect11" />
+  <rect
+     x="12.435"
+     y="7.6728"
+     width="1.587"
+     height="1.323"
+     ry=".265"
+     fill="#f8f8f2"
+     paint-order="markers stroke fill"
+     id="rect12" />
   <circle
      cx="13.229"
-     cy="13.229"
+     cy="11.377"
      r="3.175"
      fill="#9ea0a6"
-     id="circle2935"
-     style="fill:#9ea0a6;fill-opacity:1" />
+     id="circle12"
+     style="fill:#44475a" />
   <path
-     d="m12.753 11.324-0.042 0.502a1.497 1.497 0 0 0-0.438 0.253l-0.456-0.215-0.476 0.825 0.414 0.287a1.497 1.497 0 0 0-0.023 0.253 1.497 1.497 0 0 0 0.022 0.254l-0.413 0.286 0.476 0.825 0.455-0.214a1.497 1.497 0 0 0 0.439 0.251l0.042 0.503h0.952l0.042-0.502a1.497 1.497 0 0 0 0.438-0.253l0.456 0.215 0.476-0.825-0.414-0.288a1.497 1.497 0 0 0 0.023-0.252 1.497 1.497 0 0 0-0.022-0.254l0.413-0.286-0.476-0.825-0.455 0.214a1.497 1.497 0 0 0-0.439-0.251l-0.042-0.503zm0.476 1.27a0.635 0.635 0 0 1 0.635 0.635 0.635 0.635 0 0 1-0.635 0.635 0.635 0.635 0 0 1-0.635-0.635 0.635 0.635 0 0 1 0.635-0.635z"
+     d="m12.753 9.4719-0.042 0.502a1.497 1.497 0 0 0-0.438 0.253l-0.456-0.215-0.476 0.825 0.414 0.287a1.497 1.497 0 0 0-0.023 0.253 1.497 1.497 0 0 0 0.022 0.254l-0.413 0.286 0.476 0.825 0.455-0.214a1.497 1.497 0 0 0 0.439 0.251l0.042 0.503h0.952l0.042-0.502a1.497 1.497 0 0 0 0.438-0.253l0.456 0.215 0.476-0.825-0.414-0.288a1.497 1.497 0 0 0 0.023-0.252 1.497 1.497 0 0 0-0.022-0.254l0.413-0.286-0.476-0.825-0.455 0.214a1.497 1.497 0 0 0-0.439-0.251l-0.042-0.503zm0.476 1.27a0.635 0.635 0 0 1 0.635 0.635 0.635 0.635 0 0 1-0.635 0.635 0.635 0.635 0 0 1-0.635-0.635 0.635 0.635 0 0 1 0.635-0.635z"
      fill="#f8f8f2"
-     id="path2937"
-     style="fill:#f8f8f2" />
+     id="path12" />
 </svg>
