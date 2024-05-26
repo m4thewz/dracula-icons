@@ -1,3 +1,7 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <path d="M4 0v1h8V0zm0 3v1h8V3zM2 6v3h12V6zm1 1h10v1H3zm1 4v1h8v-1zm0 3v1h8v-1z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible" fill="#363636"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="opacity:0.3;fill:#f8f8f2" d="M -12,10 H -4 V 12 H -12 Z" transform="scale(-1,1)"/>
+ <path style="opacity:0.3;fill:#f8f8f2" d="M -12,4 H -4 V 6 H -12 Z" transform="scale(-1,1)"/>
+ <path style="fill:#f8f8f2" d="M -14,7 H -2 V 9 H -14 Z" transform="scale(-1,1)"/>
+ <path style="opacity:0.3;fill:#f8f8f2" d="M -10,13 H -6 V 14 H -10 Z" transform="scale(-1,1)"/>
+ <path style="opacity:0.3;fill:#f8f8f2" d="M -10,2 H -6 V 3 H -10 Z" transform="scale(-1,1)"/>
 </svg>

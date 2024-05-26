@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path d="M1 2c-.554 0-1 .446-1 1v10c0 .554.446 1 1 1h13c.554 0 1-.446 1-1V3c0-.554-.446-1-1-1zm0 1h13v10H1z" opacity=".5" fill="#363636" fill-rule="evenodd" paint-order="fill markers stroke"/><path opacity=".5" fill="#363636" fill-rule="evenodd" paint-order="fill markers stroke" d="M2 4h2v2H2zM5 4h2v2H5zM8 4h2v2H8zM11 4h2v2h-2zM2 7h2v2H2zM5 7h2v2H5zM8 7h2v2H8zM11 7h2v2h-2zM4 10h7v2H4z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#f8f8f2" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke-width="2">
+   <path d="m2 1c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 2h12v10h-12z" opacity=".35" stop-color="#000000" style="paint-order:stroke fill markers"/>
+   <rect x="3" y="4" width="2" height="2" rx="0" ry="0" opacity=".35" stop-color="#000000" style="paint-order:stroke fill markers"/>
+   <rect x="6" y="4" width="2" height="2" rx="0" ry="0" opacity=".35" stop-color="#000000" style="paint-order:stroke fill markers"/>
+   <rect x="9" y="4" width="2" height="2" rx="0" ry="0" opacity=".35" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  </g>
+  <rect x="12" y="4" width="1" height="2" rx="0" ry="0" opacity=".35" stop-color="#000000" stroke-width="1.4142" style="paint-order:stroke fill markers"/>
+  <rect x="3" y="7" width="1" height="2" rx="0" ry="0" opacity=".35" stop-color="#000000" stroke-width="1.4142" style="paint-order:stroke fill markers"/>
+  <g stroke-width="2">
+   <rect x="5" y="7" width="2" height="2" rx="0" ry="0" opacity=".35" stop-color="#000000" style="paint-order:stroke fill markers"/>
+   <rect x="8" y="7" width="2" height="2" rx="0" ry="0" opacity=".35" stop-color="#000000" style="paint-order:stroke fill markers"/>
+   <rect x="11" y="7" width="2" height="2" rx="0" ry="0" opacity=".35" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  </g>
+  <rect x="5" y="10" width="6" height="2" rx="0" ry="0" opacity=".35" stop-color="#000000" stroke-width="3.4641" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>
