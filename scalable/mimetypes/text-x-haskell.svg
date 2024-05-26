@@ -6,13 +6,13 @@
   </linearGradient>
  </defs>
  <g transform="scale(.26458)">
-  <rect x="8" y="4" width="48" height="56" ry="5" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
+  <rect x="8" y="4" width="48" height="56" ry="5" fill="#f8f8f2" style="paint-order:stroke fill markers"/>
   <path d="m56 46-14 14h9c2.77 0 5-2.23 5-5z" fill="url(#a)" fill-rule="evenodd" opacity=".1" stroke-width="8.8191" style="paint-order:stroke fill markers"/>
  </g>
  <g transform="matrix(.060632 0 0 .060632 -.6724 -.99217)" enable-background="new">
-  <path d="m83.997 204 32-48-32-48h24l32 48-32 48z" fill="#7839b7"/>
-  <path d="m116 204 32-48-32-48h24l64 96h-24l-20-30-20 30z" fill="#8c59d9"/>
-  <path transform="matrix(1.0909 0 0 1.0909 -13.818 -14.182)" d="m179.6 160 10.666 16h21.734v-16z" fill="#8f76e4"/>
-  <path transform="matrix(1.0909 0 0 1.0909 -13.818 -14.182)" d="m163.6 136 10.666 16h37.734v-16z" fill="#8f76e4"/>
+  <path d="m83.997 204 32-48-32-48h24l32 48-32 48z" fill="#9576c5"/>
+  <path d="m116 204 32-48-32-48h24l64 96h-24l-20-30-20 30z" fill="#9576c5"/>
+  <path transform="matrix(1.0909 0 0 1.0909 -13.818 -14.182)" d="m179.6 160 10.666 16h21.734v-16z" fill="#6272a4"/>
+  <path transform="matrix(1.0909 0 0 1.0909 -13.818 -14.182)" d="m163.6 136 10.666 16h37.734v-16z" fill="#6272a4"/>
  </g>
 </svg>

@@ -6,8 +6,8 @@
   </linearGradient>
  </defs>
  <g transform="scale(1)">
-  <rect x="8" y="4" width="48" height="56" ry="5" fill="#5f6c79" style="paint-order:stroke fill markers"/>
+  <rect x="8" y="4" width="48" height="56" ry="5" fill="#717380" style="paint-order:stroke fill markers"/>
   <path d="m56 46-14 14h9c2.77 0 5-2.23 5-5z" fill="url(#a)" fill-rule="evenodd" opacity=".15" stroke-width="8.8191" style="paint-order:stroke fill markers"/>
  </g>
- <path d="m21 22v22h22v-22zm1 1h20v20h-20zm2 3v2h16v-2zm0 4v1h7v-1zm9 0v1h7v-1zm-9 3v1h7v-1zm9 0v1h7v-1zm-9 3v1h7v-1zm9 0v1h7v-1zm-9 3v1h7v-1zm9 0v1h7v-1z" color="#000000" color-rendering="auto" fill="#fff" image-rendering="auto" opacity=".9" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ <path d="m21 22v22h22v-22zm1 1h20v20h-20zm2 3v2h16v-2zm0 4v1h7v-1zm9 0v1h7v-1zm-9 3v1h7v-1zm9 0v1h7v-1zm-9 3v1h7v-1zm9 0v1h7v-1zm-9 3v1h7v-1zm9 0v1h7v-1z" color="#282a36" color-rendering="auto" fill="#f8f8f2" image-rendering="auto" opacity=".9" shape-rendering="auto" solid-color="#282a36" style="isolation:auto;mix-blend-mode:normal"/>
 </svg>

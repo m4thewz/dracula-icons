@@ -6,8 +6,8 @@
   </linearGradient>
  </defs>
  <g transform="scale(.26458)">
-  <rect x="8" y="4" width="48" height="56" ry="5" fill="#2196f3" style="paint-order:stroke fill markers"/>
+  <rect x="8" y="4" width="48" height="56" ry="5" fill="#13b1d5" style="paint-order:stroke fill markers"/>
   <path d="m56 46-14 14h9c2.77 0 5-2.23 5-5z" fill="url(#a)" fill-rule="evenodd" opacity=".15" stroke-width="8.8191" style="paint-order:stroke fill markers"/>
  </g>
- <path d="m4.4978 12.964v-0.52916h5.2916v0.52916zm0-1.5875v-0.52916h7.4082v0.52916zm0-1.5875v-0.52916h7.4082v0.52916zm0-1.5875v-0.52916h7.4082v0.52916z" enable-background="new" fill="#fff"/>
+ <path d="m4.4978 12.964v-0.52916h5.2916v0.52916zm0-1.5875v-0.52916h7.4082v0.52916zm0-1.5875v-0.52916h7.4082v0.52916zm0-1.5875v-0.52916h7.4082v0.52916z" enable-background="new" fill="#f8f8f2"/>
 </svg>

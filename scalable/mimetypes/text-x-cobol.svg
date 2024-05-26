@@ -6,19 +6,19 @@
   </linearGradient>
  </defs>
  <g transform="scale(.26458)">
-  <rect x="8" y="4" width="48" height="56" ry="5" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
+  <rect x="8" y="4" width="48" height="56" ry="5" fill="#f8f8f2" style="paint-order:stroke fill markers"/>
   <path d="m56 46-14 14h9c2.77 0 5-2.23 5-5z" fill="url(#a)" fill-rule="evenodd" opacity=".1" stroke-width="8.8191" style="paint-order:stroke fill markers"/>
  </g>
  <g transform="translate(-22.754 .13229)">
-  <path d="m29.104 3.4395v0.26458h3.1749v-0.26458zm0 0.79373v0.26458h5.8207v-0.26458zm0 0.79374v0.26458h2.1166v-0.26458z" enable-background="new" fill="#76c22b"/>
-  <path d="m27.516 11.377v0.26458h7.4082v-0.26458z" enable-background="new" fill="#76c22b"/>
-  <path d="m28.574 6.6145v0.26458h4.3655v-0.26458zm0 0.79373v0.26458h1.5875v-0.26458zm0 0.79373v0.26458h3.7041v-0.26458z" enable-background="new" fill="#8f76e4"/>
-  <path d="m27.516 5.8207v0.26458h2.1166v-0.26458z" enable-background="new" fill="#46a926"/>
-  <path d="m30.162 8.9957v0.26458h1.5875v-0.26458zm-1.5875 0.79373v0.26458h3.1749v-0.26458z" enable-background="new" fill="#76c22b"/>
-  <path d="m27.516 8.9957v0.26458h2.1166v-0.26458zm0 1.5875v0.26458h2.1166v-0.26458z" enable-background="new" fill="#46a926"/>
-  <path d="m27.516 3.4395v0.26458h1.0583v-0.26458zm0 0.79373v0.26458h1.0583v-0.26458zm0 0.79374v0.26458h1.0583v-0.26458z" enable-background="new" fill="#46a926"/>
-  <path d="m32.279 9.7894v0.26458h1.5875v-0.26458z" enable-background="new" fill="#f22c42"/>
-  <path d="m30.691 7.4082v0.26458h1.5875v-0.26458z" enable-background="new" fill="#f22c42"/>
-  <path d="m27.516 12.171v0.26458h7.4082v-0.26458zm0 0.79374v0.26458h3.7041v-0.26458z" enable-background="new" fill="#76c22b"/>
+  <path d="m29.104 3.4395v0.26458h3.1749v-0.26458zm0 0.79373v0.26458h5.8207v-0.26458zm0 0.79374v0.26458h2.1166v-0.26458z" enable-background="new" fill="#50fa7b"/>
+  <path d="m27.516 11.377v0.26458h7.4082v-0.26458z" enable-background="new" fill="#50fa7b"/>
+  <path d="m28.574 6.6145v0.26458h4.3655v-0.26458zm0 0.79373v0.26458h1.5875v-0.26458zm0 0.79373v0.26458h3.7041v-0.26458z" enable-background="new" fill="#6272a4"/>
+  <path d="m27.516 5.8207v0.26458h2.1166v-0.26458z" enable-background="new" fill="#44c367"/>
+  <path d="m30.162 8.9957v0.26458h1.5875v-0.26458zm-1.5875 0.79373v0.26458h3.1749v-0.26458z" enable-background="new" fill="#50fa7b"/>
+  <path d="m27.516 8.9957v0.26458h2.1166v-0.26458zm0 1.5875v0.26458h2.1166v-0.26458z" enable-background="new" fill="#44c367"/>
+  <path d="m27.516 3.4395v0.26458h1.0583v-0.26458zm0 0.79373v0.26458h1.0583v-0.26458zm0 0.79374v0.26458h1.0583v-0.26458z" enable-background="new" fill="#44c367"/>
+  <path d="m32.279 9.7894v0.26458h1.5875v-0.26458z" enable-background="new" fill="#c7484a"/>
+  <path d="m30.691 7.4082v0.26458h1.5875v-0.26458z" enable-background="new" fill="#c7484a"/>
+  <path d="m27.516 12.171v0.26458h7.4082v-0.26458zm0 0.79374v0.26458h3.7041v-0.26458z" enable-background="new" fill="#50fa7b"/>
  </g>
 </svg>

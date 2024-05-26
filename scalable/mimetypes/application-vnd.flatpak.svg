@@ -6,8 +6,8 @@
   </linearGradient>
  </defs>
  <g transform="scale(.26458)">
-  <rect x="8" y="4" width="48" height="56" ry="5" fill="#40ace8" style="paint-order:stroke fill markers"/>
+  <rect x="8" y="4" width="48" height="56" ry="5" fill="#13b1d5" style="paint-order:stroke fill markers"/>
   <path d="m56 46-14 14h9c2.77 0 5-2.23 5-5z" fill="url(#a)" fill-rule="evenodd" opacity=".15" stroke-width="8.8191" style="paint-order:stroke fill markers"/>
  </g>
- <path d="m8.4665 4.3296-3.7041 1.9945v4.2847l3.7041 1.9945 3.7041-1.9945v-4.2847zm0 0.60098 2.8816 1.5516-2.8816 1.5516-2.8816-1.5516z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m8.4665 4.3296-3.7041 1.9945v4.2847l3.7041 1.9945 3.7041-1.9945v-4.2847zm0 0.60098 2.8816 1.5516-2.8816 1.5516-2.8816-1.5516z" color="#282a36" color-rendering="auto" dominant-baseline="auto" fill="#f8f8f2" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#282a36" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#282a36;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
 </svg>

@@ -6,10 +6,10 @@
   </linearGradient>
  </defs>
  <g transform="scale(.26458)">
-  <rect x="8" y="4" width="48" height="56" ry="5" fill="#55c1ec" style="paint-order:stroke fill markers"/>
+  <rect x="8" y="4" width="48" height="56" ry="5" fill="#72bfd0" style="paint-order:stroke fill markers"/>
   <path d="m56 46-14 14h9c2.77 0 5-2.23 5-5z" fill="url(#a)" fill-rule="evenodd" opacity=".1" stroke-width="8.8191" style="paint-order:stroke fill markers"/>
  </g>
- <g transform="matrix(.90322 0 0 .90322 .81896 -.26851)" fill="#fff">
+ <g transform="matrix(.90322 0 0 .90322 .81896 -.26851)" fill="#f8f8f2">
   <path d="m8.467 6.238a3.44 3.44 0 0 0-3.44 3.44 3.44 3.44 0 0 0 3.44 3.439 3.44 3.44 0 0 0 3.44-3.44 3.44 3.44 0 0 0-3.44-3.44zm0 1.393a2.046 2.046 0 0 1 2.046 2.046 2.046 2.046 0 0 1-2.046 2.045 2.046 2.046 0 0 1-2.046-2.045 2.046 2.046 0 0 1 2.046-2.046z" opacity=".15" style="paint-order:stroke markers fill"/>
   <g transform="translate(-4.2406e-8,-280.07)" style="paint-order:stroke markers fill">
    <path d="m8.467 286.83a2.91 2.91 0 0 0-2.91 2.91 2.91 2.91 0 0 0 2.91 2.911 2.91 2.91 0 0 0 2.91-2.91 2.91 2.91 0 0 0-2.91-2.91zm0 1.323a1.587 1.587 0 0 1 1.587 1.588 1.587 1.587 0 0 1-1.587 1.587 1.587 1.587 0 0 1-1.588-1.587 1.587 1.587 0 0 1 1.588-1.588z"/>

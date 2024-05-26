@@ -6,12 +6,12 @@
   </linearGradient>
  </defs>
  <g transform="scale(1)">
-  <rect x="8" y="4" width="48" height="56" ry="5" fill="#2095f2" style="paint-order:stroke fill markers"/>
+  <rect x="8" y="4" width="48" height="56" ry="5" fill="#168daa" style="paint-order:stroke fill markers"/>
   <path d="m56 46-14 14h9c2.77 0 5-2.23 5-5z" fill="url(#a)" fill-rule="evenodd" opacity=".15" stroke-width="8.8191" style="paint-order:stroke fill markers"/>
  </g>
- <g fill="#fff">
-  <rect x="35.003" y="4" width="4" height="55.999" color="#000000" opacity=".25" stroke-width="3.7796"/>
-  <rect x="36.972" y="4" width="2.0281" height="55.999" color="#000000" opacity=".25" stroke-width="3.7796"/>
+ <g fill="#f8f8f2">
+  <rect x="35.003" y="4" width="4" height="55.999" color="#282a36" opacity=".25" stroke-width="3.7796"/>
+  <rect x="36.972" y="4" width="2.0281" height="55.999" color="#282a36" opacity=".25" stroke-width="3.7796"/>
   <path d="m16 38c-1.108 0-2 0.892-2 2v12c0 1.108 0.89201 2 2 2h12c1.108 0 2-0.892 2-2v-12c0-1.108-0.89201-2-2-2zm0 2h12v2h-12zm0 4h9.0001v3h-9.0001zm10 0h2v3h-2zm-10 5h9.0001v3h-9.0001zm10 0h2v3h-2z" opacity=".5" style="paint-order:fill markers stroke"/>
  </g>
 </svg>

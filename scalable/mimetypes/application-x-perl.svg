@@ -6,10 +6,10 @@
   </linearGradient>
  </defs>
  <g transform="scale(.26458)">
-  <rect x="8" y="4" width="48" height="56" ry="5" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
+  <rect x="8" y="4" width="48" height="56" ry="5" fill="#f8f8f2" style="paint-order:stroke fill markers"/>
   <path d="m56 46-14 14h9c2.77 0 5-2.23 5-5z" fill="url(#a)" fill-rule="evenodd" opacity=".1" stroke-width="8.8191" style="paint-order:stroke fill markers"/>
  </g>
- <g transform="translate(-20.252 -1.6829)" fill="none" stroke="#1463a5" stroke-width=".2634">
+ <g transform="translate(-20.252 -1.6829)" fill="none" stroke="#6272a4" stroke-width=".2634">
   <path d="m26.875 8.9206s-1.1178 2.4086-0.91522 3.4756c0.14089 0.74203 0.47626 1.2513 1.1786 1.5291 0.41633 0.16464 1.5804-0.2634 1.5804-0.2634v-1.8438s-1.0536-0.34572-1.2676-1.6792c0 0 0.11324 1.1396 0.32726 1.1725" enable-background="new" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="m26.414 6.8134c-0.80667-0.72436-1.8109-0.42803-1.8109-0.42803s0.5268 1.6627 1.5146 1.4981" enable-background="new"/>
   <path d="m26.611 13.662c-0.2634 1.0536 0.5268 1.317 2.1072 0.79021 1.5804 0.5268 2.3706 0.2634 2.1072-0.79021" enable-background="new" stroke-linecap="round"/>

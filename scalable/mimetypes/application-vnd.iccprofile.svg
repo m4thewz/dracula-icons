@@ -6,8 +6,8 @@
   </linearGradient>
  </defs>
  <g transform="scale(1)">
-  <rect x="8" y="4" width="48" height="56" ry="5" fill="#fad65c" style="paint-order:stroke fill markers"/>
+  <rect x="8" y="4" width="48" height="56" ry="5" fill="#bcc373" style="paint-order:stroke fill markers"/>
   <path d="m56 46-14 14h9c2.77 0 5-2.23 5-5z" fill="url(#a)" fill-rule="evenodd" opacity=".15" stroke-width="8.8191" style="paint-order:stroke fill markers"/>
  </g>
- <path d="m32 21c-1.876 7-7 11.134-7 15s3.134 7 7 7 7-3.134 7-7-5.124-8-7-15m4.8125 11.428c0.7688 1.0325 1.1851 2.285 1.1875 3.5723 0 3.3137-2.6863 6-6 6-1.2849-0.0025-2.535-0.41738-3.5664-1.1836 0.51355 0.12001 1.039 0.1816 1.5664 0.18359 3.866 0 7-3.134 7-7-0.0028-0.52949-0.06574-1.057-0.1875-1.5723" color="#4d4d4d" color-rendering="auto" fill="#fff" fill-rule="evenodd" image-rendering="auto" opacity=".9" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ <path d="m32 21c-1.876 7-7 11.134-7 15s3.134 7 7 7 7-3.134 7-7-5.124-8-7-15m4.8125 11.428c0.7688 1.0325 1.1851 2.285 1.1875 3.5723 0 3.3137-2.6863 6-6 6-1.2849-0.0025-2.535-0.41738-3.5664-1.1836 0.51355 0.12001 1.039 0.1816 1.5664 0.18359 3.866 0 7-3.134 7-7-0.0028-0.52949-0.06574-1.057-0.1875-1.5723" color="#44475a" color-rendering="auto" fill="#f8f8f2" fill-rule="evenodd" image-rendering="auto" opacity=".9" shape-rendering="auto" solid-color="#282a36" style="isolation:auto;mix-blend-mode:normal"/>
 </svg>
