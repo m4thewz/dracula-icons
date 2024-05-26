@@ -22,7 +22,7 @@ If you would like to support development by making a donation, please visit my p
 ## Install
 #### With a terminal
 ```
-git clone https://github.com/m4thewz/dracula-icons ~/.icons/dracula-icons
+git clone -b circle https://github.com/m4thewz/dracula-icons ~/.icons/dracula-icons
 ```
 #### Manually
 Download the repository content and move to `~/.icons` (create it if necessary). Or to `/usr/share/icons` if you want to add the theme for all users.
