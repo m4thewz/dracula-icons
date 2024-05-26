@@ -1,32 +1,29 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <circle cx="32" cy="32" r="27" fill="#f2f2f2" style="paint-order:stroke fill markers"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-26" y="-53" width="10" height="42" rx="2" ry="2" fill="#666" stroke-width=".61237"/>
- <circle cx="49" cy="21" r="1" fill="#9eee5a" stroke-width=".33333"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-37" y="-53" width="10" height="42" rx="2" ry="2" fill="#666" stroke-width=".61237"/>
- <circle cx="49" cy="32" r="1" fill="#9eee5a" stroke-width=".33333"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-48" y="-53" width="10" height="42" rx="2" ry="2" fill="#666" stroke-width=".61237"/>
- <g fill="#9eee5a" stroke-width=".33333">
-  <circle cx="49" cy="43" r="1"/>
-  <circle cx="45" cy="21" r="1" opacity=".6"/>
-  <circle cx="45" cy="32" r="1" opacity=".6"/>
-  <circle cx="45" cy="43" r="1" opacity=".6"/>
-  <circle cx="41" cy="21" r="1" opacity=".3"/>
-  <circle cx="41" cy="32" r="1" opacity=".3"/>
-  <circle cx="41" cy="43" r="1" opacity=".3"/>
- </g>
- <g transform="translate(0 -.5)">
-  <rect transform="rotate(-45)" x="-6.8891" y="26.017" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
-  <rect transform="rotate(-45)" x="-4.7678" y="28.138" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
-  <rect transform="rotate(-45)" x="-2.4822" y="30.423" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
- </g>
- <g transform="translate(0,10.5)">
-  <rect transform="rotate(-45)" x="-6.8891" y="26.017" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
-  <rect transform="rotate(-45)" x="-4.7678" y="28.138" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
-  <rect transform="rotate(-45)" x="-2.4822" y="30.423" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
- </g>
- <g transform="translate(0,21.5)">
-  <rect transform="rotate(-45)" x="-6.8891" y="26.017" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
-  <rect transform="rotate(-45)" x="-4.7678" y="28.138" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
-  <rect transform="rotate(-45)" x="-2.4822" y="30.423" width="6" height="1" ry=".5" opacity=".25" style="paint-order:stroke fill markers"/>
- </g>
+ <defs>
+  <linearGradient id="b" x1="37.648" x2="60" y1="14" y2="14" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect transform="matrix(0 -1 -1 0 0 0)" x="-59" y="-60" width="18" height="56" rx="2.5" ry="2.5" fill="#717380"/>
+ <path d="m24 47-4 6m-2-6-4 6m-2-6-4 6m22-6-4 6" fill="none" opacity=".5" stroke="#282a36" stroke-linecap="round" stroke-width="3"/>
+ <circle cx="40.5" cy="46.5" r="2.5" fill="#76ff03"/>
+ <circle cx="47.5" cy="46.5" r="2.5" fill="#ff0"/>
+ <circle cx="54.5" cy="46.5" r="2.5" fill="#ffcd40"/>
+ <rect transform="matrix(0 -1 -1 0 0 0)" x="-41" y="-60" width="18" height="56" rx="2.5" ry="2.5" fill="#717380"/>
+ <path d="m24 29-4 6m-2-6-4 6m-2-6-4 6m22-6-4 6" fill="none" opacity=".5" stroke="#282a36" stroke-linecap="round" stroke-width="3"/>
+ <circle cx="40.5" cy="28.5" r="2.5" fill="#76ff03"/>
+ <circle cx="47.5" cy="28.5" r="2.5" fill="#ff0"/>
+ <circle cx="54.5" cy="28.5" r="2.5" fill="#ffcd40"/>
+ <rect transform="matrix(0 -1 -1 0 0 0)" x="-23" y="-60" width="18" height="56" rx="2.5" ry="2.5" fill="#8e8e8e"/>
+ <path d="m24 11-4 6m-2-6-4 6m-2-6-4 6m22-6-4 6" fill="none" opacity=".5" stroke="#282a36" stroke-linecap="round" stroke-width="3"/>
+ <circle cx="39.5" cy="10.5" r="2.5" fill="#76ff03"/>
+ <circle cx="47.5" cy="10.5" r="2.5" fill="#ff0"/>
+ <circle cx="54.5" cy="10.5" r="2.5" fill="#ffcd40"/>
+ <path d="M48.482 5a31.16 31.16 0 0 1-10.834 18H57.5c1.385 0 2.5-1.115 2.5-2.5v-13C60 6.115 58.885 5 57.5 5h-9.018z" fill="url(#b)" opacity=".25"/>
+ <rect transform="matrix(0 -1 -1 0 0 0)" x="-23" y="-60" width="18" height="56" rx="2.5" ry="2.5" fill="#717380"/>
+ <path d="m24 11-4 6m-2-6-4 6m-2-6-4 6m22-6-4 6" fill="none" opacity=".5" stroke="#282a36" stroke-linecap="round" stroke-width="3"/>
+ <circle cx="39.5" cy="10.5" r="2.5" fill="#76ff03"/>
+ <circle cx="47.5" cy="10.5" r="2.5" fill="#ff0"/>
+ <circle cx="54.5" cy="10.5" r="2.5" fill="#ffcd40"/>
 </svg>

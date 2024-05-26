@@ -1,12 +1,12 @@
 <svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="d" x1="-55" x2="-22" y1="-32" y2="-32" gradientTransform="matrix(0 1 -1.7778 0 -24.889 77)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="d" x1="-55" x2="-22" y1="-32" y2="-32" gradientTransform="translate(77)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#388dd4" offset="0"/>
    <stop stop-color="#388dd4" stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
- <circle cx="32" cy="32" r="27" fill="#4f4f4f" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
- <circle cx="32" cy="32" r="23" fill="#fff" stroke-width="3.2197" style="paint-order:stroke fill markers"/>
- <path d="m11.32 22a23 23 0 0 0-2.3203 10 23 23 0 0 0 23 23 23 23 0 0 0 23-23 23 23 0 0 0-2.3086-10h-41.371z" fill="url(#d)" opacity=".5" stroke-width="1.3333"/>
- <path d="m7.3652 21a27 27 0 0 0-1.1523 3h51.545a27 27 0 0 0-1.1367-3h-49.256z" fill="#388dd4"/>
+ <rect transform="matrix(0 -1 -1 0 0 0)" x="-58" y="-53" width="52" height="42" rx="2.786" ry="2.8" fill="#44475a"/>
+ <rect transform="matrix(0 -1 -1 0 0 0)" x="-55" y="-50" width="46" height="36" rx="0" ry="0" fill="#f8f8f2"/>
+ <rect transform="rotate(90)" x="22" y="-50" width="33" height="36" rx="0" ry="0" fill="url(#d)" opacity=".5"/>
+ <rect x="3.5" y="21" width="57" height="3" rx="1" ry="1.006" fill="#388dd4" fill-rule="evenodd"/>
 </svg>
