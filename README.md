@@ -16,13 +16,11 @@
 <img alt="preview" src="./Preview.png">
 
 ## Donate
-If you would like to support development by making a donation, please visit my page on [Buy Me a Coffee](https://buymeacoffee.com/matheusvitor).
-
 <a href="https://buymeacoffee.com/matheusvitor"><img alt="Buy me a coffee" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=matheusvitor&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 ## Install
 #### With a terminal
 ```
-git clone -b circle https://github.com/m4thewz/dracula-icons ~/.icons/dracula-icons
+git clone -b circle https://github.com/m4thewz/dracula-icons ~/.icons/dracula-icons-circle
 ```
 #### Manually
 Download the repository content and move to `~/.icons` (create it if necessary). Or to `/usr/share/icons` if you want to add the theme for all users.
